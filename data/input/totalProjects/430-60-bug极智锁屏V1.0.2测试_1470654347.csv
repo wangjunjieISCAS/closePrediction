@@ -1,0 +1,131 @@
+case编号,用户id,case标题,地域,机型,操作系统,网络环境,运营商,ROM信息,bug详情,复现步骤,截图,是否未知,优先级,审核状态,提交时间,,重复情况
+0,531756,极智锁屏V1.0.2自由测试,山西省|太原市|古交市|青山路|19,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,中国移动,4.4.058.P0.150407.8675-A,打开app，使用壁纸美化功能无效。,打开app，点击“壁纸美化”，点击任意一张壁纸，点击使用，打√，壁纸并没有被更换。我的手机为酷派大神f2，系统是miui7。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30120202_Screenshot_2016-06-21-17-43-42_com.baidu.locker.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30120211_Screenshot_2016-06-21-17-43-53_com.baidu.locker.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,6
+0,531756,极智锁屏V1.0.2自由测试,山西省|太原市|古交市|青山路|19,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,中国移动,4.4.058.P0.150407.8675-A,本app的密码安全功能无效，按手机home键可以直接绕过该功能进入手机界面。,本app的密码安全功能无效，按手机home键可以直接绕过该功能进入手机界面。打击app，点击“密码安全”，设置好密码后，锁屏，再亮屏，点击home键可以绕过本app，甚至可以长按菜单键结束后台app。这个功能完全无用。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30120672_Screenshot_2016-06-21-17-43-42_com.baidu.locker.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30120680_Screenshot_2016-06-21-17-45-47_com.baidu.locker.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30120684_Screenshot_2016-06-21-17-45-50_com.baidu.locker.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,5
+0,531756,极智锁屏V1.0.2自由测试,山西省|太原市|古交市|青山路|19,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,中国移动,4.4.058.P0.150407.8675-A,app的时钟控件无法应用到手机上。,打开app，点击“时钟控件”，点击任意一个控件样式，点击使用，打√，控件并没有被更换。我的手机为酷派大神f2，系统是miui7。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30120962_Screenshot_2016-06-21-17-43-42_com.baidu.locker.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30120982_Screenshot_2016-06-21-17-58-45_com.baidu.locker.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,7
+0,851370,极智锁屏V1.0.2自由测试,四川省|南充市|南部县|S101|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,在使用该锁屏app后，点击电源键出现滑动解锁界面，此时页面上滑，双击下方的微信和uc浏览器，不能解锁后打开进入。而拨号，图库，计算器均能双击解锁打开。,在使用该锁屏app后，点击电源键出现滑动解锁界面，此时页面上滑，双击下方的微信和uc浏览器，不能解锁后打开进入。而拨号，图库，计算器均能双击解锁打开。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30076809_7.jpg""]",未知,P0,审核通过,2016-06-30 10:00:01,,9
+0,1165965,极智锁屏V1.0.2自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,锁屏通知开启辅助功能时 软件提示 设置已停止运行，测试了n次均无法成功开启,详情见操作视频http://pan.baidu.com/s/1qxi7yig,[],未知,P0,审核通过,2016-06-30 10:00:01,,13
+0,2135150,极智锁屏V1.0.2自由测试,云南省|昆明市|呈贡区|文博路|,Xiaomi  2014501,Android 4.4.2,WIFI,无SIM卡,KOT49H,锁屏界面开启后，下拉窗口无法拉下来,锁屏开启后，锁屏界面可以正常显示，但是无法下拉菜单而其本身的上拉菜单中应该增加截屏选项,[],未知,P0,审核不通过,2016-06-29 21:26:36,,1
+0,2135150,极智锁屏V1.0.2自由测试,云南省|昆明市|呈贡区|文博路|,Xiaomi  2014501,Android 4.4.2,WIFI,无SIM卡,KOT49H,锁屏设置的应用无法使用,锁屏应用-锁屏主界面应用设置。设置后应用可以正常显示为灰色，但是仅仅只是显示，无任何功能，且图标比较小，没什么用。,[],未知,P0,审核通过,2016-06-30 10:00:01,,14
+0,2135150,极智锁屏V1.0.2自由测试,云南省|昆明市|呈贡区|文博路|,Xiaomi  2014501,Android 4.4.2,WIFI,无SIM卡,KOT49H,此应用应该增加一些功能,手机常自动清理把其关闭，锁屏同时也就失效。且只有锁屏界面图片还比较少，无主题设置。与系统自带的相比，并没有什么优势,[],未知,P0,审核不通过,2016-06-29 21:32:35,,14
+0,2238236,极智锁屏V1.0.2自由测试,吉林省|吉林市|蛟河市|Y024(天牛线)|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,红米note3 全网通 高配版解锁问题,锁屏再次解锁的时候会出现手机自带的解锁界面，解锁自带锁屏界面后又出现极智锁屏，才能进入系统,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30128398_Screenshot_2016-06-21-20-17-19_com.miui.home.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30128401_Screenshot_2016-06-21-20-17-22_com.miui.home.jpg""]",未知,P0,审核通过,2016-06-30 10:00:01,,9
+0,8993718,极智锁屏V1.0.2自由测试,四川省|成都市|武侯区|拓新东街|81,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,使用了时钟样式后无法自动返回,"1.打开软件
+2.点击时钟控件
+3.选择一个非当前使用的时钟控件
+4.点击使用，观察显示（使用按钮变为“钩”，但界面一直处于该状态，点击图片也无反应，建议修改为，点击使用按钮后，5秒自动返回控件选择页面。或者点击图片会退出具体的控件预览界面）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31086882_QQ%E6%88%AA%E5%9B%BE20160628103158.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,7
+0,8993718,极智锁屏V1.0.2自由测试,四川省|成都市|武侯区|拓新东街|81,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,使用锁屏通知样式后，点击图片无法退出预览界面,"1.打开软件
+2.点击锁屏通知
+3.选择一个非当前使用的模式
+4.点击使用按钮，观察显示（使用按钮变为钩，点击图片无反应，建议点击图片后退出预览界面，或者点击使用后，5秒退出）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31087380_Screenshot_2016-06-28-10-20-29.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,3
+0,8993718,极智锁屏V1.0.2自由测试,四川省|成都市|武侯区|拓新东街|81,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,添加锁屏应用界面，缺少确认与退出按钮，影响用户使用性,"1.打开软件
+2.点击锁屏应用
+3.点击锁屏主界面应用设置
+4.观察页面显示（无确认按钮已经取消或者退出按钮）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31088082_Screenshot_2016-06-28-10-19-26.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,2
+0,8993718,极智锁屏V1.0.2自由测试,四川省|成都市|武侯区|拓新东街|81,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,添加锁屏上拉面板应用设置界面，缺少确认与退出按钮,"1.打开软件
+2.点击锁屏应用
+3.点击锁屏上拉面板应用设置
+4.观察页面显示（无确认按钮已经取消或者退出按钮）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31089181_Screenshot_2016-06-28-10-20-03.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,2
+0,8993718,极智锁屏V1.0.2自由测试,四川省|成都市|武侯区|拓新东街|81,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,未安装微博软件，会提示找不到，但正常应该打开微博的网页登录界面,"前提：未安装微博的手机客户端
+1.打开软件
+2.点击右上角三个点按钮
+3.点击分享极智锁屏
+4.点击微博按钮
+5.观察显示（打开时虽有提示，但应该打开微博的网页登录界面，登录后分享操作）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31089630_Screenshot_2016-06-28-10-21-41.png""]",未知,P0,审核不通过,2016-06-29 21:04:17,,4
+0,8993718,极智锁屏V1.0.2自由测试,四川省|成都市|武侯区|拓新东街|81,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,关于我们界面，缺少开发商信息，多出了软件版本的信息（因为在检测更新的地方有显示版本）,"1.打开软件
+2.点击右上角三个点按钮
+3.点击关于我们
+4.观察显示（界面中应该显示的是开发商的信息，而不是单单独独的版本信息）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31090370_Screenshot_2016-06-28-10-21-04.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31090389_Screenshot_2016-06-28-10-21-12.png""]",未知,P0,审核不通过,2016-06-29 21:04:37,,10
+0,10108370,极智锁屏V1.0.2自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,1首次运行，点击用户协议，第一段结尾两个句号,1首次运行，点击用户协议，第一段结尾两个句号,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30128154_Screenshot_2016-06-21-20-10-15.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30128157_Screenshot_2016-06-21-20-16-10.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,0
+0,10108370,极智锁屏V1.0.2自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击立即开启
+2点击锁屏应用
+3点击锁屏主界面应用设置，其中z项出现了浏览器，非z打头字母","1首页点击立即开启
+2点击锁屏应用
+3点击锁屏主界面应用设置，其中z项出现了浏览器，非z打头字母","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30128546_Screenshot_2016-06-21-20-22-55.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,14
+0,10190920,极智锁屏V1.0.2自由测试,广东省|深圳市|福田区|深南大道|2008-1,samsung  SCH-I739,Android 4.2.2,WIFI,unknown,JZO54K.I739KEAMF1,错误提示框时间机制有问题,如在帮助和反馈界面不输入任何文字，点击发送，出现提示框（存在4秒）。此时如果点击100次发送，则提示框会存在400秒。且按返回键返回上一级页面时也不消失。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30602088_1.jpg""]",未知,P0,审核通过,2016-06-30 10:00:01,,10
+0,13585076,极智锁屏V1.0.2自由测试,河南省|南阳市|卧龙区|G40(沪陕高速)|,WEIBI  F1,Android 4.4.4,WIFI,中国联通,T1795AN_JIAC_JC070_C_ALIYUN_SE,再次点击返回的提示退出软件还显示了一会儿。,再次点击返回键退出应用的提示退出软件还显示了一会儿。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30121417_8CFC4C2D23DCA71831048BC5FB7289BA.jpg""]",未知,P0,待审核,2016-06-21 18:14:47,,12
+0,13585076,极智锁屏V1.0.2自由测试,河南省|南阳市|卧龙区|G40(沪陕高速)|,WEIBI  F1,Android 4.4.4,WIFI,中国联通,T1795AN_JIAC_JC070_C_ALIYUN_SE,退出软件后手机桌面上的软件全部消失了。,退出软件后手机桌面上的软件全部消失了，一个也没显示，重启了两次才显示正常。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30121769_1772D83533F53B9CC9317FA8FA33838C.jpg""]",未知,P0,待审核,2016-06-21 18:14:47,,12
+0,13585076,极智锁屏V1.0.2自由测试,河南省|南阳市|卧龙区|G40(沪陕高速)|,WEIBI  F1,Android 4.4.4,WIFI,中国联通,T1795AN_JIAC_JC070_C_ALIYUN_SE,有时候退出软件锁屏也退出了。,有时候退出软件锁屏也退出了，变成了默认锁屏，有时候重启也会退出锁屏。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30121898_C20441791E84FE619D1BA0917E0C6037.jpg""]",未知,P0,待审核,2016-06-21 18:14:47,,12
+0,13585076,极智锁屏V1.0.2自由测试,河南省|南阳市|卧龙区|G40(沪陕高速)|,WEIBI  F1,Android 4.4.4,WIFI,中国联通,T1795AN_JIAC_JC070_C_ALIYUN_SE,退出软件有时会白屏好几秒。,退出软件有时会白屏好几秒，有时候又不会。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30122160_CFF5DBAAB14BE6639E2B947D312540BE.jpg""]",未知,P0,待审核,2016-06-21 18:14:47,,12
+0,14109244,极智锁屏V1.0.2自由测试,湖北省|武汉市|江汉区|北湖正街|2号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,分享界面无法调用微信，无法分享成功,打开软件，点击右上角三点，进入应用设置界面，，点击分享极智锁屏，点击分享至微信，app无法调用微信，无法分享成功,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30120923_1%20%281%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30120931_1%20%282%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30120943_1%20%283%29.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,4
+0,14109244,极智锁屏V1.0.2自由测试,湖北省|武汉市|江汉区|北湖正街|2号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,壁纸保存功能有问题，无法使拍照的照片保存我的壁纸,"1 打开软件，点击壁纸美化，点击我的壁纸，加号，拍照，保存并作为壁纸使用，此时我的壁纸页可以显示出拍照的照片
+2点击我的壁纸，点击软件自身的壁纸，并使用，拍照的照片消失，无法在我的壁纸页面显示","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30122940_2%20%281%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30122945_2%20%282%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30122949_2%20%283%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30122954_2%20%284%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30122959_2%20%285%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30122965_2%20%286%29.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,6
+0,14109244,极智锁屏V1.0.2自由测试,湖北省|武汉市|江汉区|北湖正街|2号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,在锁屏的情况下，可以将手机重新启动从而绕过锁屏软件,打开软件，点击电源键黑屏，此时锁屏软件启动，长按电源键，点击重新启动，手机开机后，锁屏软件未运行,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30123339_3%20%281%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30123400_3%20%282%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30123408_3%20%283%29.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,8
+0,14301156,极智锁屏V1.0.2自由测试,浙江省|温州市|瑞安市|塘河北路|472号,Letv  Letv X500,Android 5.0.2,WIFI,中国移动,DBXCNOP5501304131S release-key,锁屏主界面应用设置界面的右边隐含返回按钮；锁屏上拉面板应用设置亦如此,1进入至锁屏应用 2点击锁屏主界面应用设置 3界面的右边隐含返回按钮，点击可返回，予以体现或保持一致性使用自带返回,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30199193_Screenshot_2016-06-22-08-57-55.jpg""]",未知,P0,审核通过,2016-06-30 10:00:01,,2
+0,14301156,极智锁屏V1.0.2自由测试,浙江省|温州市|瑞安市|塘河北路|472号,Letv  Letv X500,Android 5.0.2,WIFI,中国移动,DBXCNOP5501304131S release-key,壁纸美化，选择自己的照片，对照片缩放再使用，照片被截取,1进入壁纸美化 2点击右下角+ 3点击弹出的第一个按钮 4选取某一张照片缩放 按使用，照片被截取,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30204747_Screenshot_2016-06-22-09-57-32.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30205155_microMsg.1465901700194.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30205279_1%281%29.jpg""]",未知,P0,审核通过,2016-06-30 10:00:01,,7
+0,14778957,极智锁屏V1.0.2自由测试,四川省|南充市|顺庆区|铁昌路|197号,Xiaomi  2014813,Android 4.4.4,WIFI,无SIM卡,KTU84P,反馈里，信息发送的时间显示不准确，提前了很多,反馈里，信息发送的时间显示不准确，提前了很多,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30766267_Screenshot_2014-01-01-09-34-23.png""]",未知,P0,审核不通过,2016-06-29 21:01:55,,10
+0,14867488,极智锁屏V1.0.2自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B173,进入软件，点锁屏应用，点锁屏主界面应用设置，添加打电话和百度hi，锁屏后点击打电话和百度hi，均无法使用。,进入软件，点锁屏应用，点锁屏主界面应用设置，添加打电话和百度hi，锁屏后点击打电话和百度hi，均无法使用。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30206820_Screenshot_2016-06-22-10-04-25.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30206837_Screenshot_2016-06-22-10-05-14.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,11
+0,14867488,极智锁屏V1.0.2自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B173,进入软件，点时钟控件，点击选择电子，锁屏后，看到不到设置里电子时钟效果。,进入软件，点时钟控件，点击选择电子，锁屏后，看到不到设置里电子时钟效果。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30207818_Screenshot_2016-06-22-10-16-12.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30207927_IMG_20160622_101848.jpg""]",未知,P0,审核通过,2016-06-30 10:00:01,,7
+0,14940938,极智锁屏V1.0.2自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,1 打开软件→锁屏应用→锁屏主界面应用设置→设置完成后，退出软件。按手机关机键，关闭屏幕，再点亮屏幕，锁屏主界面下方设置的应用，点击无效，不能打开。,1 打开软件→锁屏应用→锁屏主界面应用设置→设置完成后，退出软件。按手机关机键，关闭屏幕，再点亮屏幕，锁屏主界面下方设置的应用，点击无效，不能打开。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30132731_C5806176956A46616CB2888A4A80F355.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30132736_7777400C38D5BB9B36B6485ADD55AC24.JPG""]",未知,P0,审核通过,2016-06-30 10:00:01,,11
+0,14940938,极智锁屏V1.0.2自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,2 锁屏主界面→向上滑动后，锁屏上拉面板应用，不能固定，不到1秒时间内快速收起。,2 锁屏主界面→向上滑动后，锁屏上拉面板应用，不能固定，不到1秒时间内快速收起。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30132745_D13005F8798B5CD4908FCD90CA59F482.JPG""]",未知,P0,审核通过,2016-06-30 10:00:01,,14
+0,14940938,极智锁屏V1.0.2自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,3 锁屏主界面→向右滑动解锁→出现手机桌面后，不到秒，又快速的返回了锁屏主界面。,3 锁屏主界面→向右滑动解锁→出现手机桌面后，不到秒，又快速的返回了锁屏主界面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30132771_A0C8FB17BD38B003C253C00552F7E1B2.JPG""]",未知,P0,审核不通过,2016-06-29 20:56:38,,8
+0,14940938,极智锁屏V1.0.2自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,4 在关闭手机系统锁屏，默认机智锁屏后，多次按手机关机键，锁屏界面死机，手机无响应，需要扣电池再次开机。,4 在关闭手机系统锁屏，默认机智锁屏后，多次按手机关机键，锁屏界面死机，手机无响应，需要扣电池再次开机。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30132791_F091C71B7231E4B25F5B0356D6DDB50A.JPG""]",未知,P0,审核通过,2016-06-30 10:00:01,,8
+0,14943542,极智锁屏V1.0.2自由测试,新疆维吾尔自治区|哈密地区|哈密市||,samsung  SM-G5500,Android 5.1.1,WIFI,中国移动,LMY47X.G5500ZCU1AOL2,进入急速屏幕后点击设置屏幕后，锁屏进入急速屏幕，上拉辅助菜单，关门菜单有些失灵,进入急速屏幕后点击设置屏幕后，锁屏进入急速屏幕，上拉辅助菜单，关门菜单有些失灵,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30365485_Screenshot_2016-06-23-10-05-44.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,1
+0,15275851,极智锁屏V1.0.2自由测试,北京市|北京市|海淀区|学院路|7号,vivo  vivo X6D,Android 5.1,WIFI,中国联通,LMY47I release-keys,设置完成后根本没有起作用，还是用我系统自带的锁屏,"1，打开软件，进入极智锁屏v1.0.2
+2，点击我的壁纸
+3，点击使用
+4，关闭手机屏幕
+5，打开手机电源","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30116960_11.png""]",未知,P0,审核不通过,2016-06-29 20:52:48,,11
+0,15275851,极智锁屏V1.0.2自由测试,北京市|北京市|海淀区|学院路|7号,vivo  vivo X6D,Android 5.1,WIFI,中国联通,LMY47I release-keys,选择手机图片做锁屏时，上下会有两个黑色的区域,"1，打开软件，进入极智锁屏v1.0.2
+2，点击右上角的加号
+3，选择拍照或手机图片
+4，点击确定，或使用","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30117257_1.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,3
+0,16617660,极智锁屏V1.0.2自由测试,湖北省|武汉市|洪山区|关山一路|1号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,设置界面连接多次点击用户协议会弹出多个用户协议窗口,"1.启动app
+2.点击右上角的设置菜单图标进入
+3.连续多次点击用户协议
+实际结果：弹出多个用户协议窗口（关闭一个后仍然在用户协议界面）
+预期结果：只弹出一个用户协议窗口","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31112072_111.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,0
+0,16617660,极智锁屏V1.0.2自由测试,湖北省|武汉市|洪山区|关山一路|1号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,分享极智锁屏选择微信，在微信界面点击返回图标无法返回到应用界面；,"1.启动app
+2.点击右上角的设置图标进入
+3.分享极智锁屏选择微信
+4.在微信界面点击返回
+实际结果：返回到微信界面
+预期结果：返回到应用分享极智锁屏界面","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31115128_22.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31115135_21.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31115147_23.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,4
+0,16617660,极智锁屏V1.0.2自由测试,湖北省|武汉市|洪山区|关山一路|1号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,设置系统字体为巨无霸，我的反馈界面信息显示不完整,"1.设置系统字体为巨无霸
+2.启动app
+3.设置--帮助与反馈--我要反馈--输入反馈内容为一个链接http://ts.ayi360.com/index.php/home/aunt_new_fest/opposeauntspeak/invite_id/2/share/2/com/1000点击发送
+4.查看我的反馈
+实际结果：界面显示重叠反馈内容与时间显示重叠；你的反馈已收到等字样显示不全；
+预期结果：可以正常显示","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31115632_444.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31115834_441.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31116644_443.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,10
+0,16880504,极智锁屏V1.0.2自由测试,重庆市|重庆市|渝中区|瑞天路|134号,vivo  vivo X3t,Android 4.2.2,WIFI,中国移动,ALPS.JB2.TDD.MP.V1.62,微信分享的图片，打开后未显示完整,"1、在锁屏主界面点击右上角按钮，进入应用设置界面
+2、在应用设置界面点击分享极智锁屏，选择微信，发送给好友
+3、进入微信 ，查看已发送的图片","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31008332_1.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,4
+0,16978260,极智锁屏V1.0.2自由测试,江苏省|南京市|江宁区|迎翠路|,HUAWEI  HUAWEI NXT-CL00,Android 6.0,WIFI,中国电信,NXT-CL00C92B182,像壁纸设置完之后，没有明显提示，最后返回到选择列表,1、壁纸美化；2、选择壁纸；3、使用；4看操作结果,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31078418_4.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,6
+0,17003089,极智锁屏V1.0.2自由测试,湖北省|荆门市|掇刀区|S311(深圳大道西)|,Xiaomi  MI 1S,Android 4.1.2,WIFI,无SIM卡,JZO54K,“使用出现问题”界面还需进一步优化，有标题和说明重叠在一起，影响阅读。。,"1、打开软件
+2、进入左下“使用出现问题”
+3、弹出界面出现bug：“出现多个锁屏”标题和下面说明，字样重叠显示，需优化。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30714350_0625_2.jpg""]",未知,P0,审核通过,2016-06-30 10:00:01,,9
+0,17115469,极智锁屏V1.0.2自由测试,重庆市|重庆市|荣昌县|香国大道|,HONOR  PLK-AL10,Android 5.0.2,WIFI,unknown,PLK-AL10C00B211,如图所示，提示有风险，这样的提示会影响软件的使用,1，下载软件后打开 安装，这样的提示是否是因为有些地方做的不合理导致的,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30717487_%E9%94%81%E5%B1%8F%E4%BA%8C.png""]",未知,P0,审核不通过,2016-06-29 21:00:03,,12
+0,17115469,极智锁屏V1.0.2自由测试,重庆市|重庆市|荣昌县|香国大道|,HONOR  PLK-AL10,Android 5.0.2,WIFI,unknown,PLK-AL10C00B211,设置密码的时候输入 刚刚设置的密码 一直提示输入 重复了几次都这样,"1 进入软件 
+2 点击设置密码 
+3 如图所示 输入密码的时候一直提示输入密码  不显示对错","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30717571_%E9%94%81%E5%B1%8F%E4%B8%80.png""]",未知,P0,审核不通过,2016-06-29 21:00:15,,5
+0,17115469,极智锁屏V1.0.2自由测试,重庆市|重庆市|荣昌县|香国大道|,HONOR  PLK-AL10,Android 5.0.2,WIFI,unknown,PLK-AL10C00B211,关闭密码之后没有必要清除掉已经保存的密码，这里应该设置不启用即可， 如果每次关闭之后都清除掉密码 时间久了自己都记不住了,如图所示， 打开软件 然后点击关闭密码 设计有点不合理,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30717643_%E9%94%81%E5%B1%8F%E4%B8%89.png""]",未知,P0,审核不通过,2016-06-29 21:00:40,,5
+0,17115469,极智锁屏V1.0.2自由测试,重庆市|重庆市|荣昌县|香国大道|,HONOR  PLK-AL10,Android 5.0.2,WIFI,unknown,PLK-AL10C00B211,密码解锁的位置太难找，如图所示的界面 点开之后 下方滑动图标很难发现，进入子页面之后 没有明显的解锁密码位置，找半天在设置里发现 非常不合理,如图所示 建议手机屏幕点亮之后 直接输入解锁密码,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30717941_%E8%A7%A3%E9%94%81.png""]",未知,P0,审核不通过,2016-06-29 21:01:32,,5
+0,17192118,极智锁屏V1.0.2自由测试,山西省|太原市|小店区|科学路|null,HUAWEI  HUAWEI GRA-CL00,Android 5.0.1,WIFI,中国电信,GRA-CL00C92B230,进入app后点击右上角的按钮，再点击关于我们发现只有一个图标，没有关于该软件的详情。,1.打开该app.2.进入app后点击右上角的按钮，再点击关于我们发现只有一个图标，没有关于该软件的详情。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30093915_Screenshot_2016-06-21-14-47-48.png""]",未知,P0,审核不通过,2016-06-29 20:41:01,,13
+0,17192118,极智锁屏V1.0.2自由测试,山西省|太原市|小店区|科学路|null,HUAWEI  HUAWEI GRA-CL00,Android 5.0.1,WIFI,中国电信,GRA-CL00C92B230,进入app后点击右下角的‘使用出现问题？’然后点击出现多个锁屏，点击交叉后点击图案密码，进入后再点击取消发现回到‘使用出现问题？’页面而不是锁屏方式选择页面。,1.打开该app.2.进入app后点击右下角的‘使用出现问题？’然后点击出现多个锁屏，点击交叉后点击图案密码，进入后再点击取消发现回到‘使用出现问题？’页面而不是锁屏方式选择页面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30094713_Screenshot_2016-06-21-14-53-43.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,9
+0,17192118,极智锁屏V1.0.2自由测试,山西省|太原市|小店区|科学路|null,HUAWEI  HUAWEI GRA-CL00,Android 5.0.1,WIFI,中国电信,GRA-CL00C92B230,打开app后放入后台运行，重新点击该app进入时发现app重启了,1.打开该app.2.打开app后放入后台运行，重新点击该app进入时发现app重启了,[],未知,P0,审核不通过,2016-06-29 20:42:55,,13
+0,17201968,极智锁屏V1.0.2自由测试,海南省|海口市|龙华区|城南路|,motorola  Moto G 2014,Android 6.0.1,WIFI,中国联通,mk_titan-userdebug 6.0.1 MOB30,点击主界面右上角进入应用设置，帮助和反馈栏目，点击我要反馈，输入文字和选择图片后，点发送，提示反馈成功，但在出现的对话界面中，没有看到有图片，只看到有一条空白的发言。,点击主界面右上角进入应用设置，帮助和反馈栏目，点击我要反馈，输入文字和选择图片后，点发送，提示反馈成功，但在出现的对话界面中，没有看到有图片，只看到有一条空白的发言。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30087090_2.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30087102_2-2.jpg""]",未知,P0,审核通过,2016-06-30 10:00:01,,10
+0,17227136,极智锁屏V1.0.2自由测试,上海市|上海市|闵行区|紫星路|,Huawei  HUAWEI P7-L00,Android 5.1.1,WIFI,中国联通,P7-L00C17B851,锁屏壁纸设定页面没有返回键,"1、点击“壁纸美化”中的任意壁纸
+2、尝试寻找“返回”键来退出当前页面","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30090439_Screenshot_2016-06-21-14-32-00.png""]",未知,P0,审核不通过,2016-06-29 20:43:23,,6
+0,17227136,极智锁屏V1.0.2自由测试,上海市|上海市|闵行区|紫星路|,Huawei  HUAWEI P7-L00,Android 5.1.1,WIFI,中国联通,P7-L00C17B851,以本地图片设置壁纸时缓冲本地图片速度太慢,"1、进入壁纸美化，点击“+”，相册
+2、进入相册选择本地图片，刷新速度极慢，影响用户体验","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30090813_Screenshot_2016-06-21-14-35-35.png""]",未知,P0,审核不通过,2016-06-29 20:48:29,,6
+0,17227136,极智锁屏V1.0.2自由测试,上海市|上海市|闵行区|紫星路|,Huawei  HUAWEI P7-L00,Android 5.1.1,WIFI,中国联通,P7-L00C17B851,设置壁纸页面调用系统按钮托盘会覆盖“使用”按钮,"1、进入“美化壁纸”-“线上壁纸”
+2、选择一张图片
+3、下拉或上拉系统菜单，“使用”按钮被安卓自带按钮遮挡","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30091526_Screenshot_2016-06-21-14-40-35.png""]",未知,P0,审核不通过,2016-06-29 20:49:23,,6
+0,17227136,极智锁屏V1.0.2自由测试,上海市|上海市|闵行区|紫星路|,Huawei  HUAWEI P7-L00,Android 5.1.1,WIFI,中国联通,P7-L00C17B851,锁屏时使用照相机需要输入密码,"1、设置极致锁屏及密码
+2、将照相机功能添加到锁屏页面
+3、锁屏后点击power键，使用相机。 正常锁屏时相机功能不需要输入密码，但是极致锁屏需要输入密码。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30092614_Screenshot_2016-06-21-14-46-56.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30092701_Capture.PNG""]",未知,P0,审核不通过,2016-06-29 20:49:58,,5
+0,17227136,极智锁屏V1.0.2自由测试,上海市|上海市|闵行区|紫星路|,Huawei  HUAWEI P7-L00,Android 5.1.1,WIFI,中国联通,P7-L00C17B851,最近应用中没有“极智锁屏”,"1、在百度微任务中进入极智锁屏
+2、点击安卓自带的“最近应用”
+3、正常应该显示该app，而实际上无法再回到该app","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30093321_Screenshot_2016-06-21-14-51-35.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30093351_Screenshot_2016-06-21-14-51-41.png""]",未知,P0,审核不通过,2016-06-29 20:51:52,,14
+0,17227136,极智锁屏V1.0.2自由测试,上海市|上海市|闵行区|紫星路|,Huawei  HUAWEI P7-L00,Android 5.1.1,WIFI,中国联通,P7-L00C17B851,分享至朋友圈时取消分享导致微信无法退出分享界面,"1、将该app分享至微信朋友圈
+2、点击后退，取消分享至朋友圈，此时微信app自动退出至后台
+3、点击安卓系统自带的“最近应用”回到微信，此时仍然是分享至朋友圈的页面，并没有回到微信正常页面。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30094543_Screenshot_2016-06-21-14-56-52.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30094554_Screenshot_2016-06-21-14-56-58.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30094568_Screenshot_2016-06-21-14-56-52.png""]",未知,P0,审核通过,2016-06-30 10:00:01,,4
+0,17251738,极智锁屏V1.0.2自由测试,河北省|秦皇岛市|海港区|玉峰路|,samsung  SM-G7200,Android 4.4.4,WIFI,中国移动,KTU84P.G7200ZCU1AOH2,锁屏主界面应用快捷方式无法使用,"1、打开软件
+2、按下电源键，关闭屏幕
+3、按下电源键，开启屏幕，进入锁屏界面
+4、点击锁屏界面下方的照相机图标，无法打开照相机应用",[],未知,P0,审核通过,2016-06-30 10:00:01,,11
+0,17265577,极智锁屏V1.0.2自由测试,河北省|保定市|南市区|玉兰大街|558号,360  1501_M02,Android 5.1,WIFI,中国移动,V061,"进入app,提示开启悬浮窗，但界面并没有悬浮窗显示
+，","1进入app
+2开启悬浮窗
+3无法显示悬浮窗","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31022246_Screenshot_2016-06-27-22-14-13.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31022251_Screenshot_2016-06-27-22-14-21.png""]",未知,P0,审核不通过,2016-06-29 21:02:49,,13
+0,17267337,极智锁屏V1.0.2自由测试,山东省|聊城市|东阿县|S329(北环路)|,Xiaomi  Mi-4c,Android 5.1.1,WIFI,中国移动,LMY47V,打开应用设置好屏幕 再退出 锁屏的屏幕是极致的图片  经过一段时间（具体多久没注意）就会变成手机原来自带的锁屏图片,"1.打开应用--设置锁屏图片--退出
+2.打开手机--锁屏图片是极致的图片
+3.经过一段时间---打开手机 --锁屏变回自带图片","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30841688_001.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30841702_002.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30841715_003.jpg""]",未知,P0,审核通过,2016-06-30 10:00:01,,3

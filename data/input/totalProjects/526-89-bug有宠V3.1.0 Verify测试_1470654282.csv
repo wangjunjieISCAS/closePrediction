@@ -1,0 +1,250 @@
+case编号,用户id,case标题,地域,机型,操作系统,网络环境,运营商,ROM信息,bug详情,复现步骤,截图,是否未知,优先级,审核状态,提交时间,,重复情况
+0,851370,有宠V3.1.0 Verify自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后在注册登录界面输入“12345678911”这一错误的手机号码点击下一步，app不报错且提示验证码已下发,打开app后在注册登录界面输入“12345678911”这一错误的手机号码点击下一步，app不报错且提示验证码已下发,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33719659_1.jpg""]",未知,P0,审核不通过,2016-07-26 18:50:24,,12
+0,851370,有宠V3.1.0 Verify自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击最下方“我的”，设置好头像后点击编辑资料，在个人信息页面点击我的等级，发现头像不能显示,打开app后点击最下方“我的”，设置好头像后点击编辑资料，在个人信息页面点击我的等级，发现头像不能显示,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33719824_2.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,19
+0,851370,有宠V3.1.0 Verify自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击最下方“我的”，点击头像后点击编辑资料，在个人信息页面点击二维码，再点击右上方按钮选择分享二维码，此时选择分享到微信或者朋友圈，只是当前页面截图而已，并不能拉起微信分享界面,打开app后点击最下方“我的”，点击头像后点击编辑资料，在个人信息页面点击二维码，再点击右上方按钮选择分享二维码，此时选择分享到微信或者朋友圈，只是当前页面截图而已，并不能拉起微信分享界面,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720004_3.jpg""]",未知,P0,审核不通过,2016-07-26 00:01:29,,18
+0,851370,有宠V3.1.0 Verify自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击最下方“我的”，点击头像后点击编辑资料，在个人信息页面点击我的收货地址，点击右上方新增，在收货人一栏能够输入数字“123”也能保存成功,打开app后点击最下方“我的”，点击头像后点击编辑资料，在个人信息页面点击我的收货地址，点击右上方新增，在收货人一栏能够输入数字“123”也能保存成功,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720407_4.jpg""]",未知,P0,审核不通过,2016-07-26 00:02:01,,16
+0,851370,有宠V3.1.0 Verify自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击最下方“我的”，点击头像后点击编辑资料，在个人信息页面点击我的收货地址，在手机号码一栏能够输入数字“11111111111”这一明显错误的手机号码，app也能保存成功且不报错,打开app后点击最下方“我的”，点击头像后点击编辑资料，在个人信息页面点击我的收货地址，在手机号码一栏能够输入数字“11111111111”这一明显错误的手机号码，app也能保存成功且不报错,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720470_5.jpg""]",未知,P0,审核不通过,2016-07-26 18:54:02,,16
+0,851370,有宠V3.1.0 Verify自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击最下方“我的”，点击头像后点击编辑资料，在个人信息页面点击我的收货地址，在地区一栏里，海南省中不能找到我国刚刚成立的三沙市,打开app后点击最下方“我的”，点击头像后点击编辑资料，在个人信息页面点击我的收货地址，在地区一栏里，海南省中不能找到我国刚刚成立的三沙市,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720500_6.jpg""]",未知,P0,审核不通过,2016-07-26 00:03:40,,16
+0,851370,有宠V3.1.0 Verify自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击最下方“我的”，点击头像后点击编辑资料，在个人信息页面点击我的收货地址，在邮政编码一栏能够输入数字“111111”这一明显错误的邮编，app也能保存成功且不报错,打开app后点击最下方“我的”，点击头像后点击编辑资料，在个人信息页面点击我的收货地址，在邮政编码一栏能够输入数字“111111”这一明显错误的邮编，app也能保存成功且不报错,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720555_7.jpg""]",未知,P0,审核不通过,2016-07-26 18:55:00,,16
+0,851370,有宠V3.1.0 Verify自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击最下方“我的”，点击头像后点击编辑资料，在个人信息页面点击兴趣爱好，能够输入空格字符且能保存成功,打开app后点击最下方“我的”，点击头像后点击编辑资料，在个人信息页面点击兴趣爱好，能够输入空格字符且能保存成功,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720914_8.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,19
+0,851370,有宠V3.1.0 Verify自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击最下方“我的”，点击头像，然后点击右上方分享，选择分享到朋友圈，发现只是屏幕闪了一下，不能成功分享到微信,打开app后点击最下方“我的”，点击头像，然后点击右上方分享，选择分享到朋友圈，发现只是屏幕闪了一下，不能成功分享到微信,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33721109_9.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,18
+0,851370,有宠V3.1.0 Verify自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击最下方“我的”，然后点击右上方添加好友按钮，然后点击邀请好友，选择邀请微信好友，不能拉起微信界面，不能邀请微信好友,打开app后点击最下方“我的”，然后点击右上方添加好友按钮，然后点击邀请好友，选择邀请微信好友，不能拉起微信界面，不能邀请微信好友,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33721237_10.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,1
+0,1165965,有宠V3.1.0 Verify自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,反馈建议页面 一直提示 扬声器，无法消除,1.打开软件并登录2.我的3.设置4.反馈建议  .,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735756_QQ%E6%88%AA%E5%9B%BE20160725165735.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,10
+0,1165965,有宠V3.1.0 Verify自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,手机号识别错误，错误的号码也能成功保存,1.打开软件并登录2.我的3.设置4.个人资料5.我的收货地址6.右上角  新增7.填写信息8.保存,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33736180_QQ%E6%88%AA%E5%9B%BE20160725170258.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,16
+0,2182072,有宠V3.1.0 Verify自由测试,辽宁|沈阳,Huawei  HUAWEI G750-T01,Android 4.2.2,WIFI,中国移动,G750-T01 V100R001CHNC00B152,打开软件，点击屏幕下边的微信登陆，提示“正在登陆中，请稍候”，然后回复到登陆界面，并没有进入微信登陆,打开软件，点击屏幕下边的微信登陆，提示“正在登陆中，请稍候”，然后回复到登陆界面，并没有进入微信登陆,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33742561_Screenshot_2016-07-25-18-09-07.jpeg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33742569_Screenshot_2016-07-25-18-11-33.jpeg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33742571_Screenshot_2016-07-25-18-11-57.jpeg""]",未知,P0,审核通过,2016-07-27 10:00:08,,0
+0,2590458,有宠V3.1.0 Verify自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,mobile LTE,中国联通,Che2-UL00 V100R001CHNC00B384,注册时，手机号码未按规则输入（测试12345612345）未报错。,注册时，手机号码未按规则输入（测试12345612345）未报错。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734024_1.jpg""]",未知,P0,审核不通过,2016-07-26 18:55:51,,12
+0,2590458,有宠V3.1.0 Verify自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,mobile LTE,中国联通,Che2-UL00 V100R001CHNC00B384,进入有宠小助手，屏幕下方提示“杨声器”,注册登录后－我的－我的消息－选择有宠助手或任意一个好友－进入聊天界面即提示扬声器。华为4x，安卓4.4.2，wifi网络,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734646_2.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,3
+0,2590458,有宠V3.1.0 Verify自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,mobile LTE,中国联通,Che2-UL00 V100R001CHNC00B384,每次进入设置，会自动检测新版本。,注册登录后－我的－设置－自动检测新版本，并弹出提示。华为4x，安卓4.4.2，wifi网络,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735009_3.jpg""]",未知,P0,审核不通过,2016-07-26 00:16:37,,4
+0,2590458,有宠V3.1.0 Verify自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,mobile LTE,中国联通,Che2-UL00 V100R001CHNC00B384,结帐时，选用微信支付，未能调出付款界面，提示付款失败。,进入商城频道－随便选一件商品－按流程付款，选用微信支付。未能调出付款界面，提示付款失败。华为4x，安卓4.4.2，wifi网络,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735348_4-1.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735357_4-2.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,8
+0,2590458,有宠V3.1.0 Verify自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,mobile LTE,中国联通,Che2-UL00 V100R001CHNC00B384,个人中心，分享信息到微信，未能调出微信。,打开并登录软件－我的－点头像进入个人中心－右上角分享－选择微信，未能成功调出。华为4x，安卓4.4.2，wifi网络,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735582_5.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,18
+0,6287747,有宠V3.1.0 Verify自由测试,北京市|北京市|海淀区|东北旺路|,nubia  NX507J,Android 4.4.2,WIFI,中国移动,NX507J_CNCommon_V1.82,社区-精选-详情-分享（微信、朋友圈）一闪而过，功能没有实现。（努比亚z7mini）,"1、打开app进入首页界面，定位于底部菜单的“社区”。
+2、在列表中选择任一用户点击进入详情。
+3、在用户下方的功能按钮中点击“分享”弹出分享窗口。
+4、点击微信或者朋友圈，闪白屏恢复，并没有实现分享功能。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725439_1.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725443_2.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,18
+0,6783508,有宠V3.1.0 Verify自由测试,重庆市|重庆市|渝北区|米兰街|,vivo  vivo X5Max L,Android 4.4.4,mobile LTE,中国移动,KTU84P dev-keys,【服务】界面上方图片 点击出现一个页面 页面404 【返回上级页面】和【返回首页】图标无作用，见附件,"测试设备：vivo x5max 版本：android4.4.4 网络：4g 
+步骤重现：1.打开并登录app进入首页 
+2.点击【服务】—服务界面上方图片点击 跳转网页 遇到404界面 界面显示【返回上级页面】和【返回首页】按钮 无作用
+预期结果：点击按钮跳转到上级页面或者首页 实际结果：没有出现任何改变","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723470_QQ%E5%9B%BE%E7%89%8720160725145557.png""]",未知,P0,审核不通过,2016-07-26 09:37:03,,14
+0,6783508,有宠V3.1.0 Verify自由测试,重庆市|重庆市|渝北区|米兰街|,vivo  vivo X5Max L,Android 4.4.4,mobile LTE,中国移动,KTU84P dev-keys,点击进入【服务】界面 【【专家在线】界面 图片文字遮挡 见附件,"测试设备：vivo x5max 版本：android4.4.4 网络：4g 
+步骤重现：1.打开并登录app进入首页 
+2.点击进入【服务】—【专家在线】中间图片出现遮挡状况
+预期结果：显示正常图片 实际结果：图片出现遮挡状况","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724635_QQ%E5%9B%BE%E7%89%8720160725150157.png""]",未知,P0,审核不通过,2016-07-26 09:37:35,,6
+0,6783508,有宠V3.1.0 Verify自由测试,重庆市|重庆市|渝北区|米兰街|,vivo  vivo X5Max L,Android 4.4.4,mobile LTE,中国移动,KTU84P dev-keys,点击【设置】 退出登录账号 然后在登录账号 就随便显示一个莫名其妙的账号了 不是自己注册的账号 见附件,"测试设备：vivo x5max 版本：android4.4.4 网络：4g 步骤重现：
+1.打开并登录app进入首页 
+2.点击【设置】—【退出登录】出现登录界面 点击登录 随便乱入了一个账号 直接登录了
+预期结果：显示自己的登录账号 实际结果：随意登录了一个账号","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725410_01.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725418_QQ%E5%9B%BE%E7%89%8720160725150157.png""]",未知,P0,审核不通过,2016-07-26 00:10:52,,11
+0,8033124,有宠V3.1.0 Verify自由测试,广东省|广州市|从化市|温泉东路|105,Huawei  PE-TL10,Android 6.0,WIFI,中国联通,EMUI4.0_PE-TL10_6.7.16,界面图片显示不全，被拉伸。,"1、打开软件；
+2、点击“商城”，进入“商城”界面；
+3、第一个图片被拉伸，没按比例缩放，很丑；","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725324_Screenshot_2016-07-25-15-06-32.png""]",未知,P0,审核不通过,2016-07-26 00:06:06,,9
+0,8033124,有宠V3.1.0 Verify自由测试,广东省|广州市|从化市|温泉东路|105,Huawei  PE-TL10,Android 6.0,WIFI,中国联通,EMUI4.0_PE-TL10_6.7.16,界面图片显示不全，被拉伸。,"1、打开软件； 
+2、点击“服务”，进入“服务”界面； 
+3、第一个图片显示不完全，只有一半，很丑；","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725354_Screenshot_2016-07-25-15-06-53.png""]",未知,P0,审核不通过,2016-07-26 00:06:25,,9
+0,9742256,有宠V3.1.0 Verify自由测试,湖南省|长沙市|芙蓉区|五一大道|128,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,微信授权登录，无响应,"1、登录页，点击下方的微信授权登录，无响应。 qq和微博授权正常
+
+设备信息 ： 红米note3 安卓5.1.1","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725378_QQ%E5%9B%BE%E7%89%8720160725151223.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,17
+0,9742256,有宠V3.1.0 Verify自由测试,湖南省|长沙市|芙蓉区|五一大道|128,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,注册账号后，无法使用自己的账户登录,"1、使用自己的手机号注册账号
+2、在登录页，点击登录，每次都会自动使用一个121开头的账号进行登录。无法输入自己注册的账号信息。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725712_QQ%E5%9B%BE%E7%89%8720160725151537.png""]",未知,P0,审核不通过,2016-07-26 00:16:18,,11
+0,9742256,有宠V3.1.0 Verify自由测试,湖南省|长沙市|芙蓉区|五一大道|128,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,设置收货地址时。收货人手机号未做有效性验证,"1、商城 - 选择一件商品 - 立即购买 - 提示需要完善收货信息
+2、输入收货信息时，收货人手机号未做有效性验证，输入值 11111111111 可以正常保存","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726407_QQ%E5%9B%BE%E7%89%8720160725152510.png""]",未知,P0,审核不通过,2016-07-26 18:57:55,,16
+0,9742256,有宠V3.1.0 Verify自由测试,湖南省|长沙市|芙蓉区|五一大道|128,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,购买宠钻时，使用微信付款，提示失败,"1、商城- 点击右下角浮动菜单，进入商城中心 
+2、点击头像下面的金币进入我的账户 
+3、点击充值 - 任意选择一个数值 - 选择微信支付， 弹出提示 支付失败","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728395_QQ%E6%88%AA%E5%9B%BE20160725154257.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728403_QQ%E6%88%AA%E5%9B%BE20160725154318.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728410_QQ%E5%9B%BE%E7%89%8720160725154159.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728423_QQ%E5%9B%BE%E7%89%8720160725154150.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,8
+0,9742256,有宠V3.1.0 Verify自由测试,湖南省|长沙市|芙蓉区|五一大道|128,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,搜索结果与条件完全不相符,1、商城 - 输入搜索条件如图所示，查询出来的结果与条件完全不相符,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728789_QQ%E5%9B%BE%E7%89%8720160725154700.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728793_QQ%E5%9B%BE%E7%89%8720160725154655.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,15
+0,9742256,有宠V3.1.0 Verify自由测试,湖南省|长沙市|芙蓉区|五一大道|128,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,购买商品，提交订单后，未付款却直接显示支付成功,"1、商城 选择商品
+2、立即购买 - 选择规格  - 立即购买 - 提交订单
+3、未提示要付款，直接显示支付成功","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729238_QQ%E6%88%AA%E5%9B%BE20160725155109.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729240_QQ%E6%88%AA%E5%9B%BE20160725155121.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729250_QQ%E6%88%AA%E5%9B%BE20160725155135.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729257_QQ%E6%88%AA%E5%9B%BE20160725155149.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729259_QQ%E5%9B%BE%E7%89%8720160725155153.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,8
+0,11100923,有宠V3.1.0 Verify自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,mobile LTE,中国移动,JDQ39B,登录-我的-设置-邀请好友-邀请微信好友或者微信朋友圈分享无法成功，qq、空间可以成功分享,登录-我的-设置-邀请好友-邀请微信好友或者微信朋友圈分享无法成功，qq、空间可以成功分享,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33755808_Screenshot_2016-07-25-21-59-14.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33755817_Screenshot_2016-07-25-21-41-40.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,1
+0,11100923,有宠V3.1.0 Verify自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,mobile LTE,中国移动,JDQ39B,登录-我的-设置-邀请好友-邀请通讯录好友-发现很多易信专线，但是通讯录中只有一个,登录-我的-设置-邀请好友-邀请通讯录好友-发现很多易信专线，但是通讯录中只有一个,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33755865_Screenshot_2016-07-25-21-59-14.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33755870_Screenshot_2016-07-25-21-59-33.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,1
+0,11100923,有宠V3.1.0 Verify自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,mobile LTE,中国移动,JDQ39B,登录-我的-个性装扮-下载紫色玄幻主题启用后，下方图标就显示宠物图标不显示模块名称，导航困难,登录-我的-个性装扮-下载紫色玄幻主题启用后，下方图标就显示宠物图标不显示模块名称，导航困难,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33756030_Screenshot_2016-07-25-21-52-33.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33756036_Screenshot_2016-07-25-21-52-04.png""]",未知,P0,审核不通过,2016-07-26 09:52:25,,13
+0,11100923,有宠V3.1.0 Verify自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,mobile LTE,中国移动,JDQ39B,登录软件-充值或者支付商品选择微信支付提示支付失败,登录软件-充值或者支付商品选择微信支付提示支付失败,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33756176_Screenshot_2016-07-25-21-45-16.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33756184_Screenshot_2016-07-25-21-48-11.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33756186_Screenshot_2016-07-25-21-45-24.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,8
+0,14109244,有宠V3.1.0 Verify自由测试,湖北省|武汉市|江汉区|北湖正街|2号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,订单支付页，微信支付提示失败，无法完成,登录软件，点击商城，选择商品，立即购买，订单支付页，微信支付提示失败，无法完成,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720895_Screenshot_2016-07-25-14-27-01.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720920_Screenshot_2016-07-25-14-27-09.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720933_Screenshot_2016-07-25-14-27-16.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720939_Screenshot_2016-07-25-14-28-01.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720944_Screenshot_2016-07-25-14-28-15.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,8
+0,14452258,有宠V3.1.0 Verify自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击我的
+2点击头像
+3点击编辑资料
+4点击收货地址，新增，可以将电话号码设置成任意11位的数字，比如12345678910","1首页点击我的
+2点击头像
+3点击编辑资料
+4点击收货地址，新增，可以将电话号码设置成任意11位的数字，比如12345678910","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33746740_Screenshot_2016-07-25-19-23-02.png""]",未知,P0,审核不通过,2016-07-26 19:00:03,,16
+0,14452258,有宠V3.1.0 Verify自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击我的
+2点击头像
+3点击分享，选择微信，无反应","1首页点击我的
+2点击头像
+3点击分享，选择微信，无反应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33747020_Screenshot_2016-07-25-19-34-55.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,18
+0,14452258,有宠V3.1.0 Verify自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击商城
+2搜索“f”
+3点击一个搜索结果“法国皇家royal canin....”
+4点击立即购买，弹出的窗口，点击颜色红色无效","1首页点击商城
+2搜索“f”
+3点击一个搜索结果“法国皇家royal canin....”
+4点击立即购买，弹出的窗口，点击颜色红色无效","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33749020_Screenshot_2016-07-25-19-47-15.png""]",未知,P0,审核不通过,2016-07-26 09:48:49,,15
+0,14452258,有宠V3.1.0 Verify自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击服务
+2点击专家在线
+3点击打开一个帖子
+4点击右上角三个点，举报
+5描述框中输入一段话后，再输入几个空格，文字会移动出屏幕","1首页点击服务
+2点击专家在线
+3点击打开一个帖子
+4点击右上角三个点，举报
+5描述框中输入一段话后，再输入几个空格，文字会移动出屏幕","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33750009_Screenshot_2016-07-25-20-11-04.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,15
+0,14452258,有宠V3.1.0 Verify自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击我的
+2点击我的记账本
+3点击新建，按计算机9999999，+，1，结果为2147483.647，明显错误","1首页点击我的
+2点击我的记账本
+3点击新建，按计算机9999999，+，1，结果为2147483.647，明显错误","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33750279_Screenshot_2016-07-25-20-16-33.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,12
+0,14452258,有宠V3.1.0 Verify自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击我的
+2点击我的消息
+3随便点击一个消息，弹出扬声器的提示，不知是什么意思","1首页点击我的
+2点击我的消息
+3随便点击一个消息，弹出扬声器的提示，不知是什么意思","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33750403_Screenshot_2016-07-25-20-20-12.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,3
+0,14452258,有宠V3.1.0 Verify自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,1注册登陆选择界面，点击登陆，无法点击忘记密码，直接登陆进入首页,1注册登陆选择界面，点击登陆，无法点击忘记密码，直接登陆进入首页,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33750755_Screenshot_2016-07-25-20-26-29.png""]",未知,P0,审核不通过,2016-07-26 09:50:56,,0
+0,14867488,有宠V3.1.0 Verify自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点我的，点设置，点个人资料，常出没地和兴趣爱好没有限定，可以输入任意字符。,进入软件登录帐号，点我的，点设置，点个人资料，常出没地和兴趣爱好没有限定，可以输入任意字符。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729249_QQ%E5%9B%BE%E7%89%8720160725155313.jpg""]",未知,P0,审核不通过,2016-07-26 19:00:50,,19
+0,14867488,有宠V3.1.0 Verify自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点我的，点头像，点分享，无法通过微信和朋友圈分享。,进入软件登录帐号，点我的，点头像，点分享，无法通过微信和朋友圈分享。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729404_QQ%E5%9B%BE%E7%89%8720160725155607.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,18
+0,14867488,有宠V3.1.0 Verify自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点我的，点设置，点退出登录，点确定，点其他快速登录微信，无法通过微信快速登录。,进入软件登录帐号，点我的，点设置，点退出登录，点确定，点其他快速登录微信，无法通过微信快速登录。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729572_QQ%E5%9B%BE%E7%89%8720160725155834.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729580_QQ%E5%9B%BE%E7%89%8720160725155831.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,17
+0,14867488,有宠V3.1.0 Verify自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点我的，点账号，年龄和养宠年限没有限制，养宠年限可以比年龄数值大。,进入软件登录帐号，点我的，点账号，年龄和养宠年限没有限制，养宠年限可以比年龄数值大。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33731340_QQ%E5%9B%BE%E7%89%8720160725161600.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,11
+0,14867488,有宠V3.1.0 Verify自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点商城，点比瑞吉狗粮，点elite图案米黄碗，点立即购买，选择尺寸等，点立即购买，点提交订单，点马上付，点微信钱包，提示支付失败。,进入软件登录帐号，点商城，点比瑞吉狗粮，点elite图案米黄碗，点立即购买，选择尺寸等，点立即购买，点提交订单，点马上付，点微信钱包，提示支付失败。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33737802_QQ%E5%9B%BE%E7%89%8720160725171924.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33737809_QQ%E5%9B%BE%E7%89%8720160725171928.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33737814_QQ%E5%9B%BE%E7%89%8720160725171934.jpg""]",未知,P0,审核不通过,2016-07-26 00:26:15,,8
+0,14940938,有宠V3.1.0 Verify自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,1 登录界面→其它方式登录→微信。点击微信图标后，提示“版本低或未安装”，本机安装微信是最新版本，但在后台自动结束进程，本软件无法唤醒结束进程的微信端。,1 登录界面→其它方式登录→微信。点击微信图标后，提示“版本低或未安装”，本机安装微信是最新版本，但在后台自动结束进程，本软件无法唤醒结束进程的微信端。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33737262_9F0FF40B5719B22CAF24E9AAEEB67F80.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33737267_A7666E0A40D4858D8DA7D1599CAA0B5B.JPG""]",未知,P0,审核通过,2016-07-27 10:00:08,,4
+0,14940938,有宠V3.1.0 Verify自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,2 在打开软件后，在登录界面，“我的”界面等多个界面，都会多次重复弹出提示“检测版本成功”。,2 在打开软件后，在登录界面，“我的”界面等多个界面，都会多次重复弹出提示“检测版本成功”。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33737287_12E29FA06B2943E6F018F77CAA5B35E0.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33737292_95C581EE80576A32DFAD94C85334C9A8.JPG""]",未知,P0,审核通过,2016-07-27 10:00:08,,4
+0,14940938,有宠V3.1.0 Verify自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,3 服务→有宠公益。点击有宠公益跳转界面，向上滑动翻页后，页面上的gif小图片不能加载，出现“？”号。,3 服务→有宠公益。点击有宠公益跳转界面，向上滑动翻页后，页面上的gif小图片不能加载，出现“？”号。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33737386_ECCBCC900F1C205171CCC0589E8BAB5F.JPG""]",未知,P0,审核不通过,2016-07-26 09:46:48,,14
+0,14940938,有宠V3.1.0 Verify自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,4 商城→比瑞吉狗粮→虚拟商品全活动→加入购物车。点击加入购物车无效。,4 商城→比瑞吉狗粮→虚拟商品全活动→加入购物车。点击加入购物车无效。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33737406_2E308D055011CA0245C606BAF52D7F07.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33737412_4FE254D1CE28CC00F1CAE904D47F1C0C.JPG""]",未知,P0,审核通过,2016-07-27 10:00:08,,2
+0,15195321,有宠V3.1.0 Verify自由测试,湖北|武汉,Xiaomi  MI 3W,Android 6.0.1,WIFI,中国联通,MMB29M,打开app，进入服务，点击配对的时候，提示是否进行位置切换-确定，app闪退。,打开app，进入服务，点击配对的时候，提示是否进行位置切换-确定，app闪退。,[],未知,P0,审核不通过,2016-07-26 09:06:11,,10
+0,15412365,有宠V3.1.0 Verify自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,一进入软件就出现“检测版本成功”的提示信息，但未进行任何检测版本相关操作。,1打开软件，进入软件；2一进入软件就出现“检测版本成功”的提示信息，但未进行任何检测版本相关操作。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33731967_QQ%E5%9B%BE%E7%89%8720160725161828.jpg""]",已知,P3,审核通过,2016-07-26 19:04:21,,4
+0,15412365,有宠V3.1.0 Verify自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,一进入登陆界面就有账号自动登陆，且无法取消这自动登陆。,1打开软件，进入登陆界面；2一进入登陆界面就有账号自动登陆，且无法取消这自动登陆。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732242_1.jpg""]",未知,P0,审核不通过,2016-07-26 00:21:26,,0
+0,15412365,有宠V3.1.0 Verify自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,宠钻后的“充值”的按键处，汉字“值”几乎看不见。,1打开软件，点击我的；2点击我的账户；3发现宠钻后的“充值”的按键处，汉字“值”几乎看不见。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732423_QQ%E5%9B%BE%E7%89%8720160725162358.jpg""]",未知,P0,审核不通过,2016-07-26 09:41:04,,5
+0,15412365,有宠V3.1.0 Verify自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,充值界面中点击一下“￥0.01”后没有反应，无法进入充值界面。,1打开软件，点击我的；2点击我的账户；3点击充值；4点击一下“￥0.01”后没有反应，无法进入充值界面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732629_QQ%E5%9B%BE%E7%89%8720160725162808.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,5
+0,15412365,有宠V3.1.0 Verify自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击在线客服；5进入后界面会马上跳回“我的账户”界面。,1打开软件，点击我的；2点击我的账户；3点击充值；4点击在线客服；5进入后界面会马上跳回“我的账户”界面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732852_QQ%E5%9B%BE%E7%89%8720160725163020.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,5
+0,15412365,有宠V3.1.0 Verify自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,常出没地界面在输入框内输入一个回车键后点击保存，可以保存成功。,1打开软件，点击我的；2点击设置；3点击个人资料；4点击常出没地；5在输入框内输入一个回车键后点击保存，可以保存成功。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33733980_QQ%E5%9B%BE%E7%89%8720160725163725.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33733985_QQ%E5%9B%BE%E7%89%8720160725163727.jpg""]",未知,P0,审核不通过,2016-07-26 09:42:07,,19
+0,15412365,有宠V3.1.0 Verify自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击“邀请新浪微博好友”，不按微博登陆界面中的确定按键，直接按左上方的取消按键，出现“授权失败”的提示信息，但是根本没有操作点击授权确定按键。,1打开软件，点击我的；2点击设置；3点击邀请好友；4点击“邀请新浪微博好友”；5不按微博登陆界面中的确定按键，直接按左上方的取消按键，出现“授权失败”的提示信息，但是根本没有操作点击授权确定按键。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734382_QQ%E5%9B%BE%E7%89%8720160725164123.jpg""]",已知,P3,审核通过,2016-07-26 19:02:21,,17
+0,15412365,有宠V3.1.0 Verify自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击“邀请微信好友”后，界面快速的缓冲了一下，就跳回没有点击按键前的界面了，无法进入微信好友分享界面。,1打开软件，点击我的；2点击设置；3点击邀请好友；4点击“邀请微信好友”后，界面快速的缓冲了一下，就跳回没有点击按键前的界面了，无法进入微信好友分享界面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734719_QQ%E5%9B%BE%E7%89%8720160725164348.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,1
+0,15412365,有宠V3.1.0 Verify自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击反馈建议，一进入在没有进行操作的情况下就出现“扬声器”三个字的提示信息。,1打开软件，点击我的；2点击设置；3点击反馈建议，一进入在没有进行操作的情况下就出现“扬声器”三个字的提示信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735198_QQ%E5%9B%BE%E7%89%8720160725164626.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,10
+0,15412365,有宠V3.1.0 Verify自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击上方滚动图片第一个“【封面】皮草之殇”图片，发现点击后没有反应，无法进入，但其他滚动图片均可进入查看详情。,打开进入，点击资讯，点击上方滚动图片第一个“【封面】皮草之殇”图片，发现点击后没有反应，无法进入，但其他滚动图片均可进入查看详情。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735880_QQ%E5%9B%BE%E7%89%8720160725165259.jpg""]",未知,P0,审核不通过,2016-07-26 09:42:32,,9
+0,15412365,有宠V3.1.0 Verify自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击其他方式快捷登陆下的微信图标，点击后没有反应，无法使用微信账号登陆。,打开软件，进入登陆界面，点击其他方式快捷登陆下的微信图标，点击后没有反应，无法使用微信账号登陆。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33736311_QQ%E5%9B%BE%E7%89%8720160725165847.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,0
+0,15412365,有宠V3.1.0 Verify自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击登陆，有账号自动登陆且无法阻止，无法使用已注册成功的账号在登陆界面登陆。,打开软件，进入登陆界面，点击登陆，有账号自动登陆且无法阻止，无法使用已注册成功的账号在登陆界面登陆。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33736446_QQ%E5%9B%BE%E7%89%8720160725170046.jpg""]",未知,P0,审核不通过,2016-07-26 09:42:51,,0
+0,16635395,有宠V3.1.0 Verify自由测试,北京市|北京市|西城区|西便门内大街|53号院,samsung  GT-N7108D,Android 4.2.2,WIFI,无SIM卡,JDQ39.N7108DZMUAMJ2,社区界面广告播放图片显示不完整,"1.打开客户端，登录成功后；
+2.进入到社区界面，查看广告播放图片，图片显示不完整","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725067_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0725_15_06_01.png""]",未知,P0,审核不通过,2016-07-26 00:06:49,,9
+0,16635395,有宠V3.1.0 Verify自由测试,北京市|北京市|西城区|西便门内大街|53号院,samsung  GT-N7108D,Android 4.2.2,WIFI,无SIM卡,JDQ39.N7108DZMUAMJ2,资讯右上角搜索，输入空格后搜索没有任何提示,"1.打开客户端，登录成功；
+2.选择资讯，进入宠物资讯界面，选择右上角的搜索；
+3.进入搜索界面，在输入框中输入空格后搜索没有任何提示","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725446_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0725_15_14_01.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725450_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0725_15_14_02.png""]",未知,P0,审核不通过,2016-07-26 00:07:11,,15
+0,16872961,有宠V3.1.0 Verify自由测试,广东|江门,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,个人中心：app年龄显示有误,点击我的，点击编辑资料，点击年龄，选择2016-07-25，app，保存后app显示：1岁。按照正常理解应为0岁，app年龄显示有误。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730574_QQ%E5%9B%BE%E7%89%8720160725160818.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730595_QQ%E5%9B%BE%E7%89%8720160725160815.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,19
+0,17115469,有宠V3.1.0 Verify自由测试,重庆市|重庆市|荣昌县|民安街|,HONOR  PLK-AL10,Android 5.0.2,MOBILE LTE,unknown,PLK-AL10C00B211,内容显示不全，遮挡严重  如图,"1，进入软件
+2，找到如图所示的界面， 红圈标记的地方 ，上面图片遮挡一部分，左侧字体也被遮挡","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728222_%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%85%A81.png""]",未知,P0,审核不通过,2016-07-26 00:14:08,,6
+0,17115469,有宠V3.1.0 Verify自由测试,重庆市|重庆市|荣昌县|民安街|,HONOR  PLK-AL10,Android 5.0.2,MOBILE LTE,unknown,PLK-AL10C00B211,图片画面上部分被遮挡,"1，进入软件
+2， 如图所示
+3，图片的上半部分被遮挡 ，影响体验","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728339_%E6%98%BE%E7%A4%BA%E4%B8%8D%E5%85%A8.png""]",未知,P0,审核不通过,2016-07-26 00:14:38,,6
+0,17115469,有宠V3.1.0 Verify自由测试,重庆市|重庆市|荣昌县|民安街|,HONOR  PLK-AL10,Android 5.0.2,MOBILE LTE,unknown,PLK-AL10C00B211,页面相关子链接无法正常打开，其他同样的图片是可以打开的,"1，进入软件 
+2，找到如图所示的滚动照片，发现第一张子链接是无法打开的，其它的滚动图片是可以打开的","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728513_%E5%AD%90%E9%93%BE%E6%8E%A5%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80.png""]",未知,P0,审核不通过,2016-07-26 00:14:57,,6
+0,17143795,有宠V3.1.0 Verify自由测试,重庆市|重庆市|渝北区|杨柳路|,Xiaomi  MI 4LTE,Android 6.0.1,WIFI,unknown,MMB29M,【个人中心-我的消息】进入有宠小助手一直反复提醒扬声器、听筒，见附件,"测试设备：小米4 版本：android6.0.1 网络：wifi 步骤重现：1.打开并登录app进入个人中心-我的消息 2.
+
+点击有宠小助手 预期结果：进入有宠小助手无提示 实际结果：进入有宠小助手一直反复提醒扬声器、听
+
+筒","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728491_%E6%88%91%E7%9A%84%E6%B6%88%E6%81%AF.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728495_%E6%88%91%E7%9A%84%E6%B6%88%E6%81%AF1.jpg""]",未知,P0,审核通过,2016-07-27 10:00:08,,20
+0,17143795,有宠V3.1.0 Verify自由测试,重庆市|重庆市|渝北区|杨柳路|,Xiaomi  MI 4LTE,Android 6.0.1,WIFI,unknown,MMB29M,【登录】启动app后就自动登录了一个帐号，见附件,"测试设备：小米4 版本：android6.0.1 网络：wifi 步骤重现：1.下载后启动app 预期结果：进入登录页面 
+
+实际结果：进入登录页面自动登录了其他帐号","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728525_%E7%99%BB%E5%BD%95.jpg""]",未知,P0,审核不通过,2016-07-26 00:15:41,,20
+0,17222895,有宠V3.1.0 Verify自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,发表帖子评论时出现重复的楼层数,"1.打开app
+2.登录账号
+3.点击底部菜单资讯
+4.点击任意一篇文章-----------发表评论----------回复几次评论
+
+预期结果：发表一个回复就出现一条回复
+实际结果：发表多次回复后出现重叠的回复消息。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33733140_Screenshot_2016-07-25-15-23-03.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33733150_Screenshot_2016-07-25-15-23-17.png""]",未知,P0,审核不通过,2016-07-26 09:44:18,,21
+0,17222895,有宠V3.1.0 Verify自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,在分享页面点击微信功能故障,"1.打开app
+2.登录账号
+3.点击底部菜单资讯
+4.点击任意一个带视频的文章
+5.点击右上角的 ""…""
+6.点击分享--------------点击微信
+
+预期结果：弹出微信
+实际结果：无法弹出微信，屏幕闪烁。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33733881_Screenshot_2016-07-25-15-25-17.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,18
+0,17222895,有宠V3.1.0 Verify自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,发求助时可以同步到的地方选微信没反应,"1.打开app
+2.登录账号
+3.点击底部菜单服务
+4.点击专家在线
+5.点击右上角法求助--------填写信息并在 下方同步到 点击微信
+
+预期结果：可同步到微信
+实际结果：可以同步到微博和qq，但无法同步到微信！","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734248_Screenshot_2016-07-25-15-29-13.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,17
+0,17222895,有宠V3.1.0 Verify自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,点击收藏后，我的收藏里面没有出现宠物商品,"1.打开app
+2.登录账号
+3.点击底部菜单商城
+4.点击任意一个商品--------------点击收藏
+预期结果：收藏成功
+实际结果：我的收藏里面没有出现商品","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734706_Screenshot_2016-07-25-15-31-29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734720_Screenshot_2016-07-25-15-31-36.png""]",未知,P0,审核通过,2016-07-27 10:00:08,,21
+0,17222895,有宠V3.1.0 Verify自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,在附近的商店商家地理描述错误,"1.打开app
+2.登录账号
+3.点击底部菜单服务
+4.点击同城服务--------点击商店
+5.查看商店
+
+预期结果：本地商店应该是几百公里以内的
+实际结果：本地商店宠物诊所地理位置有误","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735098_Screenshot_2016-07-25-15-32-52.png""]",未知,P0,审核通过,2016-07-27 10:00:09,,21
+0,17222895,有宠V3.1.0 Verify自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,第二次点击商城的联系客服图标时程序崩溃,1.打开app 2.登录账号 3.点击底部菜单商城 4.点击最右上角图标（如果是第一次点击崩溃的话，需要先断开wifi，然后点击任意一个商品加载网页失败，然后返回打开wifi再联系店小二） 预期结果：弹出联系店小二窗口 实际结果:程序崩溃,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33736153_Screenshot_2016-07-25-15-45-10.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33736157_Screenshot_2016-07-25-15-42-49.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33736164_Screenshot_2016-07-25-15-41-55.png""]",未知,P0,审核通过,2016-07-27 10:00:09,,7
+0,17222895,有宠V3.1.0 Verify自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,点击商城的猫咪零食跳转到百度,"1.打开app
+2.登录账号
+3.点击底部菜单商城
+4.点击猫咪零食
+
+预期结果：跳转到零食店铺
+实际结果：跳转到百度首页","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33736235_Screenshot_2016-07-25-15-47-53.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33736353_Screenshot_2016-07-25-15-47-56.png""]",未知,P0,审核不通过,2016-07-26 09:45:47,,21
+0,17222895,有宠V3.1.0 Verify自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,添加收货地址下选择城市和省份时程序崩溃,"1.打开app
+2.登录账号
+3.点击底部菜单商城
+4.点击右小角购物车底下的图标（有个猫咪的）
+5.点击收货地址----------点击右上角新增
+7.上下滑动城市和省份（在城市还在动时滑动省份，多次操作超出边界）
+预期结果：城市和省份恒久匹配
+实际结果：当城市和省份多次不匹配就会程序崩溃","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33736657_%28%29BRKHJMX%7DQ32WCK%40D0ZHT0.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33736667_Screenshot_2016-07-25-15-49-36.png""]",未知,P0,审核通过,2016-07-27 10:00:09,,7
+0,17222895,有宠V3.1.0 Verify自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,点击待收货的商品时程序崩溃,"1.打开app
+2.登录账号
+3.点击底部菜单商城-----------任意点击一个商品---------点击立即购买----返回商城
+4.点击购物车图标下的图标-----------点击待发货-------------点击待发货的商品
+
+预期结果：能查看待发货商品物流
+实际结果：程序崩溃","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33737026_%28%29BRKHJMX%7DQ32WCK%40D0ZHT0.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33737041_Screenshot_2016-07-25-15-50-58.png""]",未知,P0,审核通过,2016-07-27 10:00:09,,7
+0,17270460,有宠V3.1.0 Verify自由测试,安徽|阜阳,Xiaomi  HM 1SW,Android 6.0.1,WIFI,无SIM卡,mk_armani-userdebug 6.0.1 MOB3,和“有宠小二”聊天，应用停止运行,"1.打开软件，进入“社区”界面，点击下方”商城“，进入该界面。
+2.点击右上方聊天标识按钮，进入和“有宠小二”聊天界面。
+3.点击返回键，返回“商城”界面。再次点击右上方聊天标识按钮，进入和“有宠小二”聊天界面。
+4.等待一会儿，应用停止运行。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726396_Screenshot_20160725-150631.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726495_Screenshot_20160725-151029.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726749_Screenshot_20160725-144829.png""]",未知,P0,审核通过,2016-07-27 10:00:09,,20
+0,17270460,有宠V3.1.0 Verify自由测试,安徽|阜阳,Xiaomi  HM 1SW,Android 6.0.1,WIFI,无SIM卡,mk_armani-userdebug 6.0.1 MOB3,“有宠小碗”内的部分按钮失效,"1.打开软件，软件自动登录，点击下方“服务“，进入该界面，然后点击“有宠小碗”。
+2.可能弹出添加宠物提示，已添加的跳过步骤2。点击“添加”，进入宠物信息填写界面，随意填写。点击”保存“。
+3.进入“有宠小碗”，点击右上方设置按钮，进入设置界面。
+4.点击“购买有宠小碗”和“关于有宠小碗”，软件无反应。而在”有宠贝贝“中是有响应的，判定为bug。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727022_Screenshot_20160725-15122.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727037_Screenshot_20160725-151348.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727052_Screenshot_20160725-151357.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727254_Screenshot_20160725-151305.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727358_Screenshot_20160725-151313.jpg""]",未知,P0,审核通过,2016-07-27 10:00:09,,20
+0,17270460,有宠V3.1.0 Verify自由测试,安徽|阜阳,Xiaomi  HM 1SW,Android 6.0.1,WIFI,无SIM卡,mk_armani-userdebug 6.0.1 MOB3,.qq空间分享失败.,"测试手机未安装qq，只安装qq轻聊版
+1.打开软件，软件自动登录，进入“社区”首页
+2.随意点击一则帖子，进入该帖界面。点击“分享”按钮，弹出分享途径选项。
+3.点击“qq空间”，toast“分享失败”","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727653_Screenshot_20160725-151658.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727821_Screenshot_20160725-151706.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727908_Screenshot_20160725-151711.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728092_Screenshot_20160725-151805.jpg""]",未知,P0,审核通过,2016-07-27 10:00:09,,18
+0,17326092,有宠V3.1.0 Verify自由测试,四川省|资阳市|简阳市||,vivo  vivo Xplay5A,Android 5.1.1,WIFI,中国移动,LMY47V release-keys,打开软件后有明显的延迟卡顿。,"1、打开软件，登录。
+2、进入任意页面，头像无法显示，即使多次刷新后仍旧不行。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724880_%E8%B6%85%E7%BA%A7%E6%88%AA%E5%B1%8F_20160725_150053.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724885_%E8%B6%85%E7%BA%A7%E6%88%AA%E5%B1%8F_20160725_145923.png""]",未知,P0,审核不通过,2016-07-26 00:05:38,,14
+0,17338564,有宠V3.1.0 Verify自由测试,上海市|上海市|浦东新区|秀沿西路|,Xiaomi  2014011,Android 4.4.2,WIFI,中国移动,HM.KK.M12.V009.XM,“个人中心”的“个性装扮”功能页的“紫色玄幻”主题不可用,"1、登录“有宠”app
+2、进入“社区”主页面，点击右下角的“我的”功能键，进入“个人中心”
+3、在“个人中心”功能页，点击“个性装扮”，进入“个性装扮”功能页
+4、在“个性装扮”功能页，点击“紫色玄幻”主题
+5、进入主题预览模式，点击右下角“免费”功能键
+6、预期结果：“紫色玄幻”主题已启用
+7、实际结果：弹出错误提示“当前主题已不可用”","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720454_Screenshot_2016-07-25-14-11-52_yourpet.client.and.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720459_Screenshot_2016-07-25-14-11-57_yourpet.client.and.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720464_Screenshot_2016-07-25-14-12-05_yourpet.client.and.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720473_Screenshot_2016-07-25-14-12-12_yourpet.client.and.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720474_QQ%E6%88%AA%E5%9B%BE20160725142231.jpg""]",未知,P0,审核通过,2016-07-27 10:00:09,,13
+0,17338564,有宠V3.1.0 Verify自由测试,上海市|上海市|浦东新区|秀沿西路|,Xiaomi  2014011,Android 4.4.2,WIFI,中国移动,HM.KK.M12.V009.XM,“资讯”功能页没有对“宠物资讯”搜索功能进行限制，“搜索”功能异常，详见“bug截图”,"1、登录“有宠”app
+2、进入“社区”主页面，点击“资讯”功能键，进入“宠物资讯”功能页
+3、点击功能页上方“放大镜”图标的“搜索”功能键，进入“搜索”功能页
+4、在“搜索”功能，分别以“美容，金毛，猫粮，狗粮，哈，宠物美容，
+    毛”为“关键字”进行信息检索
+5、预期结果：分别能检索到以“美容，金毛，猫粮，狗粮，哈，宠物美容，
+    毛”为“关键字”的“宠物资讯”
+6、实际结果：以“狗粮，猫粮，宠物美容”为“关键字”的检索信息失败，检索
+    的结果并未以“狗粮，猫粮，宠物美容”为“关键字”（详见bug截图）
+    附：结合实际结果，初步得出结论关键字检索宠物资讯匹配的失败率约为
+    42.86%。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728847_Screenshot_2016-07-25-15-13-22_yourpet.client.and.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729295_Screenshot_2016-07-25-15-13-31_yourpet.client.and.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729301_Screenshot_2016-07-25-15-14-06_yourpet.client.and.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729313_Screenshot_2016-07-25-15-34-52_yourpet.client.and.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729317_Screenshot_2016-07-25-15-35-23_yourpet.client.and.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729321_Screenshot_2016-07-25-15-35-52_yourpet.client.and.png""]",未知,P0,审核通过,2016-07-27 10:00:09,,13
+0,17338564,有宠V3.1.0 Verify自由测试,上海市|上海市|浦东新区|秀沿西路|,Xiaomi  2014011,Android 4.4.2,WIFI,中国移动,HM.KK.M12.V009.XM,在“商城”功能页，重复来回点击右上角“有宠小二”的图标，系统会崩溃闪退（详见bug重现步骤下方的百度云链接）,"1、成功登录“有宠”app后，点击“商城”功能键，进入“商城”功能页
+2、点击“商城”功能页右上角的“有宠小二”的功能键，进入“有宠小二”的功
+     能页
+3、进入“有宠小二”的功能页后，点击左上角“<”图标样式的返回功能键，返
+     回上一级“商城”功能页
+4、此时再次点击“有宠小二”的功能键
+5、预期结果：进入“有宠小二”的功能页
+6、实际结果：进入“有宠小二”的功能页后，app崩溃，并退出，进入到手机的
+     主页面
+     附bug录制视频
+（百度云链接）：
+http://pan.baidu.com/share/link?shareid=3018055409&uk=4265250486","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734399_QQ%E5%9B%BE%E7%89%8720160725164618.png""]",未知,P0,审核通过,2016-07-27 10:00:09,,13
+0,17338879,有宠V3.1.0 Verify自由测试,北京市|北京市|海淀区|学院路|35号-北门,Honor  Che1-CL20,Android 4.4.4,WIFI,无SIM卡,Che1-CL20V100R001CHNC00B282,添加商品户，购物车合计结算错误，不符合实际结果【见图】,"1.添加三件商品后
+2.点击购物车，进入购物车结算页面
+3.合计与实际价格不符","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727328_%E7%8C%AB%E7%8B%97.jpeg""]",未知,P0,审核不通过,2016-07-26 00:12:27,,2

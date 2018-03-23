@@ -1,0 +1,205 @@
+case编号,用户id,case标题,地域,机型,操作系统,网络环境,运营商,ROM信息,bug详情,复现步骤,截图,是否未知,优先级,审核状态,提交时间,,重复情况
+0,287289,MY PTCC自由测试,吉林省|延边朝鲜族自治州|敦化市|敖东大街|2374,Xiaomi  Redmi Note 2,Android 5.0.2,WIFI,中国移动,LRX22G,"一 登陆百度微任务
+二 点击移动项目测试
+三 点击 下载，安装，打开- my ptcc自由测试。
+ 四 点击手机桌面- my ptcc自由测试 ，
+1进入my ptcc登陆页面，进入测试，点击手机退出键，显示很抱歉，“my ptcc”已停止工作。
+测试手机  红米note2","一 登陆百度微任务
+二 点击移动项目测试
+三 点击 下载，安装，打开- my ptcc自由测试。
+ 四 点击手机桌面- my ptcc自由测试 ，
+1进入my ptcc登陆页面，进入测试，点击手机退出键，显示很抱歉，“my ptcc”已停止工作。
+测试手机  红米note2","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734144_Screenshot_2016-07-04-00-21-18_com.myptcc.ptcc.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734150_Screenshot_2016-07-04-00-21-40_com.miui.home.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734153_Screenshot_2016-07-04-00-22-37_com.miui.home.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,4
+0,851370,MY PTCC自由测试,四川省|南充市|南部县|晓霞路|78号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击右上方头像然后点击最上方个人头像，在随后页面点击性别app崩溃,打开app后点击右上方头像然后点击最上方个人头像，在随后页面点击性别app崩溃,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733812_1.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,18
+0,851370,MY PTCC自由测试,四川省|南充市|南部县|晓霞路|78号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击右上方头像然后点击最上方个人头像，在随后页面点击年龄，能够设置为2023年并能保存成功，而app只是显示为20后。,打开app后点击右上方头像然后点击最上方个人头像，在随后页面点击年龄，能够设置为2023年并能保存成功，而app只是显示为20后。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733881_2.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733884_3.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,18
+0,851370,MY PTCC自由测试,四川省|南充市|南部县|晓霞路|78号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击右上方头像然后点击设置，在随后页面点击意见反馈，意见反馈框输入内容后，内容无法显示。,打开app后点击右上方头像然后点击设置，在随后页面点击意见反馈，意见反馈框输入内容后，内容无法显示。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733986_4.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,19
+0,1165965,MY PTCC自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,打开软件后，按手机返回键返回桌面，软件出现停止运行弹框，详情见操作视频http://pan.baidu.com/s/1kvkuwbl,打开软件后，按手机返回键返回桌面，软件出现停止运行弹框，详情见操作视频http://pan.baidu.com/s/1kvkuwbl,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31761746_QQ%E6%88%AA%E5%9B%BE20160704094709.jpg""]",未知,P0,审核不通过,2016-07-05 21:01:30,,17
+0,1491743,MY PTCC自由测试,北京市|北京市|海淀区|紫竹院路辅路|,Xiaomi  Mi-4c,Android 5.1.1,WIFI,中国移动,LMY47V,我的色彩数据库组合按钮闪退,"1.打开软件用qq授权登录；
+2.选择几个颜色收藏；
+3.点击右上角的用户出现主菜单，选择我的色彩数据库，选择组合选显卡页签；
+4.没有图片，点击编辑，界面下出现删除和组合按钮，点击组合按钮，界面闪退","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31764002_Screenshot_2016-07-04-09-49-43_com.myptcc.ptcc.png""]",未知,P0,审核不通过,2016-07-05 21:04:04,,16
+0,1491743,MY PTCC自由测试,北京市|北京市|海淀区|紫竹院路辅路|,Xiaomi  Mi-4c,Android 5.1.1,WIFI,中国移动,LMY47V,收藏慢而且失败几率高,"1.打开软件
+2.点击色卡，点击心形，收藏慢，提示网络问题（手机用的wifi,信号没问题），收藏没有成功","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31764840_Screenshot_20161-07-04-10-14-37_com.myptcc.ptcc.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,21
+0,1491743,MY PTCC自由测试,北京市|北京市|海淀区|紫竹院路辅路|,Xiaomi  Mi-4c,Android 5.1.1,WIFI,中国移动,LMY47V,登录和收藏时提示网络失败或错误,"1.打开软件，点击用户，用qq授权登录，有时出现网络错误；
+2.收藏色卡出现网络错误",[],未知,P0,审核不通过,2016-07-05 21:05:03,,16
+0,1491743,MY PTCC自由测试,北京市|北京市|海淀区|紫竹院路辅路|,Xiaomi  Mi-4c,Android 5.1.1,WIFI,中国移动,LMY47V,用户和拍照的位置不合理,用户在右上角显示，点击以后出现的是左侧菜单，不合理，建议和拍照功能互换,[],未知,P0,审核不通过,2016-07-05 21:05:12,,8
+0,1740866,MY PTCC自由测试,吉林省|四平市|铁西区|河南路|,Meizu  m1 note,Android 5.1,WIFI,中国联通,Flyme 5.1.6.0A,在设置中的意见反馈里，输入文字时只能光标在移动，看不到字,"在设置中的意见反馈里，输入文字时，颜色可能是设计的时候设置成了白色，所以输入后，只有光标在移动，看不到字，下边的联系方式也存在同样问题；
+网络环境：wifi
+系统环境：安卓5.0
+手机：魅蓝note",[],未知,P0,审核不通过,2016-07-05 20:59:31,,23
+0,2590458,MY PTCC自由测试,广东省|广州市|越秀区|长堤路购物休闲街广州起义路|15号,Honor  Che2-UL00,Android 4.4.2,WIFI,中国联通,Che2-UL00 V100R001CHNC00B384,未登录的状态下，设置界面有退出登录按钮。,"未登录的状态下，设置界面有退出登录按钮。华为4x，安卓4.4,wifi","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31777786_A.jpg""]",未知,P0,审核不通过,2016-07-05 21:07:01,,14
+0,2590458,MY PTCC自由测试,广东省|广州市|越秀区|长堤路购物休闲街广州起义路|15号,Honor  Che2-UL00,Android 4.4.2,WIFI,中国联通,Che2-UL00 V100R001CHNC00B384,从软件首页左上角，打开相片，选择从本地加载，选择照片（大于200k）后提示无法加载此照片,"从软件首页左上角，打开相片，选择从本地加载，选择照片（大于200k）后提示无法加载此照片。华为4x，安卓4.4,wifi","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31778268_B.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,15
+0,2590458,MY PTCC自由测试,广东省|广州市|越秀区|长堤路购物休闲街广州起义路|15号,Honor  Che2-UL00,Android 4.4.2,WIFI,中国联通,Che2-UL00 V100R001CHNC00B384,打开软件，点击一下手机返回键，无任何提示就退出软件。一秒后，手机桌面弹出ptcc停止运行。,"打开软件，点击一下手机返回键，无任何提示就退出软件。一秒后，手机桌面弹出ptcc停止运行。华为4x，安卓4.4,wifi","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31778672_A5.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,17
+0,2780186,MY PTCC自由测试,云南省|德宏傣族景颇族自治州|陇川县|中邦线|,htc  HTC M8w,Android 4.4.2,WIFI,中国移动,KOT49H release-keys,使用拍照功能导致软件奔溃(无法使用拍照功能),"1.打开软件页面，点击左上角的小图标。
+2.点击 拍照功能，对任何物体进行拍照。
+3.拍照好后确定拍好的照片","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733561_%E6%8B%8D%E7%85%A7.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,8
+0,2780186,MY PTCC自由测试,云南省|德宏傣族景颇族自治州|陇川县|中邦线|,htc  HTC M8w,Android 4.4.2,WIFI,中国移动,KOT49H release-keys,从本地加载图片功能无法使用（载入失败）,"1.打开软件，点击左上角的图标。
+2.点击使用从本地加载图片功能。
+3.任意选择一张要载入的图片。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733717_%E5%8A%A0%E8%BD%BD.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,15
+0,4648739,MY PTCC自由测试,河南省|郑州市|荥阳市|广武路|,Xiaomi  Mi-4c,Android 5.1.1,WIFI,中国联通,LMY47V,点击进入个人中心界面，点击左下方“my ptcc”区域，点击后会弹出编辑界面，在该界面输入的信息看不到，但是进入软件主页后，在个人中心弹出的编辑所输入的信息会在该界面下方搜索框出现。,点击进入个人中心界面，点击左下方“my ptcc”区域，点击后会弹出编辑界面，在该界面输入的信息看不到，但是进入软件主页后，在个人中心弹出的编辑所输入的信息会在该界面下方搜索框出现。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31729816_%E6%95%B0%E5%AD%97.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31729821_%E5%BD%A9%E8%89%B2.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,6
+0,4910335,MY PTCC自由测试,吉林省|长春市|朝阳区|永平路|9号,Letv  Letv X501,Android 5.0.2,WIFI,中国移动,DAXCNCU5501304131S release-key,打开程序然后按返回键退出程序，再次打开程序会出现程序停止允许,"打开程序 点击返回键推出程序后再次打开程序会出现程序停止运行
+
+手机乐视1s","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31761541_dddddddddd.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31761543_wwwwwwww.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,17
+0,7287803,MY PTCC自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,手机屏幕横向时打开app，app崩溃,前提条件：自动旋转屏幕打开。1.安装app，打开app。2.手机横向，app崩溃。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734022_1.jpeg""]",未知,P0,审核通过,2016-07-07 10:00:08,,4
+0,7287803,MY PTCC自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,无法载入相册图片，始终显示正在加载,1.安装并打开app。2.点击左上角相机图标，选择从相册选择图片，点击图片后，一直显示正在加载，如截图所示。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734073_2.jpeg""]",未知,P0,审核不通过,2016-07-05 20:54:23,,15
+0,7287803,MY PTCC自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,载入相册图片退出app后，app崩溃,1.安装并打开app。2.点击左上角相机图标，选择从相册选择图片，点击图片后，一直显示正在加载。3.点击手机返回键，返回至主界面，再次点击返回键，返回至桌面 ，提示app崩溃。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734134_3.jpeg""]",未知,P0,审核通过,2016-07-07 10:00:08,,15
+0,7287803,MY PTCC自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,意见反馈中输入的文字不可见,1.安装并打开app。2.点击右上角的个人图标，点击设置，选择意见反馈。3.在意见反馈界面输入内容，内容不可见。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734175_4.jpeg""]",未知,P0,审核通过,2016-07-07 10:00:08,,19
+0,7287803,MY PTCC自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,"在意见反馈中输入内容选择提交,app崩溃。",1.安装并打开app。2.点击右上角的个人图标，点击设置，选择意见反馈。3.在意见反馈界面输入内容后，点击提交，app崩溃。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734189_5.jpeg""]",未知,P0,审核通过,2016-07-07 10:00:08,,9
+0,7287803,MY PTCC自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,无法使用微信第三方登录,在登录界面，选择微信第三方登录，选择后无响应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734199_Screenshot_2016-07-04-00-16-26.jpeg""]",未知,P0,审核通过,2016-07-07 10:00:08,,11
+0,7287803,MY PTCC自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,个人设置中的年龄可以设置为2020年。,1.安装并打开app。2.注册并登陆。3.在个人中心中，个人年龄可以设置为2020年。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734216_Screenshot_2016-07-04-00-18-02.jpeg""]",未知,P0,审核通过,2016-07-07 10:00:08,,18
+0,7358634,MY PTCC自由测试,河南省|郑州市|管城回族区|G220(郑汴路)|,ACTOMA  ACTOMA ACE,Android 5.0.2,WIFI,中国移动,ACE_3.2.16.B04_20160607,app无法修改个人头像,"1、打开app，用qq登录，进入个人资料
+2，点击头像，选择图片，然后提示，图库停止运行","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31776213_QQ%E5%9B%BE%E7%89%8720160704113715.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,18
+0,7358634,MY PTCC自由测试,河南省|郑州市|管城回族区|G220(郑汴路)|,ACTOMA  ACTOMA ACE,Android 5.0.2,WIFI,中国移动,ACE_3.2.16.B04_20160607,个人资料中，年龄可以设置为20后,"1、打开app，用qq登录，进入个人资料
+2、点击年龄，选择2020，显示修改成功，年龄显示为20后","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31776540_QQ%E5%9B%BE%E7%89%8720160704113706.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,18
+0,7358634,MY PTCC自由测试,河南省|郑州市|管城回族区|G220(郑汴路)|,ACTOMA  ACTOMA ACE,Android 5.0.2,WIFI,中国移动,ACE_3.2.16.B04_20160607,双击手机返回键，退出app，然后提示ptcc停止运行,"1、打开app，用qq登录，
+2、双击手机返回键，退出app，然后提示my ptcc停止运行","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31777001_QQ%E5%9B%BE%E7%89%8720160704113711.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,17
+0,10108370,MY PTCC自由测试,山西省|太原市|杏花岭区|桃园北路|130号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角人像
+2点击头像
+3点击性别，app闪退","1首页点击右上角人像
+2点击头像
+3点击性别，app闪退","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31783200_QQ%E5%9B%BE%E7%89%8720160704132054.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,7
+0,10108370,MY PTCC自由测试,山西省|太原市|杏花岭区|桃园北路|130号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角人像
+2点击头像
+3点击年龄，设置到将来的时间，比如2025-10-2，完成，修改成功","1首页点击右上角人像
+2点击头像
+3点击年龄，设置到将来的时间，比如2025-10-2，完成，修改成功","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31783278_QQ%E5%9B%BE%E7%89%8720160704132229.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31783286_QQ%E5%9B%BE%E7%89%8720160704132235.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,7
+0,10108370,MY PTCC自由测试,山西省|太原市|杏花岭区|桃园北路|130号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角人像
+2点击头像
+3点击公司，输入比较长的一段文字，完成，会与“公司”两字重叠，难以辨识","1首页点击右上角人像
+2点击头像
+3点击公司，输入比较长的一段文字，完成，会与“公司”两字重叠，难以辨识","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31783407_QQ%E5%9B%BE%E7%89%8720160704132439.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31783408_QQ%E5%9B%BE%E7%89%8720160704132443.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,22
+0,10108370,MY PTCC自由测试,山西省|太原市|杏花岭区|桃园北路|130号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角人像
+2点击头像
+3点击昵称，输入笑脸（讯飞输入法6.3124），完成，昵称中的笑脸并不显示","1首页点击右上角人像
+2点击头像
+3点击昵称，输入笑脸（讯飞输入法6.3124），完成，昵称中的笑脸并不显示","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31783443_QQ%E5%9B%BE%E7%89%8720160704132611.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31783444_QQ%E5%9B%BE%E7%89%8720160704132616.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,22
+0,10108370,MY PTCC自由测试,山西省|太原市|杏花岭区|桃园北路|130号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角人像
+2点击设置
+3点击意见反馈，在意见反馈框内输入内容无法看到","1首页点击右上角人像
+2点击设置
+3点击意见反馈，在意见反馈框内输入内容无法看到","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31783685_QQ%E5%9B%BE%E7%89%8720160704133401.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,9
+0,10108370,MY PTCC自由测试,山西省|太原市|杏花岭区|桃园北路|130号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角人像
+2点击设置
+3点击关于ptcc,最后一段结尾是“.”，而且段落结尾都是“。”","1首页点击右上角人像
+2点击设置
+3点击关于ptcc,最后一段结尾是“.”，而且段落结尾都是“。”","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31783775_QQ%E5%9B%BE%E7%89%8720160704133539.png""]",未知,P0,审核不通过,2016-07-05 21:10:40,,5
+0,10108370,MY PTCC自由测试,山西省|太原市|杏花岭区|桃园北路|130号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击左上角照相机
+2点击从本地加载，选择一张图片
+3点击手机“<”后退，app直接退出","1首页点击左上角照相机
+2点击从本地加载，选择一张图片
+3点击手机“<”后退，app直接退出","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31783951_QQ%E5%9B%BE%E7%89%8720160704133740.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31783959_QQ%E5%9B%BE%E7%89%8720160704133745.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,15
+0,10108370,MY PTCC自由测试,山西省|太原市|杏花岭区|桃园北路|130号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角人像
+2点击设置
+3点击意见反馈，在意见反馈框内输入内容，联系方式处不输入任何内容，提交反馈成功","1首页点击右上角人像
+2点击设置
+3点击意见反馈，在意见反馈框内输入内容，联系方式处不输入任何内容，提交反馈成功","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31784123_QQ%E5%9B%BE%E7%89%8720160704134002.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,9
+0,10108370,MY PTCC自由测试,山西省|太原市|杏花岭区|桃园北路|130号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角人像
+2点击设置
+3点击退出登陆
+4再次点击设置，可以看到依然显示退出登陆，并且可以点击成功","1首页点击右上角人像
+2点击设置
+3点击退出登陆
+4再次点击设置，可以看到依然显示退出登陆，并且可以点击成功","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31784391_QQ%E5%9B%BE%E7%89%8720160704134328.png""]",未知,P0,审核不通过,2016-07-05 21:11:38,,7
+0,10108370,MY PTCC自由测试,山西省|太原市|杏花岭区|桃园北路|130号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击箭头下方的色图
+2点击心型图标，有很高的概率出现，网络连接出错，请检查网络","1首页点击箭头下方的色图
+2点击心型图标，有很高的概率出现，网络连接出错，请检查网络","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31784907_QQ%E5%9B%BE%E7%89%8720160704134901.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,16
+0,11100923,MY PTCC自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,mobile LTE,中国移动,JDQ39B,注册界面发送验证码字体颜色不显眼，当手机屏幕亮度很低的时候，基本无法辨认,注册界面发送验证码字体颜色不显眼，当手机屏幕亮度很低的时候，基本无法辨认,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31761459_Screenshot_2016-07-04-09-31-46.png""]",未知,P0,审核不通过,2016-07-05 20:59:50,,20
+0,11100923,MY PTCC自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,mobile LTE,中国移动,JDQ39B,登录app进入个人中心意见反馈输入意见和背景全是白色，看不见输入的文字,登录app进入个人中心意见反馈输入意见和背景全是白色，看不见输入的文字,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31761496_Screenshot_2016-07-04-09-33-19.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,23
+0,11100923,MY PTCC自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,mobile LTE,中国移动,JDQ39B,色卡点添加收藏红心只是边缘变红，而不是整个变成实心红心，用户不仔细观察以为并没有成功收藏,色卡点添加收藏红心只是边缘变红，而不是整个变成实心红心，用户不仔细观察以为并没有成功收藏,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31761534_Screenshot_2016-07-04-09-36-30.png""]",未知,P0,审核不通过,2016-07-05 21:00:10,,21
+0,11566222,MY PTCC自由测试,黑龙江省|哈尔滨市|道里区|八区二巷|,samsung  SM-N9002,Android 4.4.2,WIFI,中国联通,hr1122 VIP 嘉嘉侠作品 移花接玉2015夏季版,三星note3（n9002）按返回退出程序会出现“已停止”提示,"1.打开软件，各项功能运行正常
+2.返回键退出程序，出现“已停止”提示
+3.再次打开软件，重新测试，退出还是出现此提示，多次验证总出现此问题。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31777700_Screenshot_2016-07-04-11-47-20.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,17
+0,14643506,MY PTCC自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,下载app后，在登陆界面选择第三方qq登陆，登陆后昵称显示的是screen name qq而不是qq的昵称。,下载app后，在登陆界面选择第三方qq登陆，登陆后昵称显示的是screen name qq而不是qq的昵称。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31855981_Screenshot_2016-07-04-21-39-49_com.myptcc.ptcc.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,3
+0,14643506,MY PTCC自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,登陆app后，点击右上角进入个人中心，点击头像修改个人信息，修改昵称，当输入一定位数的字符时（差不多30多位字符），点击完成，系统会提示昵称应该在1到16个字符内，但尝试输入20几位字符，点击完成，系统提示修改成功。,登陆app后，点击右上角进入个人中心，点击头像修改个人信息，修改昵称，当输入一定位数的字符时（差不多30多位字符），点击完成，系统会提示昵称应该在1到16个字符内，但尝试输入20几位字符，点击完成，系统提示修改成功。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856339_Screenshot_2016-07-04-21-41-14_com.myptcc.ptcc.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856365_Screenshot_2016-07-04-21-42-14_com.myptcc.ptcc.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,12
+0,14643506,MY PTCC自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,登陆app后，点击右上角进入个人中心，点击头像修改个人信息，修改昵称，当输入昵称和之前相同时，点击完成无任何反应。,登陆app后，点击右上角进入个人中心，点击头像修改个人信息，修改昵称，当输入昵称和之前相同时，点击完成无任何反应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856436_Screenshot_2016-07-04-22-10-20_com.myptcc.ptcc.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,12
+0,14643506,MY PTCC自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,登陆app后，点击右上角进入个人中心，点击头像修改个人信息，修改性别，若修改后又想不想修改了，点回原来性别保持不变，点击完成，系统会提示修改失败，修改失败,登陆app后，点击右上角进入个人中心，点击头像修改个人信息，修改性别，若修改后又想不想修改了，点回原来性别保持不变，点击完成，系统会提示修改失败，修改失败,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856592_Screenshot_2016-07-04-21-40-41_com.myptcc.ptcc.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856597_Screenshot_2016-07-04-21-42-35_com.myptcc.ptcc.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,12
+0,14643506,MY PTCC自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,手机号注册登陆后，修改个人信息，修改性别，app闪退,下载app后，使用手机号注册，注册后登陆账号，点击左上角进入个人中心，点击头像修改个人信息，点击修改性别时，app出现闪退，而使用第三方qq和微信登陆，修改性别时不会出现闪退现象。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856696_Screenshot_2016-07-04-22-16-30_com.myptcc.ptcc.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856697_Screenshot_2016-07-04-22-49-50_com.myptcc.ptcc.png""]",未知,P0,审核不通过,2016-07-05 21:24:59,,12
+0,14643506,MY PTCC自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,登陆app，点击左上角进入个人中心，点击设置，选择意见反馈，进入后输入文本都显示白色，无法看到自己输入的文本内容。,登陆app，点击左上角进入个人中心，点击设置，选择意见反馈，进入后输入文本都显示白色，无法看到自己输入的文本内容。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856725_Screenshot_2016-07-04-21-55-58_com.myptcc.ptcc.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,19
+0,14643506,MY PTCC自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,登陆app，点击左上角进入个人中心，点击设置，选择意见反馈，，联系方式填写任意字符，点击提交反馈，都可以成功提交,登陆app，点击左上角进入个人中心，点击设置，选择意见反馈，，联系方式填写任意字符，点击提交反馈，都可以成功提交,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856746_Screenshot_2016-07-04-21-55-58_com.myptcc.ptcc.png""]",未知,P0,审核不通过,2016-07-05 21:26:25,,9
+0,14643506,MY PTCC自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,登陆app，点击左上角进入个人中心，点击设置，选择版本1.2.0，点击无反应，也未提示更新或者已是最新版本。,登陆app，点击左上角进入个人中心，点击设置，选择版本1.2.0，点击无反应，也未提示更新或者已是最新版本。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856787_Screenshot_2016-07-04-21-56-22_com.myptcc.ptcc.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,3
+0,14643506,MY PTCC自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,下载登陆app后，在my ptcc页面最下方有编号输入框，点击可以输入编号，点击左上角进入个人中心，虽然是在个人中心页面，但是点击最下方的区域，却可以穿透点击到 ptcc编号输入框。,下载登陆app后，在my ptcc页面最下方有编号输入框，点击可以输入编号，点击左上角进入个人中心，虽然是在个人中心页面，但是点击最下方的区域，却可以穿透点击到 ptcc编号输入框。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856863_Screenshot_2016-07-04-21-58-00_com.myptcc.ptcc.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,20
+0,14643506,MY PTCC自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,如果不输入编号直接通过滑动取色或者颜色栏，浏览色卡数据并进行收藏，无法在我的中心，我浏览过里面生成浏览记录，但可以生成色彩数据库记录。,下载登陆app后，在my ptcc页面浏览色彩数据，收藏浏览的色彩数据，点击左上角在我的中心查看，我的色彩数据库可以查到收藏记录，但是在我浏览过里面却没有记录，必须在my ptcc页面输入浏览的色彩ptcc编号，点击搜索后，才会在我浏览过里面显示记录。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856950_Screenshot_2016-07-04-22-02-12_com.myptcc.ptcc.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31856970_Screenshot_2016-07-04-22-02-37_com.myptcc.ptcc.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,10
+0,14643506,MY PTCC自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,下载app后，分别使用第三方qq，微信登陆再使用手机号注册登陆，浏览个人中心，我浏览过数据是三个账号串号共享数据，而我的色彩数据库却没有串号共享。,下载app后，分别使用第三方qq，微信登陆再使用手机号注册登陆，浏览个人中心，我浏览过数据是三个账号串号共享数据，而我的色彩数据库却没有串号共享。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31857029_Screenshot_2016-07-04-22-16-30_com.myptcc.ptcc.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31857031_Screenshot_2016-07-04-22-16-26_com.myptcc.ptcc.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31857034_Screenshot_2016-07-04-22-04-24_com.myptcc.ptcc.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31857037_Screenshot_2016-07-04-22-02-37_com.myptcc.ptcc.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31857048_Screenshot_2016-07-04-21-58-08_com.myptcc.ptcc.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31857050_Screenshot_2016-07-04-22-02-37_com.myptcc.ptcc.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,10
+0,14867488,MY PTCC自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B173,个人资料，年龄没有限定，可以输入以后的日期。,进入软件登录帐号，点右上角头像，点用户名，点年龄，年龄没有限制可以输入以后的日期。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31767579_Screenshot_2016-07-04-10-27-56.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31767588_Screenshot_2016-07-04-10-28-28.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,2
+0,14867488,MY PTCC自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B173,个人资料，公司名没有限定，可以输入任意字符。,进入软件登录帐号，点右上角头像，点用户名，点公司名，公司名没有限定可以输入任意字符。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31768058_Screenshot_2016-07-04-10-37-26.png""]",未知,P0,审核不通过,2016-07-05 21:51:41,,22
+0,14867488,MY PTCC自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B173,进入软件登录帐号，点底下颜色一种，点右上角分享，点我已阅读使用说明，点分享，分享的应用只看到图标看不到名称。,进入软件登录帐号，点底下颜色一种，点右上角分享，点我已阅读使用说明，点分享，分享的应用只看到图标看不到名称。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31769632_Screenshot_2016-07-04-10-48-35.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31769640_Screenshot_2016-07-04-10-47-49.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,13
+0,14940938,MY PTCC自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,mobile HSPA+,中国联通,JDQ39.I9152ZCUANB1,1 首页→右上角头像→头像→性别，点击无效。,1 首页→右上角头像→头像→性别，点击无效。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734031_kc16070323582900001.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,1
+0,14940938,MY PTCC自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,mobile HSPA+,中国联通,JDQ39.I9152ZCUANB1,2 首页→右上角头像→头像→性别，多次点击后，黑屏，软件停止，退出。,2 首页→右上角头像→头像→性别，多次点击后，黑屏，软件停止，退出。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734057_Screenshot_2016-07-03-23-55-07.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,1
+0,14940938,MY PTCC自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,mobile HSPA+,中国联通,JDQ39.I9152ZCUANB1,3 首页→右上角头像→头像→年龄，可以设置成未来时。如2027年。,3 首页→右上角头像→头像→年龄，可以设置成未来时。如2027年。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734074_kc16070400020800005.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734088_kc16070400013900003.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,7
+0,14940938,MY PTCC自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,mobile HSPA+,中国联通,JDQ39.I9152ZCUANB1,4 首页→右上角头像→头像→等级，点击无反应。,4 首页→右上角头像→头像→等级，点击无反应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734110_kc16070400064300009.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,1
+0,14940938,MY PTCC自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,mobile HSPA+,中国联通,JDQ39.I9152ZCUANB1,5 首页→右上角头像→设置→意见反馈→输入框输入内容失败，文字不能显现。,5 首页→右上角头像→设置→意见反馈→输入框输入内容失败，文字不能显现。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734130_kc16070400085400011.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,19
+0,14940938,MY PTCC自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,mobile HSPA+,中国联通,JDQ39.I9152ZCUANB1,6 首页→点击任意一色卡→下方心形，提示收藏成功。返回首页→头像→我流览过→界面无流览记录。（流览的色卡都已经收藏，却没有流览记录）,6 首页→点击任意一色卡→下方心形，提示收藏成功。返回首页→头像→我流览过→界面无流览记录。（流览的色卡都已经收藏，却没有流览记录）,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734141_kc16070400140900013.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31734149_kc16070400144600015.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,21
+0,15065700,MY PTCC自由测试,湖南省|岳阳市|湘阴县|湘杨路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,从本地加载，无法加载图片。提示加载失败,"1、安装运行app
+2、点左上角照像
+3、选择从本地加载
+4、选择图片","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31727023_Screenshot_2016-07-03-21-26-29.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,15
+0,15065700,MY PTCC自由测试,湖南省|岳阳市|湘阴县|湘杨路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,意见反馈输入内容为全白，无法看清已经输入了什么。,"1、点右上角个人头像
+2、点设置
+3、点意见反馈
+4、输入内容","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31727288_Screenshot_2016-07-03-21-32-05.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31727290_Screenshot_2016-07-03-21-32-09.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,19
+0,15065700,MY PTCC自由测试,湖南省|岳阳市|湘阴县|湘杨路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,分享时，微信与朋友圈分享，被手机功能键挡住,"1、安装运行app 
+2、随便点击一个图片
+2、点右上角分享 
+3、选择微信与朋友圈分享","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31727649_Screenshot_2016-07-03-21-27-25.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,13
+0,15065700,MY PTCC自由测试,湖南省|岳阳市|湘阴县|湘杨路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,已经注册帐号，关闭软件无法再次登录。提示登录失败，用户不存在或被禁用,"1、成功注册app。
+2、退出软件
+3、再次登录","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31728192_Screenshot_2016-07-03-21-55-19.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31728195_Screenshot_2016-07-03-21-56-11.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,14
+0,15065700,MY PTCC自由测试,湖南省|岳阳市|湘阴县|湘杨路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,更新性别提示修改失败，修改失败,"1、使用qq登陆app。
+2、点右上角个人头像
+3、点头像
+4、点性别，不修改点完成","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31728621_Screenshot_2016-07-03-21-59-53.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,12
+0,15065700,MY PTCC自由测试,湖南省|岳阳市|湘阴县|湘杨路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,出生年月，可以选择当前日期之后并保存成功,"1、使用qq登陆app。 
+2、点右上角个人头像 
+3、点头像 
+4、年龄选择当前日期之后","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31728635_Screenshot_2016-07-03-22-01-52.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31728644_Screenshot_2016-07-03-22-01-55.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,2
+0,15065700,MY PTCC自由测试,湖南省|岳阳市|湘阴县|湘杨路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,更新公司信息，输入输入法头像，点保存提示网络链接出错，请检查网络,"1、使用qq登陆app。 
+2、点右上角个人头像 
+3、点公司
+4、先输入中文保存，保存成功后，再进输入输入法头像点保存","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31728846_Screenshot_2016-07-03-22-03-45.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,22
+0,15065700,MY PTCC自由测试,湖南省|岳阳市|湘阴县|湘杨路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,我浏览过里面不增加浏览记录,"1、打开左侧功能菜单
+2、点我浏览过。只看到一条记录
+3、再浏览相关相卡
+4、再返回我浏览过。还是只一条记录","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31729442_Screenshot_2016-07-03-22-13-38.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31729444_Screenshot_2016-07-03-22-14-05.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31729445_Screenshot_2016-07-03-22-14-10.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,10
+0,15065700,MY PTCC自由测试,湖南省|岳阳市|湘阴县|湘杨路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,昵称输入输入法头像时，点保存。提示保存成功，可是页面看不到。,"1、打开左侧功能菜单 
+2、点我头像
+3、点昵称
+4、输入头像点保存","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31729792_Screenshot_2016-07-03-22-23-04.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31729795_Screenshot_2016-07-03-22-23-08.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,22
+0,15140900,MY PTCC自由测试,四川省|南充市|西充县|G212(兰渝线)|,Xiaomi  2014813,Android 4.4.4,WIFI,中国移动,KTU84P,未登录的状态-点击设置-看到有退出登录-但是我还没登录怎么退出,未登录的状态-点击设置-看到有退出登录-但是我还没登录怎么退出,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31831389_Screenshot_2016-07-04-16-11-23.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31831426_Screenshot_2016-07-04-16-11-14.png""]",未知,P0,审核不通过,2016-07-05 21:12:17,,14
+0,15140900,MY PTCC自由测试,四川省|南充市|西充县|G212(兰渝线)|,Xiaomi  2014813,Android 4.4.4,WIFI,中国移动,KTU84P,点击使用说明几个字查看说明，并没有勾选前面的框框-但是点击说明，前面的框框自动打钩了,点击使用说明几个字查看说明，并没有勾选前面的框框-但是点击说明，前面的框框自动打钩了,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31834597_Screenshot_2016-07-04-16-05-33.png""]",未知,P0,审核不通过,2016-07-05 21:12:33,,13
+0,15275851,MY PTCC自由测试,北京市|北京市|海淀区|学院路|7号,vivo  vivo X6D,Android 5.1,WIFI,中国联通,LMY47I release-keys,我的色彩数据库-修改主题-在主题中输入系统自带的表情点击完成时提示修改失败k,"1.打开软件，进入my ptcc
+2.登录
+3，点击我的色彩数据库
+4，点击编辑
+5.点击并修改主题
+6.在主题中输入自系统自带的表情
+7.点击完成","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31762896_2.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31762901_1.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,0
+0,15275851,MY PTCC自由测试,北京市|北京市|海淀区|学院路|7号,vivo  vivo X6D,Android 5.1,WIFI,中国联通,LMY47I release-keys,我的色彩数据库中肖有两个组合时，修改完一个组合的主题，再修改另一个主题时会将最后一次修改的主题加载到输入框中而不是选择的主题内容,1.打开软件，进入my ptcc 2.登录 3，点击我的色彩数据库 4，点击编辑 5.点击并修改主题 6.在主题中输入自系统自带的表情 7.点击完成8.选择另一个组合修改主题,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31763635_3.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,0
+0,15412365,MY PTCC自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击个人信息编辑界面中的性别后发现点击后软件直接闪退。,打开软件，点击右上角的用户图标进入，点击“>”进入，点击性别，发现点击后软件直接闪退。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31732543_Screenshot_2016-07-03-23-30-50.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31732544_Screenshot_2016-07-03-23-30-56.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,6
+0,15412365,MY PTCC自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击年龄进入出生日期选择界面，发现出生日期可以选择未来的时间且可以保存成功。,打开软件，点击右上角的用户图标进入，点击“>”进入，点击年龄进入出生日期选择界面，发现出生日期可以选择未来的时间且可以保存成功。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31732609_Screenshot_2016-07-03-23-32-32.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31732610_Screenshot_2016-07-03-23-32-38.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,2
+0,15412365,MY PTCC自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,意见反馈界面中在反馈输入框内和联系方式输入框内输入内容后界面上都呈现出白色，无法显示。,打开软件，点击右上角的用户图标进入，点击设置，点击意见反馈，意见反馈界面中在反馈输入框内和联系方式输入框内输入内容后界面上都呈现出白色，无法显示。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31732969_Screenshot_2016-07-03-23-40-59.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,9
+0,15412365,MY PTCC自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,"关于ptcc的界面，文字内容最后一个标点符号，“。”输入成了“.”,中文的句号打成了英文的句号。","打开软件，点击右上角的用户图标进入，点击设置，点击关于ptcc，关于ptcc的界面，文字内容最后一个标点符号，“。”输入成了“.”,中文的句号打成了英文的句号。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733035_Screenshot_2016-07-03-23-48-34.png""]",未知,P0,审核不通过,2016-07-05 20:38:44,,5
+0,15412365,MY PTCC自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,分享界面中下方的分享到的平台软件的图标被遮挡住。,打开软件，点击my ptcc界面中的圆形颜色下方的小方块颜色，进入后点击右上角的分享图标按键，进入后在下方的使用说明前方框内打钩，然后再点击下方的分享，出现的分享界面中下方的分享到的平台软件的图标被遮挡住。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733251_Screenshot_2016-07-03-23-55-27.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733252_Screenshot_2016-07-03-23-55-32.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733253_Screenshot_2016-07-03-23-56-59.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733254_Screenshot_2016-07-03-23-57-06.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,13
+0,15412365,MY PTCC自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,意见反馈界面中在反馈内容输入框内输入一个回车键后点击下方的提交反馈后出现反馈成功的提示信息。,打开软件，点击右上角的用户图标进入，点击设置，在意见反馈界面中在反馈内容输入框内输入一个回车键后点击下方的提交反馈后出现反馈成功的提示信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733538_Screenshot_2016-07-04-00-04-46.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733546_Screenshot_2016-07-04-00-04-56.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,9
+0,15412365,MY PTCC自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,我浏览过的界面中点击上方的编辑按键后，再选定好颜色块后，点击完成，选定的颜色块会被删除，但没用任何关于删除的按键或者是提示信息。,打开软件，点击右上角的用户图标进入，点击我浏览过，点击我浏览过的界面中点击上方的编辑按键后，再选定好颜色块后，点击完成，选定的颜色块会被删除，但没用任何关于删除的按键或者是提示信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733692_Screenshot_2016-07-04-00-06-47.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733693_Screenshot_2016-07-04-00-07-37.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,10
+0,15412365,MY PTCC自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,个人信息编辑界面点击等级后的“>”图标按键，发现点击后没有反应，其他信息后的“>”点击后均有反应。,打开软件，点击右上角的用户图标进入，点击“>”进入，个人信息编辑界面点击等级后的“>”图标按键，发现点击后没有反应，其他信息后的“>”点击后均有反应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31733751_Screenshot_2016-07-04-00-10-00.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,6
+0,16806012,MY PTCC自由测试,河北省|邯郸市|鸡泽县|好谦东路|,Honor  Che2-TL00,Android 4.4.2,WIFI,中国移动,Che2-TL00 V100R001CHNC00B287,头像无法从本地加载（显示失败),"1.打开软件，进入个人中心。
+2.点击头像，选择从本地加载，显示“无法加载此图片”","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31730184_Screenshot_2016-07-03-22-19-38.jpeg""]",未知,P0,审核通过,2016-07-07 10:00:08,,15
+0,16806012,MY PTCC自由测试,河北省|邯郸市|鸡泽县|好谦东路|,Honor  Che2-TL00,Android 4.4.2,WIFI,中国移动,Che2-TL00 V100R001CHNC00B287,进行操作时出现闪退现象,打开软件——进行各个功能测试——偶尔出现闪退现象。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31730229_Screenshot_2016-07-03-22-23-40.jpeg""]",未知,P0,审核通过,2016-07-07 10:00:08,,8
+0,16806012,MY PTCC自由测试,河北省|邯郸市|鸡泽县|好谦东路|,Honor  Che2-TL00,Android 4.4.2,WIFI,中国移动,Che2-TL00 V100R001CHNC00B287,进行意见反馈时无法输入字体,"1.打开软件，进入个人中心
+2.进入""设置“——意见反馈，输入字体时，无法显示，输入手机号，也无法显示。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31730436_Screenshot_2016-07-03-22-36-28.jpeg""]",未知,P0,审核通过,2016-07-07 10:00:08,,23
+0,16847580,MY PTCC自由测试,北京|北京,Huawei  HUAWEI MT7-TL10,Android 6.0,MOBILE LTE,中国联通,MT7-TL10C00B561,意见反馈页面输入内容不可见，显示空白，只是根据光标位置能看出来前面是有内容的,首页点击右上角图标-设置-意见反馈页面输入内容不可见，显示空白，只是根据光标位置能看出来前面是有内容的,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31762403_Screenshot_2016-07-04-09-56-32.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,23
+0,16872961,MY PTCC自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,设置年龄显示：修改失败，修改失败,进入app，点击右上角设置按钮，进入个人资料设置页面。点击年龄，设置后完成，app先显示修改成功，然后又显示修改失败，修改失败。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750116_QQ%E5%9B%BE%E7%89%8720160704065542.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750120_QQ%E5%9B%BE%E7%89%8720160704065546.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750123_QQ%E5%9B%BE%E7%89%8720160704065550.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,12
+0,16872961,MY PTCC自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,搜索条不能通过关键字搜索到内容,在个人资料页面，点击：购买色卡，点击：店铺，点击：分类/搜索，输入1600，app显示未找到符合的宝贝。而在前一页面明显可以看到有fap1600普及本的宝贝。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750356_QQ%E5%9B%BE%E7%89%8720160704065553.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750357_QQ%E5%9B%BE%E7%89%8720160704065557.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750387_QQ%E5%9B%BE%E7%89%8720160704065651.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750389_QQ%E5%9B%BE%E7%89%8720160704065656.jpg""]",未知,P0,审核不通过,2016-07-05 20:56:44,,20
+0,16872961,MY PTCC自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,意见反馈页面看不到所输入的文字,个人资料页面，点击设置，再点击意见反馈，输入文字，页面上看不到所输入的文字,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750583_QQ%E5%9B%BE%E7%89%8720160704065553.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750588_QQ%E5%9B%BE%E7%89%8720160704065621.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,23
+0,16872961,MY PTCC自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,第三方账号登录不能联系客服，被要求淘宝账号登录,用qq账号登录，在购买色卡页面点击下方：客服，app跳转到淘宝账号登录，第三方账号登录不能联系客服。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750699_QQ%E5%9B%BE%E7%89%8720160704065557.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750714_QQ%E5%9B%BE%E7%89%8720160704065641.jpg""]",未知,P0,审核不通过,2016-07-05 20:57:08,,11
+0,16872961,MY PTCC自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,第三方账号登录不能将物品放入购物车,在购买色卡页面，点击加入购物车，，app显示需要登录才能继续访问,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750810_QQ%E5%9B%BE%E7%89%8720160704065557.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750815_QQ%E5%9B%BE%E7%89%8720160704065604.jpg""]",未知,P0,审核不通过,2016-07-05 20:57:56,,11
+0,16872961,MY PTCC自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,意见反馈后app会跳转到一个类似淘宝的页面,在购买色卡页面，滑动到最下方，点击：意见反馈，输入资料，点击发表，app会跳转到一个类似淘宝的页面，这个页面在app中用其他方法是无法进入的。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750936_QQ%E5%9B%BE%E7%89%8720160704065557.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750984_QQ%E5%9B%BE%E7%89%8720160704065632.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31750988_QQ%E5%9B%BE%E7%89%8720160704065636.jpg""]",未知,P0,审核不通过,2016-07-05 20:59:16,,23
+0,17201968,MY PTCC自由测试,海南省|海口市|琼山区|振发路|125,Xiaomi  Redmi 3S,Android 6.0.1,WIFI,中国联通,MMB29M,点击右上角的人像图标进入主菜单。点击设置，点击意见反馈。输入意见时，字体默认为白色，跟背景同色，看不到字。只有选中时才能看到字。,点击右上角的人像图标进入主菜单。点击设置，点击意见反馈。输入意见时，字体默认为白色，跟背景同色，看不到字。只有选中时才能看到字。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31729563_1.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31729564_1-1.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,23
+0,17201968,MY PTCC自由测试,海南省|海口市|琼山区|振发路|125,Xiaomi  Redmi 3S,Android 6.0.1,WIFI,中国联通,MMB29M,点击右上角的人像图标进入主菜单。点击设置，点击意见反馈。输入完意见和联系方式后，点提交反馈，app崩溃。,点击右上角的人像图标进入主菜单。点击设置，点击意见反馈。输入完意见和联系方式后，点提交反馈，app崩溃。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31729674_2.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,9
+0,17201968,MY PTCC自由测试,海南省|海口市|琼山区|振发路|125,Xiaomi  Redmi 3S,Android 6.0.1,WIFI,中国联通,MMB29M,点击右上角的人像图标进入主菜单。点击设置，在未登录的情况下，下方的退出登录按钮可以点击。但点击后，只是退回到主菜单而已。,点击右上角的人像图标进入主菜单。点击设置，在未登录的情况下，下方的退出登录按钮可以点击。但点击后，只是退回到主菜单而已。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31729774_3.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31729775_3-1.jpg""]",未知,P0,审核不通过,2016-07-05 20:28:56,,14
+0,17201968,MY PTCC自由测试,海南省|海口市|琼山区|振发路|125,Xiaomi  Redmi 3S,Android 6.0.1,WIFI,中国联通,MMB29M,手机注册后，在登录界面登录，出现错误提示（用户名密码反复确认输入正常。）,手机注册后，在登录界面登录，出现错误提示（用户名密码反复确认输入正常。）,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31730017_4.jpg""]",未知,P0,审核通过,2016-07-07 10:00:08,,14
+0,17222895,MY PTCC自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,内存溢出导致软件崩溃,"1.打开软件
+2.授权qq
+3.点击任意色卡---同一类别色卡下任意收藏或取消(多次，快速)
+4.切换色卡----同一类别色卡下任意收藏或取消(多次，快速)
+5.色卡出现删除失败---返回后软件崩溃","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31761536_Screenshot_2016-07-04-09-38-19_com.myptcc.ptcc.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/31761540_Screenshot_2016-07-04-09-37-50_com.myptcc.ptcc.png""]",未知,P0,审核通过,2016-07-07 10:00:08,,21

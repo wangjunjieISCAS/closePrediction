@@ -1,0 +1,271 @@
+case编号,用户id,case标题,地域,机型,操作系统,网络环境,运营商,ROM信息,bug详情,复现步骤,截图,是否未知,优先级,审核状态,提交时间,,重复情况
+0,531756,wifi369V1.0自由测试,山西省|太原市|迎泽区|公寓路|,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,中国移动,4.4.058.P0.150407.8675-A,注册帐号，登录，然后点击左下角小齿轮登出帐号以后，在登录界面点击“注册”，然后点击返回，再看设置（小齿轮），发现已经登录帐号了。,注册帐号，登录，然后点击左下角小齿轮登出帐号以后，在登录界面点击“注册”，然后点击返回，再看设置（小齿轮），发现已经登录帐号了。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27716910_Screenshot_2016-06-05-17-15-47_com.wifi369.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27716917_Screenshot_2016-06-05-17-15-44_com.wifi369.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,8
+0,760595,wifi369V1.0自由测试,河北省|邯郸市|邯山区|五仓路|,Xiaomi  HM NOTE 1LTETD,Android 4.4.2,WIFI,中国移动,JH3CN0.0-41952c44d36acc0d837d5,商务合作网页有网页缩小现象,从首页右上角的菜单中的商务合作进入，进入商务合作页面，但是不正常，有缩小现象,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27694013_20160605_135907-1.png""]",未知,P0,审核不通过,2016-06-07 14:27:52,,7
+0,760595,wifi369V1.0自由测试,河北省|邯郸市|邯山区|五仓路|,Xiaomi  HM NOTE 1LTETD,Android 4.4.2,WIFI,中国移动,JH3CN0.0-41952c44d36acc0d837d5,新闻中的辽宁人事考试2014年6月报名安排页面显示不正常,由右上角的菜单进入本地新闻，，第一条新闻辽宁人事考试2014年6月报名安排页面显示不正常,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27695112_20160605_140053.png""]",未知,P0,审核不通过,2016-06-07 14:53:44,,14
+0,820942,wifi369V1.0自由测试,浙江省|杭州市|余杭区|闲水路|,Hisense  HS-E968,Android 4.1.2,WIFI,unknown,HS-E968 4.1.2 JZO54K eng.lewa.,登录框样式和注册页面样式显示问题,"打开软件  用户登录框字符显示样式问题 里面有竖线
+ 选择注册      注册页面 注册文本框同样存在上述显示问题","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27716684_8.jpg""]",未知,P0,审核不通过,2016-06-07 15:44:49,,12
+0,851370,wifi369V1.0自由测试,四川省|南充市|南部县|G212|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,在该app的注册界面，三个输入框在输入内容后，均有竖线出现！影响后续删除操作……,在该app的注册界面，三个输入框在输入内容后，均有竖线出现！影响后续删除操作……测试环境：红米note3 安卓5.0.2 wifi,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27703596_1.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27703599_2.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27703612_3.jpg""]",已知,P3,审核通过,2016-06-13 16:00:42,,9
+0,851370,wifi369V1.0自由测试,四川省|南充市|南部县|G212|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,在进入该app后，点击左下角的设置图标，然后选择修改密码，当输入正确原始密码和新密码后，却提示原始密码输入错误，修改不成功。,在进入该app后，点击左下角的设置图标，然后选择修改密码，当输入正确原始密码和新密码后，却提示原始密码输入错误，修改不成功。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27704924_4.jpg""]",未知,P0,审核不通过,2016-06-07 15:16:34,,1
+0,851370,wifi369V1.0自由测试,四川省|南充市|南部县|G212|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,在进入该app后，将主页的无线生活滑动图片栏滑动到第三页，出现排版问题，图片位置没有对齐，出现空白，影响浏览。,在进入该app后，将主页的无线生活滑动图片栏滑动到第三页，出现排版问题，图片位置没有对齐，出现空白，影响浏览。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27705335_5.jpg""]",未知,P0,审核不通过,2016-06-07 15:27:10,,11
+0,851370,wifi369V1.0自由测试,四川省|南充市|南部县|G212|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,在进入该app后，在主页点击右上方的三横线图片，再点击本地新闻，所跳转页面图片加载不成功，不能显示图片。,在进入该app后，在主页点击右上方的三横线图片，再点击本地新闻，所跳转页面图片加载不成功，不能显示图片。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27705547_6.jpg""]",未知,P0,审核通过,2016-06-13 16:00:42,,11
+0,851370,wifi369V1.0自由测试,四川省|南充市|南部县|G212|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,在进入该app后，在主页点击右上方的三横线图片，再点击首页，排版出现问题，页面图标未能对齐。,在进入该app后，在主页点击右上方的三横线图片，再点击首页，排版出现问题，页面图标未能对齐。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27705936_7.jpg""]",未知,P0,审核不通过,2016-06-07 15:20:16,,11
+0,2872823,wifi369V1.0自由测试,福建省|福州市|马尾区|石狮路|6号,Xiaomi  HM 2A,Android 4.4.4,WIFI,中国联通,KTU84P,注册时，键入框中有个光标一直存在,"注册时，键入框中有个光标一直存在
+注册时，键入框中有个光标一直存在","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27732578_Screenshot_2016-06-05-19-34-57_com.wifi369_1465126849476.jpg""]",未知,P0,审核不通过,2016-06-07 16:12:01,,9
+0,2872823,wifi369V1.0自由测试,福建省|福州市|马尾区|石狮路|6号,Xiaomi  HM 2A,Android 4.4.4,WIFI,中国联通,KTU84P,分享取消按返回直接退出,截图1中点击进入截图2，在图片中点击新浪微博分享，弹出截图3，此时按手机返回键，直接返回到微任务端。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27733410_Screenshot_2016-06-05-19-45-58_com.wifi369_1465127242769.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27733619_Screenshot_2016-06-05-19-46-10_com.wifi369_1465127288098_1465127381259.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27733632_Screenshot_2016-06-05-19-46-18_com.wifi369_1465127321506.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27733748_Screenshot_2016-06-05-19-46-26_com.baidu.addressugc_1465127341110.jpg""]",未知,P0,审核通过,2016-06-13 16:00:42,,3
+0,2872823,wifi369V1.0自由测试,福建省|福州市|马尾区|石狮路|6号,Xiaomi  HM 2A,Android 4.4.4,WIFI,中国联通,KTU84P,字体太小影响浏览，页面无法放大。,"字体太小影响浏览，页面无法放大。
+字体太小影响浏览，页面无法放大。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27734091_Screenshot_2016-06-05-19-59-41_com.wifi369.png""]",未知,P0,审核不通过,2016-06-07 15:55:52,,11
+0,3463911,wifi369V1.0自由测试,四川省|成都市|大邑县|邑邛故道|,Xiaomi  HM 1S,Android 4.4.4,WIFI,中国移动,KTU84P,打开app，进入登录页面，在用户代码、登录密码、确认密码三个选择项的第1个字上面都明显有一竖,我使用的是红米1s电信版，打开app，进入登录页面，在用户代码、登录密码、确认密码三个选择项的第1个字上面都明显有一竖,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27705688_Screenshot_2016-06-05-15-53-36_com.wifi369.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,15
+0,7287803,wifi369V1.0自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,获取短信注册码无间隔时间未限制,"1.安装并打开app
+2.点击注册，输入手机号码，密码，点击获取短信验证码，短信验证码获取无间隔时间。","[""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif""]",未知,P0,审核通过,2016-06-13 16:00:42,,10
+0,7287803,wifi369V1.0自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,在输入框中始终会存在一个光标显示,"1.安装并打开app
+2.在登录界面的输入框中始终有个光标。点击注册，输入手机号，该输入框中的光标仍然存在，影响美观。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27717728_2.jpeg""]",未知,P0,审核不通过,2016-06-07 15:50:19,,9
+0,7287803,wifi369V1.0自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,手机屏幕横置时，界面无法显示完整，且无法滑动。,"1.安装并打开app
+2.打开手机自动旋转屏幕，将手机方向变为横向。此时程序的界面无法显示完整，且无法滑动。","[""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif""]",未知,P0,审核不通过,2016-06-07 15:50:38,,16
+0,7287803,wifi369V1.0自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,程序网页中的音频无法关闭,"1.安装并打开app
+2.注册并登陆
+3.在首页，点击九号大院，下拉，播放其中的音频，该音频在返回至app首页会继续播放，且播放结束后会自动循环。
+4.点击返回，返回至app首页，此时音频仍然继续播放。再次点击进入九号大院菜品，播放其中的音频，此时会两个音频同时播放。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27718368_4.jpeg""]",未知,P0,审核通过,2016-06-13 16:00:42,,5
+0,7287803,wifi369V1.0自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,店铺搜索返回的部门结果与搜索关键词无关,1.安装并打开app 2.注册并登陆 3.手机自动旋转屏幕打开。4.横向置放手机，在搜索栏目中输入关键词，返回的部分搜索结果与关键词无关。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27718588_5.jpeg""]",未知,P0,审核通过,2016-06-13 16:00:42,,16
+0,7287803,wifi369V1.0自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,手机变换方向时，app页面会刷新。,1.安装并打开app 2.注册并登陆 3.手机自动旋转屏幕打开。4.横向置放手机，在搜索栏目中输入关键词，返回搜索结果。5.将手机变换为竖向，app页面竖向显示，且页面返回至首页，被刷新,[],未知,P0,审核通过,2016-06-13 16:00:42,,16
+0,7287803,wifi369V1.0自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,无法进行微博分享，显示无法打开,1.安装并打开app 2.注册并登陆 3。选择如“九号大院”，在页面中点击微博分享图标，在跳转的页面中显示无法打开,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27719114_6.jpeg""]",未知,P0,审核通过,2016-06-13 16:00:42,,3
+0,7287803,wifi369V1.0自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,注册登录后选择退出登录后跳转至登录页面，点击返回，会再次回到用户的设置界面。,1.安装并打开app 2.注册并登陆 3。选择设置，选择用户登出，后跳转至登录页面，点击返回，会再次回到用户的设置界面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27720945_9.jpeg""]",未知,P0,审核通过,2016-06-13 16:00:42,,8
+0,8993718,wifi369V1.0自由测试,四川省|成都市|双流县|红星路南延线|,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,"登陆界面输入域存在遮挡字符“|”,界面不美观","1.打开软件
+2.观察登陆界面的输入域（结果如图）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693179_Screenshot_2016-06-05-13-44-51.png""]",未知,P0,审核不通过,2016-06-07 14:17:08,,12
+0,8993718,wifi369V1.0自由测试,四川省|成都市|双流县|红星路南延线|,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,未登陆时，打开软件，登陆界面会提示无用信息“没有保存的用户信息”,"前提：
+未登陆app
+1.打开软件
+2.观察界面下方提示信息（提示无用信息“没有保存的用户信息”，建议移出）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693434_Screenshot_2016-06-05-13-45-05.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,17
+0,8993718,wifi369V1.0自由测试,四川省|成都市|双流县|红星路南延线|,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,在登陆页面多次点击手机back键，软件均无法关闭,"1.打开软件
+2.点击手机返回键
+3.观察界面显示（无任何反应，软件不会关闭）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693448_Screenshot_2016-06-05-13-45-16.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,8
+0,8993718,wifi369V1.0自由测试,四川省|成都市|双流县|红星路南延线|,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,注册界面的输入域有遮挡字符，影响体验,"1.打开软件
+2.点击注册
+3.观察注册界面的输入域字符提示，输入字符后继续观察（有遮挡）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693518_Screenshot_2016-06-05-13-46-02.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693554_Screenshot_2016-06-05-13-46-49.png""]",未知,P0,审核不通过,2016-06-07 14:19:04,,12
+0,8993718,wifi369V1.0自由测试,四川省|成都市|双流县|红星路南延线|,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,注册成功后的界面无法加载成功,"1.打开软件 2.点击注册 3.输入有效信息后，点击注册
+4.观察页面显示（如图）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693663_Screenshot_2016-06-05-13-47-18.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,12
+0,8993718,wifi369V1.0自由测试,四川省|成都市|双流县|红星路南延线|,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,修改密码输入域只能输入8位字符，而注册时的密码能使用8位以上的密码进行注册，无法成功修改密码,"1.打开软件 2.输入登陆信息登陆 
+3.点击左下角 设置按钮
+4.点击修改密码
+5.在输入域中输入多位字符（超过8位）
+6.观察界面显示（只能输入8位，如果注册密码是8位以上将无法修改密码）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693818_Screenshot_2016-06-05-13-49-33.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,1
+0,9630431,wifi369V1.0自由测试,广东省|深圳市|宝安区|开屏路|17,htc  HTC M8t,Android 4.4.4,WIFI,无SIM卡,KTU84P release-keys,打开app提示没法运行,打开app，提示wify369已停止运行,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27722737_20160605_180509.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,6
+0,9742256,wifi369V1.0自由测试,湖南省|长沙市|开福区|芙蓉北路|197号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,"1.登录和注册页，输入框的标签右侧有一个 ""|"" ,和输入的信息显示会重叠在一起.","1.登录和注册页，输入框的标签右侧有一个 ""|"" ,和输入的信息显示会重叠在一起","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27704125_QQ%E6%88%AA%E5%9B%BE20160605155349.png""]",未知,P0,审核不通过,2016-06-07 15:31:51,,9
+0,9742256,wifi369V1.0自由测试,湖南省|长沙市|开福区|芙蓉北路|197号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,注册时，短信注册码不是由短信获取，起不到任何验证电话号码的作用,"注册页，输入电话号 - 点击获取短信验证码 - 
+不会收到短信，app会自动在验证码输入框填入一个数字，用这个数字就可以成功注册
+这样的验证码起不到任何验证电话号码的作用，我随意输入一个符合手机号规则的数字组合 都可以成功注册。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27704644_QQ%E6%88%AA%E5%9B%BE20160605155221.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,10
+0,9742256,wifi369V1.0自由测试,湖南省|长沙市|开福区|芙蓉北路|197号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,"1登录系统后，点左下角齿轮进入 设置页
+2点修改密码
+3该页面如有任意输入信息有误时，会弹出错误提示，然后页面会关闭。需要重新进入页面，所有信息都需要重新输入","1登录系统后，点左下角齿轮进入 设置页
+2点修改密码
+3该页面如有任意输入信息有误时，会弹出错误提示，然后页面会关闭。需要重新进入页面，所有信息都需要重新输入","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27705156_QQ%E5%9B%BE%E7%89%8720160605155230.png""]",未知,P0,审核不通过,2016-06-07 15:41:54,,17
+0,9742256,wifi369V1.0自由测试,湖南省|长沙市|开福区|芙蓉北路|197号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,"同样是修改密码页面 
+1.旧密码是明文展示，新密码又是密文展示，不统一。明文显示也不安全
+2.密码可以使用1位数，安全性低","同样是修改密码页面 
+1.旧密码是明文展示，新密码又是密文展示，不统一。明文显示也不安全
+2.密码可以使用1位数，安全性低","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27706107_Screenshot_2016-06-05-16-05-17_com.wifi369.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,1
+0,9742256,wifi369V1.0自由测试,湖南省|长沙市|开福区|芙蓉北路|197号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,"1登录 - 设置页 - 注册新用户
+2注册完成一个新用户后，自动退出了之前的用户，登录了新用户
+
+设置页来个注册新用户是什么概念","登录 - 设置页 - 注册新用户
+注册完一个新用户后，自动登录了新用户。切换到了新用户了
+
+设置页来个注册新用户是什么概念","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27706555_QQ%E6%88%AA%E5%9B%BE20160605160928.png""]",未知,P0,审核不通过,2016-06-07 15:36:48,,17
+0,9742256,wifi369V1.0自由测试,湖南省|长沙市|开福区|芙蓉北路|197号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,"1无线生活 - 选一个条目（西班牙驼背鹰）进入
+2点一下图片，出现分享到的菜单
+3 选择分享到新浪微博，提示找不到网页，分享到qq空间也都找不到账户信息","1无线生活 - 选一个条目（西班牙驼背鹰）进入
+2点一下图片，出现分享到的菜单
+3 选择分享到新浪微博，提示找不到网页，分享到qq空间也都找不到账户信息","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27707183_QQ%E6%88%AA%E5%9B%BE20160605161344.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27707191_Screenshot_2016-06-05-16-10-48_com.wifi369.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27707199_Screenshot_2016-06-05-16-11-28_com.wifi369.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,3
+0,9742256,wifi369V1.0自由测试,湖南省|长沙市|开福区|芙蓉北路|197号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,"1.右上角菜单打开 选商务合作
+2选商务合作
+3最下方的评论填写部分，邮箱格式输入错误时的提示信息全部是英文","1.右上角菜单打开 选商务合作
+2选商务合作
+3最下方的评论填写部分，邮箱格式输入错误时的提示信息全部是英文","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27708376_Screenshot_2016-06-05-16-16-12_com.wifi369.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27708381_QQ%E6%88%AA%E5%9B%BE20160605161925.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27708383_QQ%E6%88%AA%E5%9B%BE20160605161950.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,7
+0,9742256,wifi369V1.0自由测试,湖南省|长沙市|开福区|芙蓉北路|197号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,"系统完全是原生框架+网页展示，页面上基本都没有返回按钮。
+一般的页面还可以通过右上角菜单- 首页来返回
+
+但进入到某些特殊页面会无法返回。点手机返回键会直接退出应用","1. 在首页 拉到最下方 点 备案信息
+2. 跳转到工信部备案信息页。到该页后无法回转到应用的首页了，只能退出系统重进","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27709365_QQ%E6%88%AA%E5%9B%BE20160605162540.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27709380_QQ%E6%88%AA%E5%9B%BE20160605162549.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,0
+0,9742256,wifi369V1.0自由测试,湖南省|长沙市|开福区|芙蓉北路|197号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,"通过右上角菜单进入“本地生活” 和点击首页下方的“本地生活” 
+进入的是两个不同的页面。功能错乱。","通过右上角菜单进入“本地生活” 和点击首页下方的“本地生活” 
+进入的是两个不同的页面。功能错乱。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27710179_QQ%E6%88%AA%E5%9B%BE20160605163017.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27710185_QQ%E6%88%AA%E5%9B%BE20160605163026.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,13
+0,9742256,wifi369V1.0自由测试,湖南省|长沙市|开福区|芙蓉北路|197号,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,首页 无线生活 - 图片列表显示错位。样式错误,首页 无线生活 - 图片列表显示错位了。只有第一页有此问题。第二页之后均正常,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27712688_QQ%E6%88%AA%E5%9B%BE20160605164602.png""]",未知,P0,审核不通过,2016-06-07 15:42:23,,5
+0,10108370,wifi369V1.0自由测试,山西省|太原市|迎泽区|新泽巷|,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,1登陆界面窗口中，用户代码和登陆密码框中有“|”对文字有遮挡,1登陆界面窗口中，用户代码和登陆密码框中有“|”对文字有遮挡,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27780865_Screenshot_2016-06-06-00-55-54.png""]",未知,P0,审核不通过,2016-06-07 16:12:05,,15
+0,10108370,wifi369V1.0自由测试,山西省|太原市|迎泽区|新泽巷|,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角三横杠
+2点击本地新闻
+3新闻配图都无法显示","1首页点击右上角三横杠
+2点击本地新闻
+3新闻配图都无法显示","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27783040_Screenshot_2016-06-06-01-02-54.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,14
+0,10108370,wifi369V1.0自由测试,山西省|太原市|迎泽区|新泽巷|,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角三横杠
+2点击本地新闻
+3点击“人民日报评论员：勇毅笃行...”
+4点击手机后退，app退出，无法退回到上一级","1首页点击右上角三横杠
+2点击本地新闻
+3点击“人民日报评论员：勇毅笃行...”
+4点击手机后退，app退出，无法退回到上一级","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27783942_Screenshot_2016-06-06-01-05-24.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,14
+0,10108370,wifi369V1.0自由测试,山西省|太原市|迎泽区|新泽巷|,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角三横杠
+2点击商务合作
+3点击营口大张原...
+4点击图片，图片上方弹出分享到
+5点击微博图标，打开死链","1首页点击右上角三横杠
+2点击商务合作
+3点击营口大张原...
+4点击图片，图片上方弹出分享到
+5点击微博图标，打开死链","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27785283_Screenshot_2016-06-06-01-09-05.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27785295_Screenshot_2016-06-06-01-08-52.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,3
+0,10108370,wifi369V1.0自由测试,山西省|太原市|迎泽区|新泽巷|,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角三横杠
+2点击本地新闻，上方标题栏（首页 商务合作本地生活...）格式明显不整齐，有的空格大，有的空格小，有的没空格","1首页点击右上角三横杠
+2点击本地新闻，上方标题栏（首页 商务合作本地生活...）格式明显不整齐，有的空格大，有的空格小，有的没空格","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27785981_Screenshot_2016-06-06-01-11-53.png""]",未知,P0,审核不通过,2016-06-07 15:59:41,,14
+0,10108370,wifi369V1.0自由测试,山西省|太原市|迎泽区|新泽巷|,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角三横杠
+2点击本地新闻
+3点击“千船竞发...”
+4内容格式混乱，比如“千船竞发捞海蜇”和“酸甜麻辣任您调味”等段落标题没有对齐","1首页点击右上角三横杠
+2点击本地新闻
+3点击“千船竞发...”
+4内容格式混乱，比如“千船竞发捞海蜇”和“酸甜麻辣任您调味”等段落标题没有对齐","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27788193_Screenshot_2016-06-06-01-17-08.png""]",未知,P0,审核不通过,2016-06-07 15:59:32,,14
+0,10108370,wifi369V1.0自由测试,山西省|太原市|迎泽区|新泽巷|,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角三横杠
+2点击本地生活
+3配图大小不一，导致备注的问题高低不一致","1首页点击右上角三横杠
+2点击本地生活
+3配图大小不一，导致备注的问题高低不一致","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27791333_Screenshot_2016-06-06-01-27-19.png""]",未知,P0,审核不通过,2016-06-07 15:59:51,,13
+0,10108370,wifi369V1.0自由测试,山西省|太原市|迎泽区|新泽巷|,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角三横杠
+2点击本地生活
+3点击个人征信信息服务平台
+4点击文章中链接，死链，无法打开","1首页点击右上角三横杠
+2点击本地生活
+3点击个人征信信息服务平台
+4点击文章中链接，死链，无法打开","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27792794_Screenshot_2016-06-06-01-30-31.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27792808_Screenshot_2016-06-06-01-31-34.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,13
+0,10108370,wifi369V1.0自由测试,山西省|太原市|迎泽区|新泽巷|,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1登陆首页点击无线生活中的，9号大院菜品
+2在图片下方有download file，点击毫无反应","1登陆首页点击无线生活中的，9号大院菜品
+2在图片下方有download file，点击毫无反应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27795085_Screenshot_2016-06-06-01-37-44.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27795171_Screenshot_2016-06-06-01-35-23.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,5
+0,11631802,wifi369V1.0自由测试,广东省|中山市|中山市市辖区|隆发路|13-b,Huawei  HUAWEI G7-UL20,Android 4.4.4,WIFI,中国联通,G7-UL20V100R001CHNC00B266,在设置页连续点呼叫客服两次，会出现错误提示：拨号未送出。,在设置页连续点呼叫客服两次，会出现错误提示：拨号未送出。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692484_Screenshot_2016-06-05-13-38-40.jpeg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692493_Screenshot_2016-06-05-13-40-45.jpeg""]",未知,P0,审核通过,2016-06-13 16:00:42,,7
+0,13585076,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,WEIBI  F1,Android 4.4.4,WIFI,中国移动,T1795AN_JIAC_JC070_C_ALIYUN_SE,登录界面用户的用字上面多了一个竖线。,登录界面用户的用字上面多了一个竖线，而且这个竖线很细。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692459_SRC_20160605_133438.png""]",未知,P0,待审核,2016-06-05 13:46:52,,15
+0,13585076,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,WEIBI  F1,Android 4.4.4,WIFI,中国移动,T1795AN_JIAC_JC070_C_ALIYUN_SE,登陆界面按返回不能退出软件。,登陆界面按返回不能退出软件，必须切换到别的界面才能退出。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692485_SRC_20160605_133507.png""]",未知,P0,待审核,2016-06-05 13:46:52,,0
+0,13585076,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,WEIBI  F1,Android 4.4.4,WIFI,中国移动,T1795AN_JIAC_JC070_C_ALIYUN_SE,进入登录界面每次都会出来一个莫名的提示。,每次进入软件登陆页面都会有一个提示，没有保存的用户信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692502_SRC_20160605_133520.png""]",未知,P0,待审核,2016-06-05 13:46:52,,17
+0,13585076,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,WEIBI  F1,Android 4.4.4,WIFI,中国移动,T1795AN_JIAC_JC070_C_ALIYUN_SE,注册时输入手机号根本没有发送验证码，点击发送按钮验证码自动就输入上了。,注册时输入手机号根本没有发送验证码，点击发送按钮验证码自动就输入上了，手机都没收到提示。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692526_SRC_20160605_133553.png""]",未知,P0,待审核,2016-06-05 13:46:52,,10
+0,13585076,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,WEIBI  F1,Android 4.4.4,WIFI,中国移动,T1795AN_JIAC_JC070_C_ALIYUN_SE,登录后点页面中的本地生活，进入的页面是空白。,登录后点页面中的本地生活，进入的页面是空白，觉得应该有内容的。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692544_SRC_20160605_133609.png""]",未知,P0,待审核,2016-06-05 13:46:52,,13
+0,13585076,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,WEIBI  F1,Android 4.4.4,WIFI,中国移动,T1795AN_JIAC_JC070_C_ALIYUN_SE,登录软件后点右上角的按钮进行切换每次都很卡。,登录软件后点右上角的按钮进行切换每次都很卡，有时候卡的时间长有时候卡的时间短。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692556_SRC_20160605_133702.png""]",未知,P0,待审核,2016-06-05 13:46:52,,2
+0,13585076,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,WEIBI  F1,Android 4.4.4,WIFI,中国移动,T1795AN_JIAC_JC070_C_ALIYUN_SE,在右上角切换到本地生活本地新闻等，内容的图片总是容易崩溃。,在右上角切换到本地生活本地新闻等，内容的图片总是容易崩溃，有的明明已经显示了，后来又崩溃了，显示不出。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692581_SRC_20160605_133742.png""]",未知,P0,待审核,2016-06-05 13:46:52,,2
+0,13585076,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,WEIBI  F1,Android 4.4.4,WIFI,中国移动,T1795AN_JIAC_JC070_C_ALIYUN_SE,除了登录页面，其他页面按一次返回就退出了软件。,在注册页面，包括登陆后的其他页面，每次按一次返回就在出来软件。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692607_SRC_20160605_133525.png""]",未知,P0,待审核,2016-06-05 13:46:52,,0
+0,14109244,wifi369V1.0自由测试,湖北省|武汉市|江汉区|万松园路|95号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,注册界面输入栏有一条“丨”出现,打开软件，点击并进入注册界面，该界面注册界面输入栏有一条“丨”出现,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692841_1.png""]",未知,P0,审核不通过,2016-06-07 14:40:49,,12
+0,14109244,wifi369V1.0自由测试,湖北省|武汉市|江汉区|万松园路|95号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,注册界面获取短信注册码功能错误,打开软件，点击并进入注册界面，该界面填写手机号码及密码后，点击获取短信注册码，注册码输入栏直接被填充，手机并没有收到短信，,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693361_0.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,10
+0,14109244,wifi369V1.0自由测试,湖北省|武汉市|江汉区|万松园路|95号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,密码修改界面旧密码以明文数字形式显示,"1 注册登陆软件，点击左下角设置键，并进入
+2 点击并进入修改密码界面
+3 密码修改界面旧密码以明文数字形式显示","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693451_3%20%281%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693456_3%20%282%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693464_3%20%283%29.png""]",未知,P0,审核不通过,2016-06-07 14:53:00,,1
+0,14109244,wifi369V1.0自由测试,湖北省|武汉市|江汉区|万松园路|95号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,设置界面返回首页功能点击无反应,"1 注册登陆软件，点击并进入新闻页面
+2 点击新闻页面的设置键，
+3 设置页的返回首页功能点击无反应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27694540_4%20%281%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27694542_4%20%282%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27694553_4%20%283%29.png""]",未知,P0,审核不通过,2016-06-07 14:51:28,,14
+0,14109244,wifi369V1.0自由测试,湖北省|武汉市|江汉区|万松园路|95号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,点击电话号码出现页面无法连接的提示,注册登录软件，首页页面下部，点击电话号码出现页面无法连接的提示,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27694760_5%20%281%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27694766_5%20%282%29.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,17
+0,14109244,wifi369V1.0自由测试,湖北省|武汉市|江汉区|万松园路|95号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,软件在登录界面无法通过虚拟返回键返回,打开软件，在登录界面无法通过虚拟返回键退出软件，其他界面均可以通过虚拟返回键退出软件,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27695402_6.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,8
+0,14533381,wifi369V1.0自由测试,广东省|广州市|天河区|穗园西街|4号,CUBE  U51GT-C4,Android 4.4.2,WIFI,中国联通,APad v2.0,在用户登录界面，用户名和输入密码一栏中，图标会挡到输入的字符,在用户登录界面，用户名和输入密码一栏中，图标会挡到输入的字符,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27897409_20160606125706.jpeg""]",未知,P0,审核不通过,2016-06-07 16:09:36,,15
+0,14533381,wifi369V1.0自由测试,广东省|广州市|天河区|穗园西街|4号,CUBE  U51GT-C4,Android 4.4.2,WIFI,中国联通,APad v2.0,点击任一新闻，点击分享至微博，分享后会出现网页错误,点击任一新闻，点击分享至微博，分享后会出现网页错误,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27897487_20160606130120.jpeg""]",未知,P0,审核通过,2016-06-13 16:00:42,,3
+0,14539706,wifi369V1.0自由测试,北京市|北京市|朝阳区|奥林西路|,Xiaomi  MI NOTE LTE,Android 6.0.1,MOBILE LTE,中国移动,MMB29M,禁止app获取ime号后，app启动异常退出,禁止app获取ime号后，app启动异常退出，应进行提示，提示用户需要获取的权限,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692575_Screenshot_2016-06-05-13-41-23_com.miui.securitycenter.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27692579_Screenshot_2016-06-05-13-41-05_com.baidu.addressugc.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,17
+0,14669672,wifi369V1.0自由测试,湖北省|武汉市|洪山区|雄楚大道|815号,OPPO  OPPO R7,Android 4.4.4,WIFI,中国移动,R7_11_151204,用户登陆页面显示错误（有竖杠）,"1、打开软件
+2、输入用户名
+可以发现竖杠依然没有消除。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27695849_1.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27695897_2.png""]",未知,P0,审核不通过,2016-06-07 15:06:10,,17
+0,14669672,wifi369V1.0自由测试,湖北省|武汉市|洪山区|雄楚大道|815号,OPPO  OPPO R7,Android 4.4.4,WIFI,中国移动,R7_11_151204,无线生活第三页排版错误（有空白）,"1、打开软件
+2、注册账号
+3、进入软件首页
+4、选择第3页","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27696312_1.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27696382_3.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27696481_4.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27696499_Screenshot_2016-06-05-14-41-50-114.png""]",未知,P0,审核不通过,2016-06-07 15:12:10,,13
+0,14669672,wifi369V1.0自由测试,湖北省|武汉市|洪山区|雄楚大道|815号,OPPO  OPPO R7,Android 4.4.4,WIFI,中国移动,R7_11_151204,本地新闻内文章显示错误（排版错误）,"1、打开软件 
+2、注册账号 
+3、进入软件首页 
+4、点击软件右上方的展开符号
+5、点击进入本地新闻
+6、点击进入辽宁人事考试
+7、左划屏幕","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27696688_1.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27696718_3.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27696910_5.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27697109_6.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27697302_7.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27697406_8.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27697416_9.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,14
+0,14867488,wifi369V1.0自由测试,福建省|漳州市|华安县|X592|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B173,"进入软件,登陆帐号，点左下角设置按钮，点用户登出，登陆界面点注册，点返回，自动登陆之前帐号。","进入软件,登陆帐号，点左下角设置按钮，点用户登出，登陆界面点注册，点返回，自动登陆之前帐号。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27710413_QQ%E5%9B%BE%E7%89%8720160605163215.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27710424_QQ%E5%9B%BE%E7%89%8720160605163210.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27710431_QQ%E5%9B%BE%E7%89%8720160605163203.jpg""]",未知,P0,审核通过,2016-06-13 16:00:42,,8
+0,14867488,wifi369V1.0自由测试,福建省|漳州市|华安县|X592|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B173,"进入软件,登陆帐号，点鳄鱼精品店，长按界面图片出现分享按钮，选择通过微博分享，提示无法找到网页。","进入软件,登陆帐号，点鳄鱼精品店，长按界面图片出现分享按钮，选择通过微博分享，提示无法找到网页。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27714816_QQ%E5%9B%BE%E7%89%8720160605170058.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27714840_QQ%E5%9B%BE%E7%89%8720160605170054.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27714865_QQ%E5%9B%BE%E7%89%8720160605170049.jpg""]",未知,P0,审核通过,2016-06-13 16:00:42,,3
+0,14867488,wifi369V1.0自由测试,福建省|漳州市|华安县|X592|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B173,"进入软件,登陆帐号，点右上角三横按钮，点本地新闻，界面内配图都无法显示。","进入软件,登陆帐号，点右上角三横按钮，点本地新闻，界面内配图都无法显示。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27715434_QQ%E5%9B%BE%E7%89%8720160605170519.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27715443_QQ%E5%9B%BE%E7%89%8720160605170539.jpg""]",未知,P0,审核通过,2016-06-13 16:00:42,,14
+0,14940938,wifi369V1.0自由测试,河北省|石家庄市|长安区|和平东路|526号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,1 登录界面，用户名及密码输入框内，第一个文字上多出一条竖线。,1 登录界面，用户名及密码输入框内，第一个文字上多出一条竖线。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27707135_0836A2FE3CD718BC0DA70676DFD3C716.JPG""]",未知,P0,审核不通过,2016-06-07 15:20:25,,15
+0,14940938,wifi369V1.0自由测试,河北省|石家庄市|长安区|和平东路|526号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,2 注册界面→获取短信注册码，没有收到短信，自动添加了注册码。,2 注册界面→获取短信注册码，没有收到短信，自动添加了注册码。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27707165_F0E862F86BF0F94B694BF5234A9F40B5.JPG""]",未知,P0,审核通过,2016-06-13 16:00:42,,10
+0,14940938,wifi369V1.0自由测试,河北省|石家庄市|长安区|和平东路|526号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,3 首页→无线生活→第三页，出现了排版错乱。,3 首页→无线生活→第三页，出现了排版错乱。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27707195_883D9549784C019976447708DD306AB7.JPG""]",未知,P0,审核不通过,2016-06-07 15:26:56,,13
+0,14940938,wifi369V1.0自由测试,河北省|石家庄市|长安区|和平东路|526号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,4 无线生活→点击任意一篇文章→点击文章里的图片→图片右上角的分享到→点击新浪微博，出现找不到网页。,4 无线生活→点击任意一篇文章→点击文章里的图片→图片右上角的分享到→点击新浪微博，出现找不到网页。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27707222_48480FF33732BC3DCE5D1845EED00DB0.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27707236_194B9D98B9BB011529C1966A1B1FDAEA.JPG""]",未知,P0,审核通过,2016-06-13 16:00:42,,3
+0,14940938,wifi369V1.0自由测试,河北省|石家庄市|长安区|和平东路|526号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,5 右上角三横图标→本地生活→点击任意一篇文章，阅读后，页面无返回键，按手机键返回，直接退出app。,5 右上角三横图标→本地生活→点击任意一篇文章，阅读后，页面无返回键，按手机键返回，直接退出app。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27707259_AC5256AD7024C9019626E200A4B9047A.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27707276_80753BF10141C12A06E85C6909FCF044.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27707283_4BF8332DB0BBA054D8EE09A3CA18BDFC.JPG""]",未知,P0,审核通过,2016-06-13 16:00:42,,13
+0,14943542,wifi369V1.0自由测试,新疆维吾尔自治区|哈密地区|哈密市||,samsung  SM-G5500,Android 5.1.1,WIFI,中国移动,LMY47X.G5500ZCU1AOL2,打开wifi369点击注册，界面上用字有一竖杠,打开wifi369点击注册，界面上用字有一竖杠,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27733332_Screenshot_2016-06-05-19-46-45.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,12
+0,15065700,wifi369V1.0自由测试,湖南省|岳阳市|湘阴县|X057(滨江大道)|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,首次安装app，打开，用户代码和登陆密码中用与登字分别多了一竖。,首次安装app，打开。首次安装app，打开。首次安装app，打开。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27706546_Screenshot_2016-06-05-16-04-55.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27706553_Screenshot_2016-06-05-16-07-57.png""]",未知,P0,审核不通过,2016-06-07 15:17:17,,15
+0,15065700,wifi369V1.0自由测试,湖南省|岳阳市|湘阴县|X057(滨江大道)|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,正确手机号，获取短信注册码，提示错误的手机号码,安装运行app，点注册，输入正确手机号。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27706895_Screenshot_2016-06-05-16-10-28.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,10
+0,15065700,wifi369V1.0自由测试,湖南省|岳阳市|湘阴县|X057(滨江大道)|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,本地生活第三页，略缩图排版有问题。第二行空余两个。,安装运行app。注册登陆。点本地生活第三页。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27708809_Screenshot_2016-06-05-16-15-17.png""]",未知,P0,审核不通过,2016-06-07 15:31:04,,13
+0,15065700,wifi369V1.0自由测试,湖南省|岳阳市|湘阴县|X057(滨江大道)|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,本地新闻，所有略缩图不正常显示。,安装运行app，点右上角菜单，选择本地新闻进入。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27709255_Screenshot_2016-06-05-16-25-18.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27709263_Screenshot_2016-06-05-16-22-43.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,14
+0,15065700,wifi369V1.0自由测试,湖南省|岳阳市|湘阴县|X057(滨江大道)|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,本地新闻选择一条进入查看信息，按返回按钮，直接退出软件，无法正常回到上级目录,安装运行app，点右上角菜单，选择本地新闻。点击一篇新闻进入查看。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27709449_Screenshot_2016-06-05-16-25-18.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27709564_Screenshot_2016-06-05-16-27-43.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,14
+0,15065700,wifi369V1.0自由测试,湖南省|岳阳市|湘阴县|X057(滨江大道)|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,app设置，修改密码，可以修改密码没一位数密码，同时，修改密码成功后，不退出软件，再次输入原初始123456.可以再次修改密码。,安装运行app。注册登陆，点设置，选择修改密码。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27711376_Screenshot_2016-06-05-16-29-55.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27711387_Screenshot_2016-06-05-16-29-15.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,1
+0,15140900,wifi369V1.0自由测试,四川省|南充市|顺庆区|潆华北路|,Xiaomi  2014813,Android 4.4.4,mobile LTE,中国移动,KTU84P,注册-用户注册协议，但是点开看到的却是软件许可及服务协议，不一致,注册-用户注册协议，但是点开看到的却是软件许可及服务协议，不一致,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27716919_Screenshot_2016-06-05-16-06-09.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27716923_Screenshot_2016-06-05-16-06-24.png""]",未知,P0,审核不通过,2016-06-07 15:45:59,,6
+0,15140900,wifi369V1.0自由测试,四川省|南充市|顺庆区|潆华北路|,Xiaomi  2014813,Android 4.4.4,mobile LTE,中国移动,KTU84P,点开app-显示没有保存的用户信息，不知何意,点开app-显示没有保存的用户信息，不知何意,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27717111_Screenshot_2016-06-05-16-35-15.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,17
+0,15140900,wifi369V1.0自由测试,四川省|南充市|顺庆区|潆华北路|,Xiaomi  2014813,Android 4.4.4,mobile LTE,中国移动,KTU84P,用户代码，登录密码，确认密码-三行的第二个字都有一个竖线在字上面，登录的时候也看的到，也不是光标，不知是什么,用户代码，登录密码，确认密码-三行的第二个字都有一个竖线在字上面，登录的时候也看的到，也不是光标，不知是什么,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27717400_Screenshot_2016-06-05-16-35-26.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27717414_Screenshot_2016-06-05-16-36-12.png""]",未知,P0,审核不通过,2016-06-07 15:46:59,,15
+0,15140900,wifi369V1.0自由测试,四川省|南充市|顺庆区|潆华北路|,Xiaomi  2014813,Android 4.4.4,mobile LTE,中国移动,KTU84P,关于软件-看到app的版本信息是1.4-但是要求测试的版本却是1.0，不一致,关于软件-看到app的版本信息是1.4-但是要求测试的版本却是1.0，不一致,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27717668_Screenshot_2016-06-05-16-37-16.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27717702_Screenshot_2016-06-05-16-42-34.png""]",未知,P0,审核不通过,2016-06-07 15:49:37,,6
+0,15140900,wifi369V1.0自由测试,四川省|南充市|顺庆区|潆华北路|,Xiaomi  2014813,Android 4.4.4,mobile LTE,中国移动,KTU84P,给文章评论-输入昵称，未输入邮箱-显示错误，但是错误提示一是英语二是没有说清是没填邮箱的原因,给文章评论-输入昵称，未输入邮箱-显示错误，但是错误提示一是英语二是没有说清是没填邮箱的原因,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27718109_Screenshot_2016-06-05-16-39-00.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,7
+0,15140900,wifi369V1.0自由测试,四川省|南充市|顺庆区|潆华北路|,Xiaomi  2014813,Android 4.4.4,mobile LTE,中国移动,KTU84P,给文章评论-评论前并未要求字数，评论提交后才显示最低不少于3位数,给文章评论-评论前并未要求字数，评论提交后才显示最低不少于3位数,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27718405_Screenshot_2016-06-05-16-39-25.png""]",未知,P0,审核不通过,2016-06-07 15:48:46,,7
+0,15140900,wifi369V1.0自由测试,四川省|南充市|顺庆区|潆华北路|,Xiaomi  2014813,Android 4.4.4,mobile LTE,中国移动,KTU84P,本地生活-上方的广告安全免费上网，点击后无反应，页面无跳转,本地生活-上方的广告安全免费上网，点击后无反应，页面无跳转,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27718624_Screenshot_2016-06-05-16-40-15.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,4
+0,15206657,wifi369V1.0自由测试,四川省|南充市|顺庆区|和平西路|47,Xiaomi  2014812,Android 4.4.4,WIFI,中国电信,KTU84P,视频，   无法全屏播放,视频，        无法全屏播放                -,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27728992_Screenshot_2016-06-05-18-47-53_com.wifi369.png""]",未知,P0,审核不通过,2016-06-07 15:54:55,,5
+0,15206657,wifi369V1.0自由测试,四川省|南充市|顺庆区|和平西路|47,Xiaomi  2014812,Android 4.4.4,WIFI,中国电信,KTU84P,修改密码时，看到密码直接显示出来，不能够隐藏显示,修改密码时，看到密码直接显示出来，不能够隐藏显示,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27729024_Screenshot_2016-06-05-18-51-14_com.wifi369.png""]",未知,P0,审核不通过,2016-06-07 15:55:01,,1
+0,15206657,wifi369V1.0自由测试,四川省|南充市|顺庆区|和平西路|47,Xiaomi  2014812,Android 4.4.4,WIFI,中国电信,KTU84P,关于软件看到版本是1.4的，但是明明是要求测得1.0的哦,关于软件看到版本是1.4的，但是明明是要求测得1.0的哦,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27729043_Screenshot_2016-06-05-18-48-24_com.wifi369_146512.jpg""]",未知,P0,审核不通过,2016-06-07 15:55:23,,6
+0,16558080,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,Letv  Letv X501,Android 5.0.2,WIFI,中国联通,DAXCNCU5501304131S release-key,每次进入软件的登录页面，必定会出来一个提示。,每次进入软件的登录页面，必定会出来一个多余的提示，内容是没有保存的用户信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693027_Screenshot_2016-06-05-13-51-58.jpg""]",未知,P0,待审核,2016-06-05 14:03:39,,17
+0,16558080,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,Letv  Letv X501,Android 5.0.2,WIFI,中国联通,DAXCNCU5501304131S release-key,在登录页面按返回不会退出软件。,在登录页面按返回不会退出软件，按多少次都不能。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693094_Screenshot_2016-06-05-13-52-04.jpg""]",未知,P0,待审核,2016-06-05 14:03:39,,0
+0,16558080,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,Letv  Letv X501,Android 5.0.2,WIFI,中国联通,DAXCNCU5501304131S release-key,注册界面输入账号和密码的栏中，有很明显的一道竖线和字重叠。,注册界面输入账号和密码的栏中，有很明显的一道竖线和字重叠，还有登录界面其实也是。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693126_Screenshot_2016-06-05-13-52-48.jpg""]",未知,P0,待审核,2016-06-05 14:03:39,,15
+0,16558080,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,Letv  Letv X501,Android 5.0.2,WIFI,中国联通,DAXCNCU5501304131S release-key,验证码根本不会发送到手机上，会自动写上。,验证码根本不会发送到手机上，会自动写上，手机根本没有收到过验证码。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693146_Screenshot_2016-06-05-13-52-42.jpg""]",未知,P0,待审核,2016-06-05 14:03:39,,10
+0,16558080,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,Letv  Letv X501,Android 5.0.2,WIFI,中国联通,DAXCNCU5501304131S release-key,本地新闻中，标题图片总是显示崩溃。,本地新闻中，标题图片总是显示崩溃，每次进入都显示不出来。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693160_Screenshot_2016-06-05-13-53-29.jpg""]",未知,P0,待审核,2016-06-05 14:03:39,,2
+0,16558080,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,Letv  Letv X501,Android 5.0.2,WIFI,中国联通,DAXCNCU5501304131S release-key,在软件首页点顶部的大图无反应。,在软件首页点顶部的大图无反应，不能进入。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693192_Screenshot_2016-06-05-13-53-43.jpg""]",未知,P0,待审核,2016-06-05 14:03:39,,4
+0,16558080,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,Letv  Letv X501,Android 5.0.2,WIFI,中国联通,DAXCNCU5501304131S release-key,进入软件点下面的本地生活按钮，进入的却是无线生活。,进入软件点下面的本地生活按钮，进入的却是无线生活，而且内容跟首页一样，完全没变。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693227_Screenshot_2016-06-05-13-54-45.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693230_Screenshot_2016-06-05-13-54-53.jpg""]",未知,P0,待审核,2016-06-05 14:03:39,,13
+0,16558080,wifi369V1.0自由测试,河南省|南阳市|卧龙区|G40(沪陕高速公路)|,Letv  Letv X501,Android 5.0.2,WIFI,中国联通,DAXCNCU5501304131S release-key,除登录界面外，其他界面按一次返回就退出了软件。,除登录界面外，其他界面按一次返回就退出了软件，注册界面也是。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693254_Screenshot_2016-06-05-13-55-14.jpg""]",未知,P0,待审核,2016-06-05 14:03:39,,0
+0,16563362,wifi369V1.0自由测试,安徽省|阜阳市|颍州区|双清路|,Meizu  m2,Android 5.1,WIFI,中国移动,Flyme OS 4.5.3.2M,登陆界面用户代码和登陆密码中间都有一条竖线！,登陆界面用户代码和登陆密码中间都有一条竖线！手机型号魅蓝2。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27752876_S60605-225503.jpg""]",未知,P0,审核不通过,2016-06-07 15:58:31,,15
+0,16563362,wifi369V1.0自由测试,安徽省|阜阳市|颍州区|双清路|,Meizu  m2,Android 5.1,WIFI,中国移动,Flyme OS 4.5.3.2M,修改密码界面输入旧密码是可见的，建议改成不可见！,修改密码界面输入旧密码是可见的，建议改成不可见！手机型号魅蓝2。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27753332_S60605-225750.jpg""]",未知,P0,审核不通过,2016-06-07 15:58:27,,1
+0,16617660,wifi369V1.0自由测试,湖北省|武汉市|洪山区|高新二路|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,登录界面标题显示为英文user login,"1.启动app
+2.查看登录界面
+实际结果：登录界面标题显示为英文user login
+预期结果：标题显示为中文用户登录","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693353_Screenshot_2016-06-05-14-03-41_com.wifi369.png""]",未知,P0,审核不通过,2016-06-07 14:55:01,,16
+0,16617660,wifi369V1.0自由测试,湖北省|武汉市|洪山区|高新二路|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,登录界面，输入框中存在多余的竖线,"1.启动app
+2.登录界面查看输入框界面
+实际结果：输入框中存在多余的竖线
+预期结果：输入框界面显示正常","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693494_Screenshot_2016-06-05-14-07-49_com.wifi369.png""]",未知,P0,审核不通过,2016-06-07 14:57:16,,9
+0,16617660,wifi369V1.0自由测试,湖北省|武汉市|洪山区|高新二路|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,登录界面点击手机返回键多次无法退出应用,"1.启动app
+2.登录界面
+3.点击手机返回键多次
+实际结果：无法退出应用
+预期结果：可以退出应用","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693588_Screenshot_2016-06-05-14-03-41_com.wifi369.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,0
+0,16617660,wifi369V1.0自由测试,湖北省|武汉市|洪山区|高新二路|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,登录界面进行横屏操作，界面显示重叠,"1.启动app
+2.进入登录界面后横屏操作
+实际结果：进入到询问开启wifi界面，登录界面显示重叠
+预期结果：登录界面显示正常","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693874_Screenshot_2016-06-05-14-14-02_com.wifi369.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27693885_Screenshot_2016-06-05-14-14-17_com.wifi369.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,16
+0,16617660,wifi369V1.0自由测试,湖北省|武汉市|洪山区|高新二路|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,修改密码界面输入旧密码界面最多只能输入8个字符导致无法修改密码成功；,"1.启动app
+2.注册账户设置密码大于8位
+3.登录帐户后，修改密码输入旧密码
+实际结果；旧密码只能输入8位
+预期结果：旧密码位数限制要与注册界面一致","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27695002_Screenshot_2016-06-05-14-31-57_com.wifi369.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27695069_Screenshot_2016-06-05-14-31-30_com.wifi369.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,1
+0,16617660,wifi369V1.0自由测试,湖北省|武汉市|洪山区|高新二路|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,横屏情况下，用户设置界面滑动屏幕，菜单背景全黑,"1.启动app并登录进入
+2.首页--设置
+3.横屏--滑动屏幕
+实际结果；菜单背景全黑，无法查看菜单
+预期结果：可以正常滑动查看菜单","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27695333_Screenshot_2016-06-05-14-39-19_com.wifi369.png""]",未知,P0,审核不通过,2016-06-07 15:03:54,,16
+0,16617660,wifi369V1.0自由测试,湖北省|武汉市|洪山区|高新二路|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,首页界面横、竖屏显示不一致,"1.启动app并登录进入
+2.首页界面--横屏查看
+实际结果：有搜索功能框、竖屏无搜索功能
+预期结果：横竖屏显示内容功能一致","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27695807_Screenshot_2016-06-05-14-43-04_com.wifi369.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27695818_Screenshot_2016-06-05-14-43-12_com.wifi369.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,16
+0,16617660,wifi369V1.0自由测试,湖北省|武汉市|洪山区|高新二路|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,"后台运行app,点击app进入后概率出现闪退","预置条件：后台运行app
+1.启动app
+实际结果；概率出现闪退
+预期结果；可以正常进入app
+暂未抓取到log",[],未知,P0,审核不通过,2016-06-07 15:18:46,,11
+0,16617660,wifi369V1.0自由测试,湖北省|武汉市|洪山区|高新二路|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,【优惠】查看一优惠广告进入不输人任何内容后提交留言，提示语为英文,"1.启动app并登录进入
+2.首页--优惠、本地生活--查看一优惠广告
+3.不输人内容后点击提交留言
+实际结果：提示语为英语
+预期结果：提示语为中文","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27697106_Screenshot_2016-06-05-14-55-09_com.wifi369.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,4
+0,16639772,wifi369V1.0自由测试,河南省|焦作市|山阳区|博学路|,vivo  vivo X5S L,Android 4.4.4,WIFI,中国移动,ALPS.KK2.MP13.V1.1,注册页面界面中输入框中竖杠显示在第一个字符后,"手机型号：vivo x5sl
+网络：wifi
+操作步骤：安装wifi369——打开点击注册——注册页面界面中输入框中竖杠显示在第一个字符后","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27720997_%E6%88%AA%E5%B1%8F_2016-06-05-17-44-37.png""]",未知,P0,审核不通过,2016-06-07 15:53:57,,9
+0,16639772,wifi369V1.0自由测试,河南省|焦作市|山阳区|博学路|,vivo  vivo X5S L,Android 4.4.4,WIFI,中国移动,ALPS.KK2.MP13.V1.1,在修改密码时旧密码只能输入8位，而旧密码实际是9位,手机型号：vivo x5sl 网络：wifi 操作步骤：安装wifi369——打开点击注册——注册页面界面中输入框中竖杠显示在第一个字符后,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27721225_%E6%88%AA%E5%B1%8F_2016-06-05-17-47-00.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,9
+0,16640510,wifi369V1.0自由测试,北京市|北京市|丰台区|丰台东路|,HUAWEI  HUAWEI RIO-AL00,Android 6.0.1,WIFI,中国电信,RIO-AL00C00B370,界面不清楚，用户代码“登陆密码 窗口有个多余的竖线，是什么鬼,"app重复打开，都有“用户代码”“登陆密码 ”窗口有个多余的竖线
+有时系统卡死，假死",[],未知,P0,审核不通过,2016-06-07 15:57:41,,15
+0,17001905,wifi369V1.0自由测试,河南|商丘,CMDC  M623C,Android 5.1.1,MOBILE EDGE,中国移动,02.03.28RPD,"在登录页面,按返回不能退出软件。","在登录页面,按返回不能退出软件,  按几次都不能。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27711613_Screenshot_2016-06-05-14-17-49.png""]",未知,P0,待审核,2016-06-05 16:48:44,,0
+0,17001905,wifi369V1.0自由测试,河南|商丘,CMDC  M623C,Android 5.1.1,MOBILE EDGE,中国移动,02.03.28RPD,注册界面输入密码手机号后发现有竖线和他们相叠。,注册界面输入密码手机号后发现有竖线和他们相叠，登录页面也是。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27711752_Screenshot_2016-06-05-14-18-28.png""]",未知,P0,待审核,2016-06-05 16:48:44,,15
+0,17001905,wifi369V1.0自由测试,河南|商丘,CMDC  M623C,Android 5.1.1,MOBILE EDGE,中国移动,02.03.28RPD,注册时输入手机号后点发送验证码，验证码会自动填充。,注册时输入手机号后点发送验证码，验证码会自动填充，根本没有发送到手机。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27711933_Screenshot_2016-06-05-14-18-42.png""]",未知,P0,待审核,2016-06-05 16:48:44,,10
+0,17001905,wifi369V1.0自由测试,河南|商丘,CMDC  M623C,Android 5.1.1,MOBILE EDGE,中国移动,02.03.28RPD,没有登录时，每次进软件都会有一个莫名的提示。,没有登录时，每次进软件都会有一个莫名的提示，提示的内容是没有保存的用户信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27712083_Screenshot_2016-06-05-14-18-00.png""]",未知,P0,待审核,2016-06-05 16:48:44,,17
+0,17001905,wifi369V1.0自由测试,河南|商丘,CMDC  M623C,Android 5.1.1,MOBILE EDGE,中国移动,02.03.28RPD,点击软件顶部的大图不能进入。,点击软件顶部的大图不能进入，点了多次都不能。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27712228_Screenshot_2016-06-05-14-19-00.png""]",未知,P0,待审核,2016-06-05 16:48:44,,4
+0,17001905,wifi369V1.0自由测试,河南|商丘,CMDC  M623C,Android 5.1.1,MOBILE EDGE,中国移动,02.03.28RPD,本地新闻中，所有标题的图片都加载不出。,本地新闻中，所有标题的图片都加载不出，好像是崩溃了。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27712318_Screenshot_2016-06-05-14-19-57.png""]",未知,P0,待审核,2016-06-05 16:48:44,,2
+0,17001905,wifi369V1.0自由测试,河南|商丘,CMDC  M623C,Android 5.1.1,MOBILE EDGE,中国移动,02.03.28RPD,登陆后在软件首页点右上角的按钮切换，切换的时候非常卡。,登陆后在软件首页点右上角的按钮切换，切换的时候非常卡，要很久才能反应过来切换了。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27712409_Screenshot_2016-06-05-14-20-26.png""]",未知,P0,待审核,2016-06-05 16:48:44,,2
+0,17001905,wifi369V1.0自由测试,河南|商丘,CMDC  M623C,Android 5.1.1,MOBILE EDGE,中国移动,02.03.28RPD,登陆后在软件首页点击本地生活，进入的内容还是软件首页。,登陆后在软件首页点击本地生活，进入的内容还是软件首页，本地生活和软件首页的内容一样。,"["""",""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif"",""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif""]",未知,P0,待审核,2016-06-05 16:48:44,,13
+0,17001905,wifi369V1.0自由测试,河南|商丘,CMDC  M623C,Android 5.1.1,MOBILE EDGE,中国移动,02.03.28RPD,登陆后在软件中按一次就退出了。,登陆后在软件中按一次就退出了，正常应该按两次退出软件。,"[""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif""]",未知,P0,待审核,2016-06-05 16:48:44,,0
+0,17037746,wifi369V1.0自由测试,河南省|洛阳市|老城区|道北五路|,samsung  GT-I9100G,Android 4.0.4,WIFI,无SIM卡,IMM76D.ZQLR6,运行就会报错，每次都这样,运行就会报错。打不开。测试手机三星i9100安卓4.04,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27749796_Screenshot_2016-06-05-22-21-57.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27749800_Screenshot_2016-06-05-22-20-50.png""]",未知,P0,审核通过,2016-06-13 16:00:42,,6
+0,17170179,wifi369V1.0自由测试,海南省|海南省直辖县级行政单位|定安县|栖凤路|,С×  MI 4C,Android 4.4.4,WIFI,无SIM卡,android_x86-eng 4.4.4 KTU84Q e,开软件直接黑屏，无法进入主界面。,开软件直接黑屏，无法进入主界面，重启手机再开也无法进入，应该是兼容性的问题。,[],未知,P0,审核通过,2016-06-13 16:00:42,,16
+0,17201968,wifi369V1.0自由测试,海南省|海口市|龙华区|城南路|,motorola  Moto G 2014,Android 5.1.1,MOBILE HSPA+,中国联通,mk_titan-userdebug 5.1.1 LMY49,软件的注册界面和登录界面，输入用户名和密码的位置里，总有一条线，看着很怪，影响输入,软件的注册界面和登录界面，输入用户名和密码的位置里，总有一条线，看着很怪，影响输入,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27702519_1.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27702838_1-1.jpg""]",未知,P0,审核不通过,2016-06-07 15:08:08,,12
+0,17201968,wifi369V1.0自由测试,海南省|海口市|龙华区|城南路|,motorola  Moto G 2014,Android 5.1.1,MOBILE HSPA+,中国联通,mk_titan-userdebug 5.1.1 LMY49,在首页的左下角，点设置，呼叫客服这个功能，点击一下直接就拨打了客服电话。没有经过用户再次确认同意。某种情况下回给用户造成损失,在首页的左下角，点设置，呼叫客服这个功能，点击一下直接就拨打了客服电话。没有经过用户再次确认同意。某种情况下回给用户造成损失,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27703057_2-2.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27703063_2.jpg""]",未知,P0,审核不通过,2016-06-07 15:08:26,,17
+0,17201968,wifi369V1.0自由测试,海南省|海口市|龙华区|城南路|,motorola  Moto G 2014,Android 5.1.1,MOBILE HSPA+,中国联通,mk_titan-userdebug 5.1.1 LMY49,在软件的各个板块，展现的字体都特别小，浏览很吃力。,在软件的各个板块，展现的字体都特别小，浏览很吃力。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27703305_3.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27703393_3-1.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27703396_3-2.jpg""]",未知,P0,审核不通过,2016-06-07 15:08:39,,11
+0,17201968,wifi369V1.0自由测试,海南省|海口市|龙华区|城南路|,motorola  Moto G 2014,Android 5.1.1,MOBILE HSPA+,中国联通,mk_titan-userdebug 5.1.1 LMY49,在软件注册的时候，获取短信注册码其实并不从短信处获得，只是软件自己填写进去而已。没有意义。随便填写一串11位数的数字就可以注册成功了。,在软件注册的时候，获取短信注册码其实并不从短信处获得，只是软件自己填写进去而已。没有意义。随便填写一串11位数的数字就可以注册成功了。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27704545_4.jpg""]",未知,P0,审核通过,2016-06-13 16:00:42,,10

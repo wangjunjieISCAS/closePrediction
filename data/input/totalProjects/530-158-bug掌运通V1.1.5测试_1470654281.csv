@@ -1,0 +1,327 @@
+case编号,用户id,case标题,地域,机型,操作系统,网络环境,运营商,ROM信息,bug详情,复现步骤,截图,是否未知,优先级,审核状态,提交时间,,重复情况
+0,59441,掌运通V1.1.5自由测试,江苏省|泰州市|靖江市|正北路|,TCL  TCL M2M,Android 4.4.4,mobile LTE,中国移动,TCL_M2M_V1.2,用户注册界面点击用户协议无反应,"1.打开软件，点击注册
+2.进入用户注册界面后点击下方的用户协议，发现点击后无反应",[],未知,P0,审核通过,2016-07-28 10:00:02,,5
+0,59441,掌运通V1.1.5自由测试,江苏省|泰州市|靖江市|正北路|,TCL  TCL M2M,Android 4.4.4,mobile LTE,中国移动,TCL_M2M_V1.2,注册界面未填手机号时点击获取验证码会进入倒计时,"1.打开软件，点击注册
+2.在注册界面不填手机号的情况下点击获取验证码，这时60秒内无法获取验证码（然而事实上并没有输入手机号）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724856_Screenshot_2016-07-25-14-56-39.png""]",未知,P0,审核不通过,2016-07-26 11:16:32,,10
+0,531756,掌运通V1.1.5自由测试,山西省|太原市|古交市|青山路|19,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,中国移动,4.4.058.P0.150407.8675-A,登录测试帐号，点击左上角三道横线，在左侧边栏点击“配货平台，相关软件，交流讨论，帮助中心”中的任意一个都不会起作用，界面会关闭侧边栏，不会进入相应功能界面。,登录测试帐号，点击左上角三道横线，在左侧边栏点击“配货平台，相关软件，交流讨论，帮助中心”中的任意一个都不会起作用，界面会关闭侧边栏，不会进入相应功能界面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33731759_Screenshot_2016-07-25-16-16-21_com.hiquanta.logisticsapp.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,11
+0,531756,掌运通V1.1.5自由测试,山西省|太原市|古交市|青山路|19,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,中国移动,4.4.058.P0.150407.8675-A,登录测试帐号，点击下方“我”，点击“会员认证，联系客服，版本更新”没有任何反应。,登录测试帐号，点击下方“我”，点击“会员认证，联系客服，版本更新”没有任何反应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732244_Screenshot_2016-07-25-16-18-26_com.hiquanta.logisticsapp.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,8
+0,531756,掌运通V1.1.5自由测试,山西省|太原市|古交市|青山路|19,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,中国移动,4.4.058.P0.150407.8675-A,登录测试帐号，点击下方“我”，点击“我的发布”，会提示“网络繁忙，请重试”，并且无法显示我的车辆信息。,登录测试帐号，点击下方“我”，点击“我的发布”，会提示“网络繁忙，请重试”，并且无法显示我的车辆信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732389_Screenshot_2016-07-25-16-18-26_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732392_Screenshot_2016-07-25-16-28-20_com.hiquanta.logisticsapp.png""]",未知,P0,审核不通过,2016-07-26 14:38:26,,0
+0,531756,掌运通V1.1.5自由测试,山西省|太原市|古交市|青山路|19,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,中国移动,4.4.058.P0.150407.8675-A,安装app后在登录界面点击注册，注册界面用户协议无法点击查看。,安装app后在登录界面点击注册，注册界面用户协议无法点击查看。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732507_Screenshot_2016-07-25-16-29-41_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732512_Screenshot_2016-07-25-16-29-34_com.hiquanta.logisticsapp.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,5
+0,531756,掌运通V1.1.5自由测试,山西省|太原市|古交市|青山路|19,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,中国移动,4.4.058.P0.150407.8675-A,登录帐号，点击下方“服务”，界面中的9项功能点击都无反应，无法使用。,登录帐号，点击下方“服务”，界面中的9项功能点击都无反应，无法使用。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732677_Screenshot_2016-07-25-16-32-04_com.hiquanta.logisticsapp.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,15
+0,531756,掌运通V1.1.5自由测试,山西省|太原市|古交市|青山路|19,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,中国移动,4.4.058.P0.150407.8675-A,登录app，点击“货源”，点击右上角放大镜，选择“网上货源”，点击“从哪里出发”，在省份中选择河北，选择石家庄市，选择区的时候点击第一个“长安区”，向下滑动，可以看到已经选择的区会发生变化，变成“晋州市”，再向上滑动，可以看到长安区被自动取消选择，变成“桥西区”，再向下滑动，可以看到又变成“辛集市”。,登录app，点击“货源”，点击右上角放大镜，选择“网上货源”，点击“从哪里出发”，在省份中选择河北，选择石家庄市，选择区的时候点击第一个“长安区”，向下滑动，可以看到已经选择的区会发生变化，变成“晋州市”，再向上滑动，可以看到长安区被自动取消选择，变成“桥西区”，再向下滑动，可以看到又变成“辛集市”。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734117_Screenshot_2016-07-25-16-42-42_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734128_Screenshot_2016-07-25-16-42-45_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734142_Screenshot_2016-07-25-16-42-50_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734153_Screenshot_2016-07-25-16-43-00_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734192_Screenshot_2016-07-25-16-43-06_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734202_Screenshot_2016-07-25-16-43-10_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734214_Screenshot_2016-07-25-16-43-13_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734227_Screenshot_2016-07-25-16-43-15_com.hiquanta.logisticsapp.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,6
+0,531756,掌运通V1.1.5自由测试,山西省|太原市|古交市|青山路|19,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,中国移动,4.4.058.P0.150407.8675-A,在首页点击“网上货源”，会提示“没有信息”，但是会刷新出很多条货源信息来。然后又提示“网络繁忙，请重试”,在首页点击“网上货源”，会提示“没有信息”，但是会刷新出很多条货源信息来。然后又提示“网络繁忙，请重试”,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734551_Screenshot_2016-07-25-16-46-13_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734562_Screenshot_2016-07-25-16-47-16_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734587_Screenshot_2016-07-25-16-47-21_com.hiquanta.logisticsapp.png""]",未知,P0,审核不通过,2016-07-26 14:40:36,,0
+0,737755,掌运通V1.1.5自由测试,新疆维吾尔自治区|阿勒泰地区|哈巴河县|null|null,OPPO  N5207,Android 4.4.4,mobile HSPA+,中国联通,N5207_11_150411,注册的时候，我用手机号码18603981766，密码是  强忠雷我爱你，注册成功，登陆成功,注册的时候，我用手机号码18603981766，密码是  强忠雷我爱你，注册成功，登陆成功,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33742425_Screenshot_2016-07-25-18-12-59-555.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33742435_Screenshot_2016-07-25-18-14-07-808.png""]",未知,P0,审核不通过,2016-07-26 15:07:52,,19
+0,737755,掌运通V1.1.5自由测试,新疆维吾尔自治区|阿勒泰地区|哈巴河县|null|null,OPPO  N5207,Android 4.4.4,mobile HSPA+,中国联通,N5207_11_150411,设置中，关于掌运通，选择以后，选择意见返馈，并不是，反馈窗口，而是，官方主页,设置中，关于掌运通，选择以后，选择意见返馈，并不是，反馈窗口，而是，官方主页,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33742969_Screenshot_2016-07-25-18-20-32-776.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33743001_Screenshot_2016-07-25-18-20-26-884.png""]",未知,P0,审核不通过,2016-07-26 15:08:42,,13
+0,737755,掌运通V1.1.5自由测试,新疆维吾尔自治区|阿勒泰地区|哈巴河县|null|null,OPPO  N5207,Android 4.4.4,mobile HSPA+,中国联通,N5207_11_150411,功能中的服务，选顶，全页不能操作,功能中的服务，选顶，全页不能操作，选择后无反应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33743351_Screenshot_2016-07-25-18-26-17-138.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,9
+0,737755,掌运通V1.1.5自由测试,新疆维吾尔自治区|阿勒泰地区|哈巴河县|null|null,OPPO  N5207,Android 4.4.4,mobile HSPA+,中国联通,N5207_11_150411,"我的这个模版，二维码失效，其它任何地方，点击都是退出！
+第二，无法换头像","我的这个模版，二维码失效，其它任何地方，点击都是退出！
+第二，无法换头像","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33743388_Screenshot_2016-07-25-18-26-23-967.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,14
+0,820942,掌运通V1.1.5自由测试,浙江省|杭州市|余杭区|闲富北路|,Hisense  HS-E968,Android 4.1.2,WIFI,unknown,HS-E968 4.1.2 JZO54K eng.lewa.,我的发布手机号码必填没有做验证,登录app  发布货源 选择运输线路 发布成功 手机号码提示必填但没有做验证,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726831_123.png""]",未知,P0,审核不通过,2016-07-26 19:46:20,,7
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击注册，跳转页面用户类型旁的下拉箭头点击无反应,打开app后点击注册，跳转页面用户类型旁的下拉箭头点击无反应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33722726_1.jpg""]",未知,P0,审核不通过,2016-07-26 11:27:30,,5
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击注册，跳转页面点击“用户协议”无反应，无法查看用户协议,打开app后点击注册，跳转页面点击“用户协议”无反应，无法查看用户协议,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33722804_2.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,5
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击注册，跳转页面在电话一栏中输入“11111111111”这一错误的手机号码后点击获取验证码，app不报错且提示领取成功,打开app后点击注册，跳转页面在电话一栏中输入“11111111111”这一错误的手机号码后点击获取验证码，app不报错且提示领取成功,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723096_3.jpg""]",未知,P0,审核不通过,2016-07-26 19:09:31,,10
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后使用测试账号登陆后，app崩溃,打开app后使用测试账号登陆后，app崩溃,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723223_4.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,20
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击下方“我”，然后点击跳转页面右上方的二维码图标，结果弹出的不是二维码确是提示“是否注销登录”,打开app后点击下方“我”，然后点击跳转页面右上方的二维码图标，结果弹出的不是二维码确是提示“是否注销登录”,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723558_5.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,14
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击下方“我”，然后点击跳转页面的“会员认证”和“联系客服”，点击无反应,打开app后点击下方“我”，然后点击跳转页面的“会员认证”和“联系客服”，点击无反应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723811_6.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,8
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击下方“我”，然后点击跳转页面的“关于我们”，再点击检查新版的，点击无反应，不能检查是否有新版本,打开app后点击下方“我”，然后点击跳转页面的“关于我们”，再点击检查新版的，点击无反应，不能检查是否有新版本,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724603_7.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,4
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击下方“我”，然后点击跳转页面的“关于我们”，再点击意见反馈，结果跳转到官网首页,打开app后点击下方“我”，然后点击跳转页面的“关于我们”，再点击意见反馈，结果跳转到官网首页,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724642_8.jpg""]",未知,P0,审核不通过,2016-07-26 11:31:06,,13
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击下方“首页”，然后点击跳转页面左上方菜单按钮，然后点击设置，点击清理缓存，可是在点击确定清理缓存后发现，5.49m缓存依然存在,打开app后点击下方“首页”，然后点击跳转页面左上方菜单按钮，然后点击设置，点击清理缓存，可是在点击确定清理缓存后发现，5.49m缓存依然存在,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724817_9.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,1
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击下方“首页”，然后点击跳转页面左上方菜单按钮，然后点击设置，点击加载图片旁边的开关，无论开还是关，页面均提示“sadfasdfasdf”，不知什么意思,打开app后点击下方“首页”，然后点击跳转页面左上方菜单按钮，然后点击设置，点击加载图片旁边的开关，无论开还是关，页面均提示“sadfasdfasdf”，不知什么意思,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724968_10.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,4
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击下方“首页”，然后点击跳转页面左上方菜单按钮，然后点击设置，点击消息通知，点击无反应,打开app后点击下方“首页”，然后点击跳转页面左上方菜单按钮，然后点击设置，点击消息通知，点击无反应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724999_11.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,4
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击下方“首页”，然后点击跳转页面左上方菜单按钮，然后点击设置，点击打开“双击退出”功能，发现根本不能实现,打开app后点击下方“首页”，然后点击跳转页面左上方菜单按钮，然后点击设置，点击打开“双击退出”功能，发现根本不能实现,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725072_12.jpg""]",未知,P0,审核不通过,2016-07-26 11:36:11,,4
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击下方“首页”，然后点击跳转页面左上方菜单按钮，然后点击夜间，app崩溃,打开app后点击下方“首页”，然后点击跳转页面左上方菜单按钮，然后点击夜间，app崩溃,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725171_13.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,4
+0,851370,掌运通V1.1.5自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击下方“首页”，然后点击跳转页面左上方菜单按钮，然后点击夜间，在夜间模式下发现只是下方工具栏变成黑色，而页面正文没有变化,打开app后点击下方“首页”，然后点击跳转页面左上方菜单按钮，然后点击夜间，在夜间模式下发现只是下方工具栏变成黑色，而页面正文没有变化,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725255_14.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,4
+0,1165965,掌运通V1.1.5自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,我的发布，提示网络繁忙 请重试,1.打开软件并登录2.我3.我的发布                    .,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732686_QQ%E6%88%AA%E5%9B%BE20160725163436.jpg""]",未知,P0,审核不通过,2016-07-26 14:37:03,,0
+0,1165965,掌运通V1.1.5自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,意见反馈跳转页面没有进入信息填写页面,1.打开软件并登录2.我3.关于我们4.意见反馈,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33733035_QQ%E6%88%AA%E5%9B%BE20160725163730.jpg""]",未知,P0,审核不通过,2016-07-26 14:37:19,,13
+0,1165965,掌运通V1.1.5自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,会员认证点击无反应            .,1.打开软件并登录2.我3.会员认证                                                .,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33733246_QQ%E6%88%AA%E5%9B%BE20160725163906.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,8
+0,1165965,掌运通V1.1.5自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,联系客服点击无反应                        .,1.打开软件并登录2.我3.联系客服                                         .,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33733463_QQ%E6%88%AA%E5%9B%BE20160725164021.jpg""]",未知,P0,审核不通过,2016-07-26 14:37:51,,3
+0,1165965,掌运通V1.1.5自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,配货平台，相关软件等多个分类点击无反应,1.打开软件并登录2.我3.右上角 三 4.点击配货平台,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734070_QQ%E6%88%AA%E5%9B%BE20160725164403.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,11
+0,2182072,掌运通V1.1.5自由测试,辽宁省|锦州市|古塔区|工学里|124-93,Huawei  HUAWEI G750-T01,Android 4.2.2,WIFI,中国移动,G750-T01 V100R001CHNC00B152,打开软件，点击注册，点击右下角“用户协议”无任何反应,打开软件，点击注册，点击右下角“用户协议”无任何反应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735365_Screenshot_2016-07-25-16-49-29.jpeg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735369_Screenshot_2016-07-25-16-50-20.jpeg""]",未知,P0,审核通过,2016-07-28 10:00:02,,5
+0,2182072,掌运通V1.1.5自由测试,辽宁省|锦州市|古塔区|工学里|124-93,Huawei  HUAWEI G750-T01,Android 4.2.2,WIFI,中国移动,G750-T01 V100R001CHNC00B152,打开软件，点击注册，在“确认密码”处，格式不对,打开软件，点击注册，在“确认密码”处，格式不对,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735393_Screenshot_2016-07-25-16-49-29.jpeg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735402_Screenshot_2016-07-25-16-50-20.jpeg""]",未知,P0,审核通过,2016-07-28 10:00:02,,19
+0,2182072,掌运通V1.1.5自由测试,辽宁省|锦州市|古塔区|工学里|124-93,Huawei  HUAWEI G750-T01,Android 4.2.2,WIFI,中国移动,G750-T01 V100R001CHNC00B152,打开软件，登陆，在主页面点击左上角按钮，在弹出的菜单栏，点击“配货平台”四个按钮，无反应或者进入首页，并不竟如相应界面,打开软件，登陆，在主页面点击左上角按钮，在弹出的菜单栏，点击“配货平台”四个按钮，没有反应或者进入首页，并不竟如相应界面,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735672_Screenshot_2016-07-25-16-55-15.jpeg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735682_Screenshot_2016-07-25-16-55-07.jpeg""]",未知,P0,审核通过,2016-07-28 10:00:02,,11
+0,2590458,掌运通V1.1.5自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,WIFI,中国联通,Che2-UL00 V100R001CHNC00B384,注册时，无法查看用户协议，点击无反应。,注册时，无法查看用户协议，点击无反应。华为4x，安卓4.4.2，wifi网络,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730122_7.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,5
+0,2590458,掌运通V1.1.5自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,WIFI,中国联通,Che2-UL00 V100R001CHNC00B384,注册时，输入不规时手机号（如123），未报错。,注册时，输入不规时手机号（如123），未报错。华为4x，安卓4.4.2，wifi网络,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730169_6.jpg""]",未知,P0,审核不通过,2016-07-26 19:48:27,,10
+0,2590458,掌运通V1.1.5自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,WIFI,中国联通,Che2-UL00 V100R001CHNC00B384,使用手机号注册后，软件会自动退出。,使用手机号按步骤注册后，软件会自动退出。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730273_5.jpg""]",未知,P0,审核不通过,2016-07-26 14:24:16,,10
+0,2590458,掌运通V1.1.5自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,WIFI,中国联通,Che2-UL00 V100R001CHNC00B384,在我的标签中，点击头像或二维码，未进入相应界面，而是提示是否注销。,打开并登录软件后－底部我－点击头像或二维码，未进入相应界面，而是提示是否注销。华为4x，安卓4.4.2，wifi网络,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730394_4.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,14
+0,2590458,掌运通V1.1.5自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,WIFI,中国联通,Che2-UL00 V100R001CHNC00B384,我的界面，点击联系客服，无反应。,打开并登录软件后－底部我－点击联系客服－未进入相应界面。华为4x，安卓4.4.2，wifi网络,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730484_3.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,3
+0,2590458,掌运通V1.1.5自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,WIFI,中国联通,Che2-UL00 V100R001CHNC00B384,左上角菜单，呼出的内客，点击无反应。,打开并登录软件后－左上角菜单，呼出的内客，点击无反应。华为4x，安卓4.4.2，wifi网络,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730553_2.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,20
+0,2590458,掌运通V1.1.5自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,WIFI,中国联通,Che2-UL00 V100R001CHNC00B384,服务标签中，所有功能无法使用，点击无反应。,服务标签中，所有功能无法使用，点击无反应。华为4x，安卓4.4.2，wifi网络,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730622_1.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,15
+0,3052264,掌运通V1.1.5自由测试,安徽省|亳州市|涡阳县|X021|,nubia  NX513J,Android 5.0.2,MOBILE LTE,中国移动,NX513J_CNCommon_V4.01,软件登录后提示停止运行,"软件提示停止运行（测试环境：手机：努比亚布拉格s）
+1、软件进入登录页面，使用提供的账号登录后，提示软件停止运行；
+2、点击停止运行窗口的”报告“按钮，进入异常反馈页面，再次出现停止运行窗口。
+3、重新启动软件多次，仍显示此现象。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728189_Screenshot_2016-07-25-15-25-46.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728198_Screenshot_2016-07-25-15-25-55.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,13
+0,3463911,掌运通V1.1.5自由测试,四川省|成都市|大邑县|甲子东道|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国电信,LMY47V,打开app，进入用户注册界面，点击底部的用户协议，软件没有响应，不能进入协议详情页,我使用的是红米note全网通版本，打开app，进入用户注册界面，点击底部的用户协议，软件没有响应，不能进入协议详情页,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33753925_Screenshot_2016-07-25-21-28-51_com.hiquanta.logis.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,5
+0,3463911,掌运通V1.1.5自由测试,四川省|成都市|大邑县|甲子东道|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国电信,LMY47V,打开app，进入登录界面，在密码输入栏输入密码后，点击后面的“眼睛”键，查看输入的具体密码，软件没有响应，不能正常查看,我使用的是红米note全网通版本，打开app，进入登录界面，在密码输入栏输入密码后，点击后面的“眼睛”键，查看输入的具体密码，软件没有响应，不能正常查看,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33754038_Screenshot_2016-07-25-21-29-26_com.hiquanta.logis.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,19
+0,6287747,掌运通V1.1.5自由测试,北京市|北京市|海淀区|东北旺路|,nubia  NX507J,Android 4.4.2,WIFI,中国移动,NX507J_CNCommon_V1.82,进入发布车源和网上货源界面时提示信息有误,"1、登录掌运通app，点击底部菜单进入“首页”界面。
+2、点击发布车源出现提示信息“null”，点击网上货源在有数据出来的情况下提示“没有信息”",[],未知,P0,审核通过,2016-07-28 10:00:02,,12
+0,8033124,掌运通V1.1.5自由测试,广东省|广州市|从化市|温泉东路|105,Huawei  PE-TL10,Android 6.0,WIFI,中国联通,EMUI4.0_PE-TL10_6.7.16,一打开软件就出现一个对话框，不知道干嘛的，点了也没反应,"1、打开软件；
+2、软件打开后显示如图对话框，不知道有什么用，点击按钮也没反应；","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726071_Screenshot_2016-07-25-15-16-11.png""]",未知,P0,审核不通过,2016-07-26 11:39:07,,21
+0,8033124,掌运通V1.1.5自由测试,广东省|广州市|从化市|温泉东路|105,Huawei  PE-TL10,Android 6.0,WIFI,中国联通,EMUI4.0_PE-TL10_6.7.16,软件汉堡菜单打开后，所有子菜单点击无效,"1、打开软件；
+2、点击“掌运通”，打开汉堡菜单；
+3、汉堡菜单下所有子项目均点击无反应。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726136_Screenshot_2016-07-25-15-17-36.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,20
+0,9742256,掌运通V1.1.5自由测试,湖南省|长沙市|芙蓉区|五一大道|128,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,一手货源列表展示数据的同时提示“没有信息”,"1、首页-点击一手货源
+2、进入列表，加载列表的同时，又弹出了提示 “没有信息”","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732569_QQ%E5%9B%BE%E7%89%8720160725162920.png""]",未知,P0,审核不通过,2016-07-26 14:40:57,,6
+0,9742256,掌运通V1.1.5自由测试,湖南省|长沙市|芙蓉区|五一大道|128,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,检测新版本按钮点击无响应,"1、我  - 点关于我们，进入关于页
+2、点击 “检查新版本”，无任何响应，但是进应用时，又主动弹出了下载新版本的提示。说明是有新版本的","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33733279_Screenshot_2016-07-25-16-34-51_com.hiquanta.logis.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33733282_QQ%E6%88%AA%E5%9B%BE20160725163123.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,17
+0,9742256,掌运通V1.1.5自由测试,湖南省|长沙市|芙蓉区|五一大道|128,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,评分功能提示手机中未安装应用市场，实际上是有小米应用市场的,1、接上一条，在关于页点击“去评分”，提示手机中未安装应用市场，实际上是有小米应用市场的,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734358_Screenshot_2016-07-25-16-29-11_com.hiquanta.logis.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734361_Screenshot_2016-07-25-16-29-33_com.xiaomi.market.png""]",未知,P0,审核不通过,2016-07-26 14:42:05,,7
+0,9742256,掌运通V1.1.5自由测试,湖南省|长沙市|芙蓉区|五一大道|128,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,了解更多页的分享按钮点击无响应,"1、接上一条，在关于页点击“了解更多”进入关于我们  - 开源中国社区 页
+2、点击右上角分享按钮，无响应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734650_QQ%E6%88%AA%E5%9B%BE20160725164631.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33734653_QQ%E6%88%AA%E5%9B%BE20160725164643.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,21
+0,9742256,掌运通V1.1.5自由测试,湖南省|长沙市|芙蓉区|五一大道|128,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,会员认证、联系客服 均无响应,1、我 - 会员认证、联系客服 两个选项均无响应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735466_QQ%E6%88%AA%E5%9B%BE20160725165138.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,8
+0,9742256,掌运通V1.1.5自由测试,湖南省|长沙市|芙蓉区|五一大道|128,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,服务页中的所有选项点击均无响应,1、服务页，所有选项点击均无响应   11111,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735840_Screenshot_2016-07-25-16-57-26_com.hiquanta.logis.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,15
+0,12138826,掌运通V1.1.5自由测试,浙江省|台州市|黄岩区|院店路|,HUAWEI  HUAWEI TAG-AL00,Android 5.1,WIFI,中国联通,TAG-AL00C92B156,软件不是最新版本软件不是最新版本,"1,。打开软件。
+2.弹出更新提示，软件不是最新版本
+3.弹出软件死机，已停止运行","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33720958_QQ%E5%9B%BE%E7%89%8720160725143003.png""]",未知,P0,审核不通过,2016-07-26 10:47:20,,17
+0,14109244,掌运通V1.1.5自由测试,湖北省|武汉市|江汉区|北湖正街|2号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,我界面联系客服点击无反应,注册登录软件，点击我，该界面联系客服点击无反应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33722313_Screenshot_2016-07-25-14-45-47.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,3
+0,14109244,掌运通V1.1.5自由测试,湖北省|武汉市|江汉区|北湖正街|2号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,我界面头像二维码标识点击后出现退出提示,注册登录软件，点击我，界面头像二维码标识点击后出现退出提示,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33722827_Screenshot_2016-07-25-14-49-33.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,14
+0,14452258,掌运通V1.1.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,1注册界面，点击下方的用户协议，点击无效,1注册界面，点击下方的用户协议，点击无效,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33751774_Screenshot_2016-07-25-20-49-18.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,5
+0,14452258,掌运通V1.1.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击我
+2点击关于我们
+3点击意见反馈，打开了网页，和点击下方“官网”一样","1首页点击我
+2点击关于我们
+3点击意见反馈，打开了网页，和点击下方“官网”一样","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33752059_Screenshot_2016-07-25-20-53-38.png""]",未知,P0,审核不通过,2016-07-26 15:01:32,,13
+0,14452258,掌运通V1.1.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右下角我
+2点击联系客服，无反应","1首页点击右下角我
+2点击联系客服，无反应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33752134_Screenshot_2016-07-25-21-01-29.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,3
+0,14452258,掌运通V1.1.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击我
+2点击我的发布，提示网络繁忙，请重试","1首页点击我
+2点击我的发布，提示网络繁忙，请重试","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33752195_Screenshot_2016-07-25-21-02-47.png""]",未知,P0,审核不通过,2016-07-26 15:02:22,,0
+0,14452258,掌运通V1.1.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击身份确认
+2点击从业资格查询
+3点击放大镜，输入身份证号时，可以随意输入","1首页点击身份确认
+2点击从业资格查询
+3点击放大镜，输入身份证号时，可以随意输入","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33752491_Screenshot_2016-07-25-21-06-23.png""]",未知,P0,审核不通过,2016-07-26 15:02:39,,2
+0,14452258,掌运通V1.1.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击左上角三横杠
+2点击帮助中心，又弹回首页","1首页点击左上角三横杠
+2点击帮助中心，又弹回首页","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33752589_Screenshot_2016-07-25-21-04-37.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,16
+0,14452258,掌运通V1.1.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击发布车源
+2在打开的新窗口的下方弹出null，不知所云","1首页点击发布车源
+2在打开的新窗口的下方弹出null，不知所云","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33752803_Screenshot_2016-07-25-21-11-45.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,12
+0,14452258,掌运通V1.1.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击发布车源
+2点击流向，选择新疆，可以看到整个列表非常混乱，城市名也有被裁剪无法辨识的情况","1首页点击发布车源
+2点击流向，选择新疆，可以看到整个列表非常混乱，城市名也有被裁剪无法辨识的情况","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33752911_Screenshot_2016-07-25-21-13-44.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,12
+0,14452258,掌运通V1.1.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击发布车源
+2设置车牌号可以随意填写完全不是车牌号的信息，并且在设置完其他信息后可以发布成功","1首页点击发布车源
+2设置车牌号可以随意填写完全不是车牌号的信息，并且在设置完其他信息后可以发布成功","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33753156_Screenshot_2016-07-25-21-12-59.png""]",未知,P0,审核不通过,2016-07-26 15:05:21,,12
+0,14452258,掌运通V1.1.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击发布货源
+2点击联系方式的手机，可以设置为12345678910","1首页点击发布货源
+2点击联系方式的手机，可以设置为12345678910","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33753325_Screenshot_2016-07-25-21-18-01.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,7
+0,14539706,掌运通V1.1.5自由测试,北京市|北京市|海淀区|友谊路|,Xiaomi  MI NOTE LTE,Android 6.0.1,MOBILE LTE,中国移动,MMB29M,注册界面手机号输入框输入错误号码提示验证码发送成功,打开app，在登陆界面点击注册，手机号输入框输入11位9，点击发送验证码，提示验证码发送成功，逻辑错误,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723161_Screenshot_2016-07-25-14-47-52-177_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723226_Screenshot_2016-07-25-14-54-00-433_com.hiquanta.logisticsapp.png""]",未知,P0,审核不通过,2016-07-26 19:45:14,,10
+0,14539706,掌运通V1.1.5自由测试,北京市|北京市|海淀区|友谊路|,Xiaomi  MI NOTE LTE,Android 6.0.1,MOBILE LTE,中国移动,MMB29M,经用app获取ime码和存储权限后，登陆app时，app异常退出,小米note，安装app后禁用获取ime码和存储权限，此时用测试账户登陆，app异常退出,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723441_Screenshot_2016-07-25-14-55-11-864_com.miui.securitycenter.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723482_Screenshot_2016-07-25-14-48-04-217_com.baidu.addressugc.png""]",未知,P0,审核不通过,2016-07-26 11:14:22,,19
+0,14539706,掌运通V1.1.5自由测试,北京市|北京市|海淀区|友谊路|,Xiaomi  MI NOTE LTE,Android 6.0.1,MOBILE LTE,中国移动,MMB29M,打开app，在下方点击服务项目，服务项目界面点击相关栏目无响应,打开app，用测试账户登陆，，在下方点击服务项目，服务项目界面点击相关栏目无响应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723693_Screenshot_2016-07-25-14-49-33-433_com.hiquanta.logisticsapp.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,20
+0,14539706,掌运通V1.1.5自由测试,北京市|北京市|海淀区|友谊路|,Xiaomi  MI NOTE LTE,Android 6.0.1,MOBILE LTE,中国移动,MMB29M,app首页侧边栏选项点击后无响应,打开app，用测试账户登陆，在首页打开侧边栏，点击相关项目，无响应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724511_Screenshot_2016-07-25-14-59-10-118_com.hiquanta.logisticsapp.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724515_Screenshot_2016-07-25-14-49-14-117_com.hiquanta.logisticsapp.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,20
+0,14771869,掌运通V1.1.5自由测试,河北省|保定市|北市区|任庄路|,samsung  SM-A7100,Android 5.1.1,WIFI,中国电信,LMY47X.A7100ZCU1APE1,掌运通查询车辆基本信息，点击输入栏输入搜索内容时，页面出现英文信息“transvehiclebasic”,"1、打开掌运通——>首页——>选择“身份确认”——>选择“车辆基本信息查询”——>点击输入栏，输入搜索内容
+
+2、页面出现英文信息“transvehiclebasic”","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725749_%E8%BD%A6%E8%BE%86%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF%E6%9F%A5%E8%AF%A2.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,2
+0,14771869,掌运通V1.1.5自由测试,河北省|保定市|北市区|任庄路|,samsung  SM-A7100,Android 5.1.1,WIFI,中国电信,LMY47X.A7100ZCU1APE1,运营车辆查询，点击输入栏，页面出现英文信息“transvehicle”,"1、打开掌运通——>首页——>身份确认——>运营车辆查询
+2、点击搜索输入栏，页面出现英文信息“transvehicle”","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726069_%E8%BF%90%E8%90%A5%E8%BD%A6%E8%BE%86%E6%9F%A5%E8%AF%A2.png""]",未知,P0,审核不通过,2016-07-26 11:44:10,,2
+0,14771869,掌运通V1.1.5自由测试,河北省|保定市|北市区|任庄路|,samsung  SM-A7100,Android 5.1.1,WIFI,中国电信,LMY47X.A7100ZCU1APE1,"车辆运营信息查询，点击搜索输入栏，页面出现英文信息""transvehiclefile""","1、打开掌运通——>首页——>身份确认——>车辆运营信息查询
+2、点击搜索输入栏，页面出现英文信息""transvehiclefile""","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726204_%E8%BD%A6%E8%BE%86%E8%BF%90%E8%90%A5%E4%BF%A1%E6%81%AF%E6%9F%A5%E8%AF%A2.png""]",未知,P0,审核不通过,2016-07-26 11:44:25,,2
+0,14771869,掌运通V1.1.5自由测试,河北省|保定市|北市区|任庄路|,samsung  SM-A7100,Android 5.1.1,WIFI,中国电信,LMY47X.A7100ZCU1APE1,从业资格查询，点击搜索输入栏，页面出现英文信息“transportecert”,"1、打开掌运通——>首页——>身份确认——>从业资格查询
+2、点击搜索输入栏，页面出现英文信息“transportecert”","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726418_%E4%BB%8E%E4%B8%9A%E8%B5%84%E6%A0%BC%E6%9F%A5%E8%AF%A2.png""]",未知,P0,审核不通过,2016-07-26 11:44:52,,2
+0,14771869,掌运通V1.1.5自由测试,河北省|保定市|北市区|任庄路|,samsung  SM-A7100,Android 5.1.1,WIFI,中国电信,LMY47X.A7100ZCU1APE1,从业资格查询，输入搜索内容进行搜索，无搜索结果提示,"1、打开掌运通——>首页——>身份确认——>从业资格查询
+2、选择查询“从业资格id”——>输入19位id，进行搜索
+3，在无匹配结果的情况下，应给出提示信息，告知用户无匹配结果
+
+
+备注：其他搜索的处理方式有同样问题","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726668_%E6%90%9C%E7%B4%A2%E7%BB%93%E6%9E%9C.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,2
+0,14771869,掌运通V1.1.5自由测试,河北省|保定市|北市区|任庄路|,samsung  SM-A7100,Android 5.1.1,WIFI,中国电信,LMY47X.A7100ZCU1APE1,掌运通首页“更多”栏目下所有9个模块点击均不生效，不能使用,"1、打开掌运通——>首页——>更多
+2、分别点击“更多”栏目下所有9个模块的图标，观察点击结果和链接情况、
+3、“更多”栏目下所有9个模块的图标，点击后均不生效，导致9个模块功能不能使用","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726990_%E6%9B%B4%E5%A4%9A%E6%A8%A1%E5%9D%97%E4%B8%8B%E6%89%80%E6%9C%89%E5%86%85%E5%AE%B9%E4%B8%8D%E5%8F%AF%E7%94%A8-001.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726996_%E6%9B%B4%E5%A4%9A%E6%A8%A1%E5%9D%97%E4%B8%8B%E6%89%80%E6%9C%89%E5%86%85%E5%AE%B9%E4%B8%8D%E5%8F%AF%E7%94%A8-002.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,20
+0,14771869,掌运通V1.1.5自由测试,河北省|保定市|北市区|任庄路|,samsung  SM-A7100,Android 5.1.1,WIFI,中国电信,LMY47X.A7100ZCU1APE1,首次打开掌运通不能完全显示首页，首页内容被设置页面遮挡了60%,"1、首次安装掌运通
+2、首次打开掌运通
+3、观察首页布局
+4、首页被设置页面遮挡了60%，详情参考图片","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727718_%E9%A6%96%E9%A1%B5.png""]",未知,P0,审核不通过,2016-07-26 11:48:02,,16
+0,14867488,掌运通V1.1.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件，输入帐号和密码，点密码旁边的眼睛，无法查看输入的密码。,进入软件，输入帐号和密码，点密码旁边的眼睛，无法查看输入的密码。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33749052_Screenshot_2016-07-25-19-56-15.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,19
+0,14867488,掌运通V1.1.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件，点注册，点用户协议，无法查看协议的内容。,进入软件，点注册，点用户协议，无法查看协议的内容。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33749153_Screenshot_2016-07-25-19-57-31.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33749168_Screenshot_2016-07-25-19-58-27.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,5
+0,14867488,掌运通V1.1.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件，点注册，点用户旁边的向下按钮，无法点击。,进入软件，点注册，点用户旁边的向下按钮，无法点击。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33749451_Screenshot_2016-07-25-19-59-01.png""]",未知,P0,审核不通过,2016-07-26 14:58:51,,5
+0,14867488,掌运通V1.1.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件，点注册，输入12位手机号码，点获取验证码，能正常发送验证码。,进入软件，点注册，输入12位手机号码，点获取验证码，能正常发送验证码。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33749674_Screenshot_2016-07-25-20-03-46.png""]",未知,P0,审核不通过,2016-07-26 19:50:14,,10
+0,14867488,掌运通V1.1.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点左上角按钮，点设置，点清楚缓存，缓存的数值没有变化。,进入软件登录帐号，点左上角按钮，点设置，点清楚缓存，缓存的数值没有变化。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33749843_Screenshot_2016-07-25-20-06-32.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33749855_Screenshot_2016-07-25-20-06-36.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,1
+0,14867488,掌运通V1.1.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点左上角按钮，点设置，点关于掌运通，点去评分，提示手机没有安装应用市场。,进入软件登录帐号，点左上角按钮，点设置，点关于掌运通，点去评分，提示手机没有安装应用市场。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33749945_Screenshot_2016-07-25-20-10-44.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33749955_Screenshot_2016-07-25-20-11-29.png""]",未知,P0,审核不通过,2016-07-26 14:59:38,,21
+0,14867488,掌运通V1.1.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点左上角按钮，点设置，点加载图片旁的切换按钮，出现英文字母提示。,进入软件登录帐号，点左上角按钮，点设置，点加载图片旁的切换按钮，出现英文字母提示。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33750046_Screenshot_2016-07-25-20-12-06.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,21
+0,14867488,掌运通V1.1.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点左上角按钮，点设置，点消息通知，点击无反应。,进入软件登录帐号，点左上角按钮，点设置，点消息通知，点击无反应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33750151_Screenshot_2016-07-25-20-15-18.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,21
+0,14867488,掌运通V1.1.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点我，点注销旁边的图标，提示是否注销。,进入软件登录帐号，点我，点注销旁边的图标，提示是否注销。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33750299_Screenshot_2016-07-25-20-19-11.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,14
+0,14867488,掌运通V1.1.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点我，点联系客服，无法打开联系客服界面。,进入软件登录帐号，点我，点联系客服，无法打开联系客服界面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33750348_Screenshot_2016-07-25-20-17-13.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,3
+0,14867488,掌运通V1.1.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点我，带关于我们，点了解更多，出现却是开源社区界面。,进入软件登录帐号，点我，带关于我们，点了解更多，出现却是开源社区界面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33750488_Screenshot_2016-07-25-20-23-06.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33750494_Screenshot_2016-07-25-20-22-59.png""]",未知,P0,审核不通过,2016-07-26 15:01:11,,21
+0,14867488,掌运通V1.1.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点服务，点击界面按钮，点击无反应。,进入软件登录帐号，点服务，点击界面按钮，点击无反应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33750773_Screenshot_2016-07-25-20-27-33.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,15
+0,15195321,掌运通V1.1.5自由测试,湖北|武汉,Xiaomi  MI 3W,Android 6.0.1,WIFI,中国联通,MMB29M,打开app-服务-快速搜索附近下面的违章查询、修理厂等等所有功能模块都打不开，无法使用。小米手机3,打开app-服务-快速搜索附近下面的违章查询、修理厂等等所有功能模块都打不开，无法使用。小米手机3,[],未知,P0,审核通过,2016-07-28 10:00:02,,9
+0,15195321,掌运通V1.1.5自由测试,湖北|武汉,Xiaomi  MI 3W,Android 6.0.1,WIFI,中国联通,MMB29M,车源-网上车源，app闪退。,车源-网上车源，app闪退。小米手机3.,[],未知,P0,审核不通过,2016-07-26 15:11:43,,12
+0,15412365,掌运通V1.1.5自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,注册界面中的点击用户协议，点击后无反应，无法进入查看详情。,打开软件，点击注册，点击用户协议，点击后无反应，无法进入查看详情。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33738213_QQ%E5%9B%BE%E7%89%8720160725171823.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,5
+0,15412365,掌运通V1.1.5自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,登陆界面中在会员号处填写好手机号后点击后面的删除图标按键，发现无法删除已填写的账号。,打开软件，进入登陆界面，在会员号处填写好手机号后点击后面的删除图标按键，发现无法删除已填写的账号。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33738869_QQ%E5%9B%BE%E7%89%8720160725172412.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,8
+0,15412365,掌运通V1.1.5自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,在会员号处填写未注册的手机号，再填写密码后点击登陆出现“用户名密码错误”的提示信息，而不是提示手机号未注册。,打开软件，进入登陆界面，在会员号处填写未注册的手机号，再填写密码后点击登陆出现“用户名密码错误”的提示信息，而不是提示手机号未注册。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33739224_QQ%E5%9B%BE%E7%89%8720160725172733.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,19
+0,15412365,掌运通V1.1.5自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,我的界面中点击右上方的二维码图标，却出现“是否注销登陆”的提示信息。,打开软件，点击我的，点击右上方的二维码图标，却出现“是否注销登陆”的提示信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33739704_QQ%E5%9B%BE%E7%89%8720160725173243.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,14
+0,15412365,掌运通V1.1.5自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击我的发布，出现“网络繁忙，请重试”的提示信息。,打开进入，点击我，点击我的发布，出现“网络繁忙，请重试”的提示信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33739783_QQ%E5%9B%BE%E7%89%8720160725173355.jpg""]",未知,P0,审核不通过,2016-07-26 14:47:05,,0
+0,15412365,掌运通V1.1.5自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击会员认证，点击后没有反应无法进行认证。,打开软件，点击我，点击会员认证，点击后没有反应无法进行认证。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33740034_QQ%E5%9B%BE%E7%89%8720160725173715.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,8
+0,15412365,掌运通V1.1.5自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击意见反馈，界面却进入“八挂来网”的介绍界面，没有反馈意见处。,打开软件，点击我，点击关于我们，点击意见反馈，界面却进入“八挂来网”的介绍界面，没有反馈意见处。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33740380_QQ%E5%9B%BE%E7%89%8720160725174056.jpg""]",未知,P0,审核不通过,2016-07-26 14:47:19,,13
+0,15412365,掌运通V1.1.5自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击我，点击左上角的图标进入，点击“货运平台”、“相关软件”、“交流讨论”、“帮助中心”均无法反应，无法进入查看详情。,打开软件，点击我，点击左上角的图标进入，点击“货运平台”、“相关软件”、“交流讨论”、“帮助中心”均无法反应，无法进入查看详情。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33740802_QQ%E5%9B%BE%E7%89%8720160725174555.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33740816_QQ%E5%9B%BE%E7%89%8720160725174558.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33740823_QQ%E5%9B%BE%E7%89%8720160725174601.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33740835_QQ%E5%9B%BE%E7%89%8720160725174604.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,11
+0,15412365,掌运通V1.1.5自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击违章查询，点击后没有反应，无法进入查询违章。,打开软件，点击服务，点击违章查询，点击后没有反应，无法进入查询违章。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33740958_QQ%E5%9B%BE%E7%89%8720160725174852.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,9
+0,15412365,掌运通V1.1.5自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击一手货源，进入后就出现“没有信息”的提示信息，界面上却出现很多信息。,打开软件，点击首页，点击一手货源，进入后就出现“没有信息”的提示信息，界面上却出现很多信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33741170_QQ%E5%9B%BE%E7%89%8720160725175435.jpg""]",未知,P0,审核不通过,2016-07-26 14:48:26,,6
+0,15412365,掌运通V1.1.5自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击发布车源，一进入就出现“null”的提示信息。,打开软件，点击发布车源，一进入就出现“null”的提示信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33741328_QQ%E5%9B%BE%E7%89%8720160725175717.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,12
+0,16635395,掌运通V1.1.5自由测试,北京市|北京市|西城区|西便门内大街|53号院,samsung  GT-N7108D,Android 4.2.2,WIFI,无SIM卡,JDQ39.N7108DZMUAMJ2,客户端菜单中的配货平台、相关软件等功能点击无反应,"1.打开客户端，登录成功；
+2.提示更新，选择下次更新，选择菜单键；
+3.点击菜单中的配货平台、相关软件、交流讨论、帮助中心功能，点击无反应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726541_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0725_15_29_01.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,11
+0,16635395,掌运通V1.1.5自由测试,北京市|北京市|西城区|西便门内大街|53号院,samsung  GT-N7108D,Android 4.2.2,WIFI,无SIM卡,JDQ39.N7108DZMUAMJ2,菜单中切换日间和夜间模式，提示版本升级，切换日间和夜间模式和版本升级无关，不应该弹出升级提示,"1.打开客户端，登录成功；
+2.选择左上角的菜单按钮，选择夜间模式，弹出发现新版本提示，切换日间和夜间模式和版本升级无关，不应该弹出升级提示","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726858_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0725_15_32_01.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726904_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0725_15_32_02.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,17
+0,16848034,掌运通V1.1.5自由测试,江苏|连云港,samsung  SM-G7108V,Android 4.3,WIFI,中国移动,JLS36C.G7108VZMUANE2,界面左侧按键点击无反应,"1.打开软件，进入主界面；
+2.从左向右翻，出现左侧一竖排按键；
+3.点击4个功能键，均无任何对应的操作，按键无反应。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727285_01.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727298_02.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727311_03.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,9
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,用户注册：输入错误的电话号码app也会发送验证码,在用户注册页面，输出错误的电话号码（10位数），点击获取验证码，app显示：成功获取。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725265_QQ%E5%9B%BE%E7%89%8720160725151113.jpg""]",未知,P0,审核不通过,2016-07-26 19:48:00,,10
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,用户注册：app无用户协议,在用户注册页面，点击用户协议，app无反应。app无用户协议。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725420_QQ%E5%9B%BE%E7%89%8720160725151111.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,5
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,注册：app无法显示密码,在注册页面，点击密码右边图标，密码无法显示出来。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725566_QQ%E5%9B%BE%E7%89%8720160725151109.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,19
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,会员认证：app无链接,点击我，点击会员认证，app无反应，文字无链接。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725711_QQ%E5%9B%BE%E7%89%8720160725151104.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,8
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,服务：所有图标都无链接,点击服务，点击任意图标，app无跳转链接。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726086_QQ%E5%9B%BE%E7%89%8720160725151032.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,15
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,我的车辆：app显示null,点击我，点击我的竞价，点击状态，选择空车，app显示：null,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726137_QQ%E5%9B%BE%E7%89%8720160725151104.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726149_QQ%E5%9B%BE%E7%89%8720160725151106.jpg""]",未知,P0,审核不通过,2016-07-26 11:52:37,,18
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,网上货源：app显示网络繁忙，请重试,点击货源，点击网上货源，点击如图所示：安阳市，app显示网络繁忙，请重试。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726350_QQ%E5%9B%BE%E7%89%8720160725151025.jpg""]",未知,P0,审核不通过,2016-07-26 11:53:48,,0
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,查找货源：不能按用户输入内容查找相关信息,点击首页，点击查找货源，输入：起始地点沈阳市，终止地点抚顺市，点搜索，从跳转页面上看，并非是从沈阳运送货物到抚顺。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726406_QQ%E5%9B%BE%E7%89%8720160725151016.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726414_QQ%E5%9B%BE%E7%89%8720160725151018.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726415_QQ%E5%9B%BE%E7%89%8720160725151020.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,18
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,发布车源：app显示null,点击首页，点击发布车源：app显示null,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726720_QQ%E5%9B%BE%E7%89%8720160725151016.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726727_QQ%E5%9B%BE%E7%89%8720160725151014.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,12
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,网上货源：app显示没有信息,点击：首页，点击一手货源，app显示没有信息。但是从页面上明显有很多信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727136_QQ%E5%9B%BE%E7%89%8720160725151015.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727160_QQ%E5%9B%BE%E7%89%8720160725151009.jpg""]",未知,P0,审核不通过,2016-07-26 12:02:46,,6
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,"点击首页，点击身份确认，点击运营车辆查询，页面显示：transvehicle,输入如图文字查询，app无反应。","点击首页，点击身份确认，点击运营车辆查询，页面显示：transvehicle,输入如图文字查询，app无反应。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727227_QQ%E5%9B%BE%E7%89%8720160725151015.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727273_QQ%E5%9B%BE%E7%89%8720160725150959.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727313_QQ%E5%9B%BE%E7%89%8720160725150954.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727325_QQ%E5%9B%BE%E7%89%8720160725150952.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,2
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,在主页面，点击左上角图标，点击设置，点击加载图片，app显示：sadfasdfasdf。,在主页面，点击左上角图标，点击设置，点击加载图片，app显示：sadfasdfasdf。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727832_QQ%E5%9B%BE%E7%89%8720160725150948.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727859_QQ%E5%9B%BE%E7%89%8720160725150947.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,16
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,在主页面，点击左上角图标，点击配货平台，app返回主页面。,在主页面，点击左上角图标，点击配货平台，app返回主页面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728080_QQ%E5%9B%BE%E7%89%8720160725150948.jpg""]",未知,P0,审核不通过,2016-07-26 12:03:59,,11
+0,16872961,掌运通V1.1.5自由测试,广东省|江门市|开平市|红进路|84-11号,Hisense  Hisense M20-T,Android 4.4.4,WIFI,中国电信,L_M20-T_B1_S17,在设置页面中可以看到，有双击退出这一选项。但是在任何页面中双击标题或者页面主要图标都不能成功退出app。,在设置页面中可以看到，有双击退出这一选项。但是在任何页面中双击标题或者页面主要图标都不能成功退出app。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728195_QQ%E5%9B%BE%E7%89%87201607251509481.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728216_QQ%E5%9B%BE%E7%89%8720160725150944.jpg""]",未知,P0,审核不通过,2016-07-26 12:04:25,,16
+0,17115469,掌运通V1.1.5自由测试,重庆市|重庆市|荣昌县|香国大道|,HONOR  PLK-AL10,Android 5.0.2,WIFI,unknown,PLK-AL10C00B211,菜单无效   在掌运通服务里面 所有的菜单都无法打开,"1，进入软件
+2， 在服务里面 点击各个图标 ，均没有反应 无法打开","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735699_%E8%8F%9C%E5%8D%95%E9%83%BD%E6%97%A0%E6%95%88.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,15
+0,17115469,掌运通V1.1.5自由测试,重庆市|重庆市|荣昌县|香国大道|,HONOR  PLK-AL10,Android 5.0.2,WIFI,unknown,PLK-AL10C00B211,在我的内容里面 会员认证和联系客服 2个菜单均无效,"1，进入软件
+2， 在掌运通里面找到---我
+3如图所示 这两个菜单均无效","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735812_%E8%8F%9C%E5%8D%95%E6%97%A0%E6%95%88.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,8
+0,17115469,掌运通V1.1.5自由测试,重庆市|重庆市|荣昌县|香国大道|,HONOR  PLK-AL10,Android 5.0.2,WIFI,unknown,PLK-AL10C00B211,在软件主页右上角菜单里面的子菜单均无效,"1，进入软件 
+2，点击软件左上角图标 进入子页面 
+3， 弹出的页面 第一没有覆盖完整页面 第二  里面的子菜单均没有反应 如图所示","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735931_%E6%98%BE%E7%A4%BA%E5%8D%8A%E5%B1%8F%E5%88%87%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,11
+0,17115469,掌运通V1.1.5自由测试,重庆市|重庆市|荣昌县|香国大道|,HONOR  PLK-AL10,Android 5.0.2,WIFI,unknown,PLK-AL10C00B211,每次打开之后 内容都是=null  如图所示,"1，进入软件 
+2，找到如图所示的内容  提示 -null","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33735986_%E6%8F%90%E7%A4%BA%E7%A9%BA.png""]",未知,P0,审核不通过,2016-07-26 14:44:38,,13
+0,17198859,掌运通V1.1.5自由测试,福建省|厦门市|思明区|望海路|67号,samsung  SM-G9250,Android 6.0.1,WIFI,中国移动,MMB29K.G9250ZCS2DPF1,【评测】掌运通输入账号及密码（用户名：15137267307，密码：123123）点击登录程序停止运行,"【前提】手机已连接wifi/数据流量
+【步骤】打开app--输入会员号（用户名：15137267307）--输入密码（密码：123123）--点击登录--观察界面
+【结果】提示”掌运通已停止。“
+【期望】应该可以正常登录
+【其他】手机型号：samsung galaxy s6 edge（sm-g9250）
+            系统版本：android6.0.1","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33722579_QQ%E5%9B%BE%E7%89%8720160725144714.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33722595_QQ%E5%9B%BE%E7%89%8720160725144741.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,19
+0,17198859,掌运通V1.1.5自由测试,福建省|厦门市|思明区|望海路|67号,samsung  SM-G9250,Android 6.0.1,WIFI,中国移动,MMB29K.G9250ZCS2DPF1,【评测】注册账号点击注册程序出现停止运行,"【前提】手机已连接wifi/数据流量
+【步骤】打开app--点击“注册”--选择“用户”、输入电话、输入密码、输入验证码--点击“注册”--观察界面
+【结果】程序停止运行
+【期望】应该能正常注册
+【其他】手机型号：samsung galaxy s6 edge（sm-g9250）
+            系统版本：android6.0.1","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723752_QQ%E5%9B%BE%E7%89%8720160725145709.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723756_QQ%E5%9B%BE%E7%89%8720160725145737.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723759_QQ%E5%9B%BE%E7%89%8720160725145753.png""]",未知,P0,审核不通过,2016-07-26 11:25:15,,19
+0,17198859,掌运通V1.1.5自由测试,福建省|厦门市|思明区|望海路|67号,samsung  SM-G9250,Android 6.0.1,WIFI,中国移动,MMB29K.G9250ZCS2DPF1,【评测】用户协议无法点击查看,"【前提】手机已连接wifi/数据流量
+【步骤】打开app--点击“注册”--点击“用户协议”--观察界面
+【结果】用户协议无法点击查看
+【期望】应该可以正常点击查看","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724592_QQ%E5%9B%BE%E7%89%8720160725150032.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724598_QQ%E5%9B%BE%E7%89%8720160725150057.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,5
+0,17199230,掌运通V1.1.5自由测试,重庆市|重庆市|渝北区|星光大道|82号,vivo  vivo X6L,Android 5.1,WIFI,中国移动,LMY47I release-keys,登录界面会员号输入框的取消按钮（“x”）功能未实现,1.点击进入系统登录界面 2.输入手机号后点击输入栏后面的绿色的“x” 3.数字没有删除掉,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33723215_%E6%88%AA%E5%B1%8F2.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,21
+0,17199230,掌运通V1.1.5自由测试,重庆市|重庆市|渝北区|星光大道|82号,vivo  vivo X6L,Android 5.1,WIFI,中国移动,LMY47I release-keys,用账号登录进入首页，弹出错误提示框“很抱歉，“掌运通”已停止运行”，但是点击确定后，系统并没有退出,"测试设备：vivox6  版本：vivo rev：1.10.3   网络：wifi 
+重现步骤：
+1.用给定的账号登录进入系统","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33724535_%E6%88%AA%E5%B1%8F4.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,17
+0,17199230,掌运通V1.1.5自由测试,重庆市|重庆市|渝北区|星光大道|82号,vivo  vivo X6L,Android 5.1,WIFI,中国移动,LMY47I release-keys,我-我的发布模块 筛选我的车辆在填写流向时选择直接是市的城市不能选择,"1.用户登录进入系统
+2.点击我-我的发布
+3.点击筛选
+4.流向选择（如选北京市、重庆市）
+5.点击确定
+6.查看流向里面的内容，没有内容","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725452_%E6%88%AA%E5%B1%8F5.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725487_%E6%88%AA%E5%B1%8F_6.png""]",未知,P0,审核不通过,2016-07-26 14:31:14,,12
+0,17199230,掌运通V1.1.5自由测试,重庆市|重庆市|渝北区|星光大道|82号,vivo  vivo X6L,Android 5.1,WIFI,中国移动,LMY47I release-keys,模块我里面，会员认证、联系客服、版本更新、关于我们里面的检查新版本功能未实现,"1.用户登录进入系统
+ 2.点击我-会员认证、联系客服、版本更新、关于我们里面的检查新版本
+3.无任何反应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726119_%E6%88%AA%E5%B1%8F_20160725_152150.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726124_%E6%88%AA%E5%B1%8F_20160725_152201.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,8
+0,17199230,掌运通V1.1.5自由测试,重庆市|重庆市|渝北区|星光大道|82号,vivo  vivo X6L,Android 5.1,WIFI,中国移动,LMY47I release-keys,我-关于我们模块 意见反馈是跳转到了八挂来网页面,"1.用户登录进入系统 
+2.点击我-关于我们，再点击意见反馈","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726392_%E6%88%AA%E5%B1%8F_20160725_152201.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33726504_IMG_20160725_152756.JPG""]",未知,P0,审核不通过,2016-07-26 14:31:48,,13
+0,17199230,掌运通V1.1.5自由测试,重庆市|重庆市|渝北区|星光大道|82号,vivo  vivo X6L,Android 5.1,WIFI,中国移动,LMY47I release-keys,设置里面清除缓存功能未实现,"1.用账号登录进入系统首页
+2.点击左上角的“三条横线”图标
+3.点击左下角的设置
+4.点击清除缓存，弹出提示信息再点击确定","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727334_%E6%88%AA%E5%B1%8F8.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,1
+0,17199230,掌运通V1.1.5自由测试,重庆市|重庆市|渝北区|星光大道|82号,vivo  vivo X6L,Android 5.1,WIFI,中国移动,LMY47I release-keys,点击首页隐藏菜单栏里面的夜间，弹出错误框“很抱歉，“掌运通”已停止运行”，点击确定，系统没有退出，弹出发现新版本，在弹出错误提示,"1.点击系统进入系统首页
+2.点击左上角的“三条横线”图标
+3.再点击右下角“夜间”","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33727975_%E6%88%AA%E5%B1%8F9.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,17
+0,17199230,掌运通V1.1.5自由测试,重庆市|重庆市|渝北区|星光大道|82号,vivo  vivo X6L,Android 5.1,WIFI,中国移动,LMY47I release-keys,首页隐藏菜单栏中，配货平台、相关软件、交流讨论、帮助中心功能未实现,"1.点击系统进入系统首页 2.点击左上角的“三条横线”图标
+3.点击配货平台、相关软件、交流讨论、帮助中心","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33728565_%E6%88%AA%E5%B1%8F10.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,11
+0,17199230,掌运通V1.1.5自由测试,重庆市|重庆市|渝北区|星光大道|82号,vivo  vivo X6L,Android 5.1,WIFI,中国移动,LMY47I release-keys,在首页点击一手货源和网上货源总有提示没有信息，后有信息显示。即有信息的情况下也会弹出没有信息的提示,"1.账号登录进入系统首页
+2.点击一手货源和网上货源","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729499_%E6%88%AA%E5%B1%8F11.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729509_%E6%88%AA%E5%B1%8F12.png""]",未知,P0,审核不通过,2016-07-26 14:32:57,,6
+0,17222895,掌运通V1.1.5自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,登录后点击头像弹出是否要注销的框框,"1.打开app
+2.登录账号
+3.点击底部菜单我的
+4.点击头像
+
+预期结果：能进行更改头像
+实际结果：弹出询问是否要注销的框框。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33740768_Screenshot_2016-07-25-16-14-27.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,14
+0,17222895,掌运通V1.1.5自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,登录后点击个人中心中的二维码图标功能未实现,"1.打开app
+2.登录账号
+3.点击底部菜单我的
+4.点击右上角二维码图标
+
+预期结果：出现个人二维码名片
+实际结果：询问个人是否要退出","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33740941_Screenshot_2016-07-25-16-14-43.png""]",未知,P0,审核不通过,2016-07-26 14:51:22,,14
+0,17222895,掌运通V1.1.5自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,点击服务出现网络繁忙且点击服务里的功能模块无反应。,"1.打开app 2.登录账号 3.点击底部菜单服务 4.点击任意一个功能模块
+预期结果：跳转到该功能模块窗口
+实际结果：点击后无反应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33740977_Screenshot_2016-07-25-16-15-15.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,15
+0,17222895,掌运通V1.1.5自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,搜索网上具体货源与实际不符,"1.打开app
+2.登录账号
+3.点击底部菜单货源
+4.点击右上角搜索图标------------选择网上货源   范围黑龙江到北京 -------点击搜索
+
+预期结果：只搜素到黑龙江到北京的货源，没有就搜不到
+实际结果：搜索不出黑龙江到北京的货物，但是搜索到黑龙江到黑龙江的。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33741090_Screenshot_2016-07-25-16-17-07.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33741093_Screenshot_2016-07-25-16-17-29.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,18
+0,17222895,掌运通V1.1.5自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,网上车辆模块点击地图跟踪跳转到地图马克赛页面,"1.打开app
+2.登录账号
+3.点击底部菜单车辆
+4.点击顶部菜单网上车辆
+5.点击地图跟踪 
+预期结果：跳转到车辆的具体地图位置
+实际结果：跳转到地图的马克赛页面","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33741262_Screenshot_2016-07-25-16-18-25.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,18
+0,17222895,掌运通V1.1.5自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,个人中心模块点击版本更新和联系客服功能未实现,"1.打开app
+2.登录账号
+3.点击底部菜单我的
+4.点击版本更新
+5.点击联系客服
+
+预期结果：点击版本更新后能更新版本，点击联系客服跳出客服联系号码
+实际结果：点击版本更新无反应，点击联系客服无反应，功能未实现。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33741419_Screenshot_2016-07-25-16-20-47.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,3
+0,17222895,掌运通V1.1.5自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,进入竞价信息模块里的货物详情并不能获取联系人号码,"1.打开app
+2.登录账号
+3.点击底部菜单首页
+4.点击竞价管理-------点击任意一个货物----------查看货物详情
+预期结果：能查看货物所有信息
+实际结果：所有竞价管理的货物详情都没有显示联系人号码","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33741719_Screenshot_2016-07-25-16-25-06.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,18
+0,17270460,掌运通V1.1.5自由测试,安徽|阜阳,Xiaomi  HM 1SW,Android 6.0.1,WIFI,无SIM卡,mk_armani-userdebug 6.0.1 MOB3,点击“用户协议“无反应,"1.打开软件，点击“注册”，进入“注册”界面
+2.点击“用户协议”，软件无反应。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33729880_Screenshot_20160725-154810.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730082_Screenshot_20160725-15473.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,5
+0,17270460,掌运通V1.1.5自由测试,安徽|阜阳,Xiaomi  HM 1SW,Android 6.0.1,WIFI,无SIM卡,mk_armani-userdebug 6.0.1 MOB3,手机号码框为空仍可发送验证码,1.打开软件，点击“注册”，进入“注册”界面 2.点击“获取验证码”，软件未检测手机号，直接发送。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730316_Screenshot_20160725-154810.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730323_Screenshot_20160725-154730.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730333_Screenshot_20160725-154759.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,10
+0,17270460,掌运通V1.1.5自由测试,安徽|阜阳,Xiaomi  HM 1SW,Android 6.0.1,WIFI,无SIM卡,mk_armani-userdebug 6.0.1 MOB3,禁止应用权限导致应用停止运行,"android m
+1.在应用权限中关闭所有权限（我想这很简单了吧，应该不用详细步骤）。
+2.打开软件，输入账号密码，点击“登录”，应用停止运行","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730515_Screenshot_20160725-160723.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730729_Screenshot_20160725-155403.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33730756_Screenshot_20160725-155346.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,19
+0,17270460,掌运通V1.1.5自由测试,安徽|阜阳,Xiaomi  HM 1SW,Android 6.0.1,WIFI,无SIM卡,mk_armani-userdebug 6.0.1 MOB3,自动浏览器分享按钮失效,"1.打开软件，登录，点击右下方“我的”，进入该界面 。
+2.点击“关于我们”，进入该界面。
+3.点击下方”官网“，进入该界面。
+3.点击右上角分享标识按钮，软件无响应。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33731051_Screenshot_20160725-161203.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33731118_Screenshot_20160725-161235.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33731286_Screenshot_20160725-161243.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,21
+0,17270460,掌运通V1.1.5自由测试,安徽|阜阳,Xiaomi  HM 1SW,Android 6.0.1,WIFI,无SIM卡,mk_armani-userdebug 6.0.1 MOB3,“我的”界面部分按钮失效,1.打开软件，登录，点击右下方“我的”，进入该界面 。 2.点击“会员认证“或者”联系我们“，软件无响应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33731505_Screenshot_20160725-161203.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,8
+0,17270460,掌运通V1.1.5自由测试,安徽|阜阳,Xiaomi  HM 1SW,Android 6.0.1,WIFI,无SIM卡,mk_armani-userdebug 6.0.1 MOB3,“服务”界面部分按钮失效,"1.打开软件，登录，点下方“服务”，进入该界面 。 
+2.点击“违章查询”到超市“的按钮都无反应。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33731629_Screenshot_20160725-161849.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,15
+0,17270460,掌运通V1.1.5自由测试,安徽|阜阳,Xiaomi  HM 1SW,Android 6.0.1,WIFI,无SIM卡,mk_armani-userdebug 6.0.1 MOB3,菜单界面部分按钮失效,"1.打开软件，登录，点击右上方菜单标识按钮。
+2.如图部分按钮，点击无响应。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33731923_Screenshot_20160725-162307.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33731992_Screenshot_20160725-162144.jpg""]",未知,P0,审核通过,2016-07-28 10:00:02,,21
+0,17270460,掌运通V1.1.5自由测试,安徽|阜阳,Xiaomi  HM 1SW,Android 6.0.1,WIFI,无SIM卡,mk_armani-userdebug 6.0.1 MOB3,..缓存按钮失效..,1.打开软件，登录，点击右上方菜单标识按钮。 2.点击下方设置标识按钮，进入该界面。3.点击“清除缓存”，弹出选项，点击“确定”，发现缓存并未清理。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732206_Screenshot_20160725-162307.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732221_Screenshot_20160725-162144.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33732241_Screenshot_20160725-162410.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,1
+0,17326092,掌运通V1.1.5自由测试,四川省|资阳市|简阳市||,vivo  vivo Xplay5A,Android 5.1.1,WIFI,中国移动,LMY47V release-keys,进入软件后“服务”的内容不能查看。,"1、打开软件，进入“服务”频道。
+2、点击任意频道，都没有反应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33725331_%E8%B6%85%E7%BA%A7%E6%88%AA%E5%B1%8F_20160725_150910.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,15
+0,17338564,掌运通V1.1.5自由测试,上海市|上海市|浦东新区|X001(杨高南路)|,Xiaomi  2014011,Android 4.4.2,WIFI,中国移动,HM.KK.M12.V009.XM,点击“掌运通”app首页上方的广告后，进入的网页没有自适应手机屏幕的尺寸,"1、登录“掌运通”app成功后，进入app首页
+2、点击“首页”上方的广告画面的“了解更多”，进入广告页
+3、观察弹出的广告页
+4、预期结果：弹出的广告页面网址，应自适应使用设备的屏幕大小
+5、实际结果：弹出的广告页面网址没有自适应使用设备的屏幕大小","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33736636_%E5%9B%BE%E7%89%8720160725170607.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33736658_QQ%E5%9B%BE%E7%89%8720160725170626.png""]",未知,P0,审核不通过,2016-07-26 14:55:46,,17
+0,17338564,掌运通V1.1.5自由测试,上海市|上海市|浦东新区|X001(杨高南路)|,Xiaomi  2014011,Android 4.4.2,WIFI,中国移动,HM.KK.M12.V009.XM,点击“掌运通”app首页左上方的“菜单”功能键里的“配货平台”，没有进入“配货平台”的功能页,"1、登录“掌运通”app成功后，进入app首页 
+2、点击app首页左上角的“菜单”功能键，弹出“菜单”的功能页
+3、点击“菜单”功能页的“配货平台”功能键
+4、预期结果：弹出“配货平台”相对应的功能页面
+5、实际结果：未弹出“配货平台”相对应的功能页面，并进入app“首页”
+附：“相关软件”，“交流讨论”，“帮助中心”亦没有弹出相对应的功能页","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33739775_QQ%E5%9B%BE%E7%89%8720160725173813.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33739874_QQ%E5%9B%BE%E7%89%8720160725173823.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33739925_QQ%E5%9B%BE%E7%89%8720160725173828.png""]",未知,P0,审核通过,2016-07-28 10:00:02,,11
+0,17338564,掌运通V1.1.5自由测试,上海市|上海市|浦东新区|X001(杨高南路)|,Xiaomi  2014011,Android 4.4.2,WIFI,中国移动,HM.KK.M12.V009.XM,"“服务”功能页的“快速搜索附近”的所有功能在点击“相对应”的功能键时，都没有弹出相对应的功能页
+附：以下复现步骤以“违章查询”功能为例","1、登录“掌运通”app成功后，进入app首页
+2、点击“首页”中下方的“服务”功能键，进入“服务”功能页
+3、点击“快速搜索附近”下方的“违章查询”功能键
+4、预期结果：弹出“违章查询”相对应的功能页面
+5、实际结果：在点击“违章查询”功能键后，毫无反应。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33741686_QQ%E5%9B%BE%E7%89%8720160725180833.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33741691_QQ%E5%9B%BE%E7%89%8720160725180844.png""]",未知,P0,审核通过,2016-07-28 10:00:03,,9
+0,17338564,掌运通V1.1.5自由测试,上海市|上海市|浦东新区|X001(杨高南路)|,Xiaomi  2014011,Android 4.4.2,WIFI,中国移动,HM.KK.M12.V009.XM,“设置”功能的“清理缓存”功能，执行“清理缓存”功能时，缓存没有备清理,"1、登录“掌运通”app成功后，进入app首页 
+2、点击app首页左上角的“菜单”功能键，弹出“菜单”的功能页 
+3、点击“菜单”功能页的左下方的“设置”功能键，进入“设置”功能页
+4、点击“清理缓存”功能，弹出“是否清空缓存？”的提示框，点击提示框
+     的“确定”功能按钮。
+5、预期结果：“清理缓存”一栏的1.50mb的缓存会被清理，并弹出“缓存已被
+     清理”类似的提示框
+6、实际结果：“清理缓存”一栏的1.50mb的缓存没有被清理，也没有弹出相对
+     应的提示框","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33742527_Screenshot_2016-07-25-18-15-47_com.hiquanta.logis.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33742560_Screenshot_2016-07-25-18-15-54_com.hiquanta.logis.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33742585_Screenshot_2016-07-25-18-16-00_com.hiquanta.logis.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33742617_Screenshot_2016-07-25-18-16-05_com.hiquanta.logis.png""]",未知,P0,审核通过,2016-07-28 10:00:03,,1
+0,17338564,掌运通V1.1.5自由测试,上海市|上海市|浦东新区|X001(杨高南路)|,Xiaomi  2014011,Android 4.4.2,WIFI,中国移动,HM.KK.M12.V009.XM,"点击“我的”个人中心功能页的“会员认证”后，毫无反应。
+附：同功能页的“联系客服”和“版本更新”在点击后，也是毫无反应","1、登录成功后，进入app“首页”，点击“我的”功能键，进入“我的”功能页
+2、在“我的”功能页，点击“会员认证”功能键
+3、预期结果：进入“会员认证”相对应的相关功能页或弹出相对应的功能
+4、实际结果：点击“会员认证”功能键后，页面毫无反应
+     附：同功能页的“联系客服”和“版本更新”在点击后，也是毫无反应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33743194_QQ%E5%9B%BE%E7%89%872016072513.png""]",未知,P0,审核通过,2016-07-28 10:00:03,,8

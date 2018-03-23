@@ -1,0 +1,173 @@
+case编号,用户id,case标题,地域,机型,操作系统,网络环境,运营商,ROM信息,bug详情,复现步骤,截图,是否未知,优先级,审核状态,提交时间,,重复情况
+0,737755,PomotodoV2.0.0-Beta.23自由测试,新疆维吾尔自治区|阿勒泰地区|哈巴河县||,OPPO  N5207,Android 4.4.4,WIFI,中国联通,N5207_11_150411,"1打开设置，
+2选择现在升级高级版，，
+3，进去选择支付宝,
+4，选择去支付，支付宝，不急付款，两分种左右，支付宝程序出现设备，无反应，
+2第二次测试时，进入支付页面，支付定，goolge play,,等等几个字变为方框，祥情看图","1打开设置，
+2选择现在升级高级版，，
+3，进去选择支付宝,
+4，选择去支付，支付宝，不急付款，两分种左右，支付宝程序出现设备，无反应，
+2第二次测试时，进入支付页面，支付定，goolge play,,等等几个字变为方框，祥情看图","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33933416_Screenshot_2016-07-27-23-12-39-13.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33933423_Screenshot_2016-07-27-23-14-12-649.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33933426_Screenshot_2016-07-27-23-14-44-873.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33933553_Screenshot_2016-07-27-23-52-59-868.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,9
+0,851370,PomotodoV2.0.0-Beta.23自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,红米note3，开启兼容模式+锁屏，番茄到时间后无震动和声音,红米note3，开启兼容模式+锁屏，番茄到时间后无震动和声音,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927846_1.jpg""]",未知,P0,审核不通过,2016-07-31 23:11:48,,0
+0,851370,PomotodoV2.0.0-Beta.23自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,红米note3，开启兼容模式，在运行番茄钟的时候打开了别的应用，无线模式就会关闭（休息结束后，无法自动开启新的番茄）,红米note3，开启兼容模式，在运行番茄钟的时候打开了别的应用，无线模式就会关闭（休息结束后，无法自动开启新的番茄）,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928072_2.jpg""]",未知,P0,审核通过,2016-08-02 10:00:12,,0
+0,851370,PomotodoV2.0.0-Beta.23自由测试,四川省|南充市|南部县|晓霞路|33号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击右上方设置，点击屏蔽应用，任意屏蔽一个应用并且开启权限，但是随后依然能打开该应用,打开app后点击右上方设置，点击屏蔽应用，任意屏蔽一个应用并且开启权限，但是随后依然能打开该应用,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928172_3.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928174_4.jpg""]",未知,P0,审核通过,2016-08-02 10:00:12,,1
+0,1133707,PomotodoV2.0.0-Beta.23自由测试,河南省|郑州市|惠济区|大河路|,Lenovo  Lenovo K30-T,Android 4.4.4,WIFI,中国移动,VIBEUI_V2.0_1511_7.13.1_DEV_K3,注册时邮箱校验不严格,在注册页面，输入不准确的邮箱，可以注册成功。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33925254_1.jpg""]",未知,P0,审核不通过,2016-07-31 23:09:50,,3
+0,1165965,PomotodoV2.0.0-Beta.23自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,反馈页面出现英文提示,1.打开软件（不登陆）2.右上角三点3.偏好设置4.帮助5.摇动手机进入反馈页面6.填写信息7.右上角√,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33953472_QQ%E6%88%AA%E5%9B%BE20160728083446.jpg""]",未知,P0,审核通过,2016-08-02 10:00:12,,15
+0,1165965,PomotodoV2.0.0-Beta.23自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,页面出现不明英文字符,1.打开软件并登录2.右上角三点3.偏好设置4.高级版5.右上角图标6.确定,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33953700_QQ%E6%88%AA%E5%9B%BE20160728083907.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33953701_QQ%E6%88%AA%E5%9B%BE20160728084029.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33953703_QQ%E6%88%AA%E5%9B%BE20160728084102.jpg""]",未知,P0,审核不通过,2016-07-31 23:26:31,,14
+0,1165965,PomotodoV2.0.0-Beta.23自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,工作报告点击无反应               .,1.打开软件并登录2.右上角三点3.偏好设置4.高级版5.15天免费试用6.工作报告,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33953819_QQ%E6%88%AA%E5%9B%BE20160728084258.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33953824_QQ%E6%88%AA%E5%9B%BE20160728084417.jpg""]",未知,P0,审核通过,2016-08-02 10:00:12,,5
+0,1165965,PomotodoV2.0.0-Beta.23自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,已登录状态下，日历订阅页面不能读取登录信息，需重新输入登录,1.打开软件并登录2.右上角三点3.偏好设置4.高级版5.访问支持中心6.页面下部 我的工单7.点击登录,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33954738_QQ%E6%88%AA%E5%9B%BE20160728085042.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33954746_QQ%E6%88%AA%E5%9B%BE20160728085107.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33954755_QQ%E6%88%AA%E5%9B%BE20160728085140.jpg""]",未知,P0,审核通过,2016-08-02 10:00:12,,14
+0,2182072,PomotodoV2.0.0-Beta.23自由测试,辽宁省|锦州市|古塔区|工学里|124-93,Huawei  HUAWEI G750-T01,Android 4.2.2,WIFI,中国移动,G750-T01 V100R001CHNC00B152,打开软件，点击右上角按钮，点击偏好设置，点击页面设置，随意将几个开关打开，再打开下一个之后，之前打开的开关全部变成关闭。,打开软件，点击右上角按钮，点击偏好设置，点击页面设置，随意将几个开关打开，再打开下一个之后，之前打开的开关全部变成关闭。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33925659_Screenshot_2016-07-27-20-22-10.jpeg""]",未知,P0,审核通过,2016-08-02 10:00:12,,10
+0,3052264,PomotodoV2.0.0-Beta.23自由测试,安徽省|亳州市|涡阳县|X021|null,nubia  NX513J,Android 5.0.2,WIFI,中国移动,NX513J_CNCommon_V4.01,错误密码登录时，提示语言为英文,"进入用户登录页面
+1、填写正确的用户名；
+2、填写错误的密码；
+3、点击登录按钮，登录提示信息为英文信息，其他提示信息均为中文信息。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33961370_Screenshot_2016-07-28-08-50-17.png""]",未知,P0,审核不通过,2016-07-31 23:29:53,,14
+0,3463911,PomotodoV2.0.0-Beta.23自由测试,四川省|成都市|大邑县|甲子东道|,Xiaomi  Redmi Note 3,Android 5.1.1,MOBILE LTE,中国电信,LMY47V,打开app，进入隐私政策页面，点击底部的语言选项，选择简体中文时，显示正常，当选择繁体中文时，页面正文显示的却是英文,我使用的是红米note全网通版本，打开app，进入隐私政策页面，点击底部的语言选项，选择简体中文时，显示正常，当选择繁体中文时，页面正文显示的却是英文,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33960798_Screenshot_2016-07-28-10-04-41_com.pomotodo.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33960812_Screenshot_2016-07-28-10-04-35_com.pomotodo.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,8
+0,7287803,PomotodoV2.0.0-Beta.23自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,在新建工单中，标题和内容均可以输入空格符成功提交,1.打开app。2.点击右上角的拉出菜单，选择偏好设置。3.点击帮助，选择支持中心。4.点击下方的新建工单，标题输入空格符，内容输入空格符，点击提交，显示提交成功。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927366_1.jpeg""]",未知,P0,审核通过,2016-08-02 10:00:12,,11
+0,7287803,PomotodoV2.0.0-Beta.23自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,工单中添加的图片内容无法看到图片的名称,1.打开app。2.点击右上角的拉出菜单，选择偏好设置。3.点击帮助，选择支持中心。4.点击下方的新建工单，添加一张图片作为附件，输入标题、内容，点击提交。5.在提交的工单中，添加的图片内容无法看到图片的名称,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927398_2.jpeg""]",未知,P0,审核通过,2016-08-02 10:00:12,,11
+0,7287803,PomotodoV2.0.0-Beta.23自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,竖向屏幕添加新土豆，输入文字后回车，无法结束输入,1.打开app。2.点击添加新土豆，输入文字“测试”，点击回车，无法结束输入成功添加土豆。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927441_3.jpeg""]",未知,P0,审核不通过,2016-07-31 23:10:29,,16
+0,7287803,PomotodoV2.0.0-Beta.23自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,在支付页面点击联系我们，无法跳转至电话、qq等页面,1.打开app。2.点击偏好设置，选择高级版，点击订阅。3.在支付页面点击联系我们，无法跳转至电话、qq等页面,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927486_4.jpeg""]",未知,P0,审核通过,2016-08-02 10:00:12,,9
+0,7287803,PomotodoV2.0.0-Beta.23自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,第一次使用支付宝支付时，提示无法启动支付宝控件,1.打开app。2.点击偏好设置，选择高级版，点击订阅。3.在支付页面选择支付宝支付，第一次使用支付宝支付时，提示无法启动支付宝控件,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927529_5.jpeg""]",未知,P0,审核通过,2016-08-02 10:00:12,,9
+0,7287803,PomotodoV2.0.0-Beta.23自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,日目标数、周目标数、月目标数之间没有设立逻辑关系，月目标数可以小于日目标数,1.打开app。2.点击目标，在目标设置中，日目标数、周目标数、月目标数之间没有设立逻辑关系，月目标数可以小于日目标数,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927585_6.jpeg""]",未知,P0,审核通过,2016-08-02 10:00:12,,12
+0,7358634,PomotodoV2.0.0-Beta.23自由测试,河南|郑州,ACTOMA  ACTOMA ACE,Android 5.0.2,WIFI,中国移动,ACE_3.3.17.B01_20160623,使用技巧中，视频无法播放,"1、打开软件注册登录
+2、进入设置中，点击“帮助”，然后在点击“支持中心”，在使用技巧下，点击“如何标示土豆的重要程度”，再点击查看演示视频，视频无法播放","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33956101_QQ%E5%9B%BE%E7%89%8720160728091759.jpg""]",未知,P0,审核不通过,2016-07-31 23:26:48,,7
+0,11100923,PomotodoV2.0.0-Beta.23自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,WIFI,中国移动,JDQ39B,登录软件-偏好设置-其他-屏蔽应用-选择屏蔽一应用，但是在应用列表还是有此程序,登录软件-偏好设置-其他-屏蔽应用-选择屏蔽一应用，但是在应用列表还是有此程序,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33924245_Screenshot_2016-07-27-20-16-31.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33924252_Screenshot_2016-07-27-20-16-02.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,1
+0,11100923,PomotodoV2.0.0-Beta.23自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,WIFI,中国移动,JDQ39B,登录软件-偏好设置-帮助-关于我们-给我们评分-报一串错误,登录软件-偏好设置-帮助-关于我们-给我们评分-报一串错误,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33924345_Screenshot_2016-07-27-20-17-19.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,13
+0,11100923,PomotodoV2.0.0-Beta.23自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,WIFI,中国移动,JDQ39B,登录软件-偏好设置-高级版-点15天试用-成为高级用户后高级土豆、目标管理、日历订阅、工作报告图标点击无反应，这4个图标下方菜单都能正常进入,登录软件-偏好设置-高级版-点15天试用-成为高级用户后高级土豆、目标管理、日历订阅、工作报告图标点击无反应，这4个图标下方菜单都能正常进入,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33924481_Screenshot_2016-07-27-20-18-45.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,5
+0,11100923,PomotodoV2.0.0-Beta.23自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,WIFI,中国移动,JDQ39B,在随机测试软件过程中，软件经常发生停止工作和闪退情况,在随机测试软件过程中，软件经常发生停止工作和闪退情况,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33924508_Screenshot_2016-07-27-20-09-34.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,5
+0,14109244,PomotodoV2.0.0-Beta.23自由测试,湖北省|武汉市|江汉区|北湖正街|2号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,软件分享至qq无法成功,打开软件，点击三竖线，点击右上角三点，分享统计，分享至qq好友，点击后软件无反应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33986408_Screenshot_2016-07-28-17-21-20.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33986410_Screenshot_2016-07-28-17-21-09.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33986415_Screenshot_2016-07-28-17-21-27.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,6
+0,14452258,PomotodoV2.0.0-Beta.23自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角三个点
+2点击偏好设置
+3点击界面设置
+4选择语言为英语，关闭重启生效
+5再进行相同操作设置语言为跟随系统（auto），关闭重启，系统是中文，app语言仍然为英语","1首页点击右上角三个点
+2点击偏好设置
+3点击界面设置
+4选择语言为英语，关闭重启生效
+5再进行相同操作设置语言为跟随系统（auto），关闭重启，系统是中文，app语言仍然为英语","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33957240_Screenshot_2016-07-28-09-06-32.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33957244_Screenshot_2016-07-28-09-06-49.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,15
+0,14452258,PomotodoV2.0.0-Beta.23自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1在未登录的情况下，首页点击右上角三个点
+2点击偏好设置
+3点击帮助
+4摇一摇手机，反馈，标题和描述随便输入几个字，提交提示unauthorized，提示是英文而且不知含义","1在未登录的情况下，首页点击右上角三个点
+2点击偏好设置
+3点击帮助
+4摇一摇手机，反馈，标题和描述随便输入几个字，提交提示unauthorized，提示是英文而且不知含义","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33957915_Screenshot_2016-07-28-09-27-50.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,15
+0,14452258,PomotodoV2.0.0-Beta.23自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1注册界面点击下方服务器条款
+2点击下方语言选择，选择法语，但是内容是英文","1注册界面点击下方服务器条款
+2点击下方语言选择，选择法语，但是内容是英文","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33960371_Screenshot_2016-07-28-09-18-15.png""]",未知,P0,审核不通过,2016-07-31 23:29:17,,8
+0,14452258,PomotodoV2.0.0-Beta.23自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1先将账户升级为高级版用户，设置界面点击高级版
+2点击右上角图标
+3兑换券处输入几个文字，确定后会提示一段英文，而app设置语言是中文","1先将账户升级为高级版用户，设置界面点击高级版
+2点击右上角图标
+3兑换券处输入几个文字，确定后会提示一段英文不知所云，而app设置语言是中文","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33960765_Screenshot_2016-07-28-10-23-27.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33960770_Screenshot_2016-07-28-10-24-34.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33960772_Screenshot_2016-07-28-10-23-32.png""]",未知,P0,审核不通过,2016-07-31 23:29:26,,14
+0,14452258,PomotodoV2.0.0-Beta.23自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角三个点
+2点击偏好设置
+3点击帮助
+4关闭摇一摇手机反馈功能，此时摇一摇手机依然会提示是否提交反馈，确定进入反馈界面","1首页点击右上角三个点
+2点击偏好设置
+3点击帮助
+4关闭摇一摇手机反馈功能，此时摇一摇手机依然会提示是否提交反馈，确定进入反馈界面","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33961107_Screenshot_2016-07-28-10-28-44.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,15
+0,14452258,PomotodoV2.0.0-Beta.23自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击右上角三个点
+2点击偏好设置
+3点击手机home键盘返回桌面
+4点击app再次进入直接进入首页而非设置页面","1首页点击右上角三个点
+2点击偏好设置
+3点击手机home键盘返回桌面
+4点击app再次进入直接进入首页而非设置页面","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33961164_Screenshot_2016-07-28-10-34-06.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33961165_Screenshot_2016-07-28-10-33-49.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,15
+0,14452258,PomotodoV2.0.0-Beta.23自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击添加新土豆
+2设置名称后进入设置土豆界面，提醒时间可以为以前的某个时间","1首页点击添加新土豆
+2设置名称后进入设置土豆界面，提醒时间可以为以前的某个时间","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33961408_Screenshot_2016-07-28-10-37-07.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,4
+0,14867488,PomotodoV2.0.0-Beta.23自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件，点右上角三点按钮，点偏好设置，点登录/注册，点注册，点服务条款，下拉点简体中文，选择繁体中文时，出现的却是英文。,进入软件，点右上角三点按钮，点偏好设置，点登录/注册，点注册，点服务条款，下拉点简体中文，选择繁体中文时，出现的却是英文。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927662_QQ%E5%9B%BE%E7%89%8720160727215054.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927663_QQ%E5%9B%BE%E7%89%8720160727215057.jpg""]",未知,P0,审核通过,2016-08-02 10:00:12,,8
+0,14867488,PomotodoV2.0.0-Beta.23自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件，点右上角三点按钮，点偏好设置，点其他，点在翻转时锁定屏幕，点确认，点激活，翻转屏幕不会锁屏。bug视频地址：https://pan.baidu.com/s/1pkkdvir,进入软件，点右上角三点按钮，点偏好设置，点其他，点在翻转时锁定屏幕，点确认，点激活，翻转屏幕不会锁屏。bug视频地址：https://pan.baidu.com/s/1pkkdvir,[],未知,P0,审核通过,2016-08-02 10:00:12,,12
+0,14867488,PomotodoV2.0.0-Beta.23自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件，点右上角三点按钮，点偏好设置，点目标，每月目标可以设置比每周和每日少。,进入软件，点右上角三点按钮，点偏好设置，点目标，每月目标可以设置比每周和每日少。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33929506_QQ%E5%9B%BE%E7%89%8720160727223558.jpg""]",未知,P0,审核通过,2016-08-02 10:00:12,,12
+0,14940938,PomotodoV2.0.0-Beta.23自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,1 右上角三竖点→偏好设置→高级版→订阅→底部“联系我们”。点击联系我们，提示无法找到应用程序执行操作。,1 右上角三竖点→偏好设置→高级版→订阅→底部“联系我们”。点击联系我们，提示无法找到应用程序执行操作。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33932384_FCD033EDCC1A12A53A6FBDBA473303E3.JPG""]",未知,P0,审核通过,2016-08-02 10:00:12,,9
+0,14940938,PomotodoV2.0.0-Beta.23自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,2 右上角三竖点→偏好设置→高级版→订阅→支付宝→现在续费。点击现在续费，支付失败，提示无法启动支付控件。,2 右上角三竖点→偏好设置→高级版→订阅→支付宝→现在续费。点击现在续费，支付失败，提示无法启动支付控件。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33932399_DB4C99CEF676BBF927AF2637D94A1914.JPG""]",未知,P0,审核通过,2016-08-02 10:00:12,,9
+0,14940938,PomotodoV2.0.0-Beta.23自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,3 右上角三竖点→偏好设置→帮助→支持中心→如何标示土豆重要程度→查看演示视频。查看演示视频点击无效，无跳转。,3 右上角三竖点→偏好设置→帮助→支持中心→如何标示土豆重要程度→查看演示视频。查看演示视频点击无效，无跳转。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33932417_B1D7F1FC6CE86F5241FBB1351BA2EA57.JPG""]",未知,P0,审核不通过,2016-07-31 23:22:44,,7
+0,15412365,PomotodoV2.0.0-Beta.23自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,服务条款，在界面最下方将简体中文设置为繁体中文，发现只有上方几个字是繁体中文，其他都变成了英文而不是繁体中文。,打开软件，点击右上角图标，点击偏好设置，点击登陆/注册，点击注册，点击服务条款，在界面最下方将简体中文设置为繁体中文，发现只有上方几个字是繁体中文，其他都变成了英文而不是繁体中文。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927931_QQ%E5%9B%BE%E7%89%8720160727215158.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927937_QQ%E5%9B%BE%E7%89%8720160727215202.jpg""]",未知,P0,审核通过,2016-08-02 10:00:12,,8
+0,15412365,PomotodoV2.0.0-Beta.23自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,支持中心，点击公开工单，点击任意一个进入，在回复内容框内输入一个回车键后点击提交，可以提交成功。,打开软件，点击右上角图标，点击偏好设置，点击帮助，点击支持中心，点击公开工单，点击任意一个进入，在回复内容框内输入一个回车键后点击提交，可以提交成功。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928450_QQ%E5%9B%BE%E7%89%8720160727220720.jpg""]",未知,P0,审核不通过,2016-07-31 23:19:01,,11
+0,15412365,PomotodoV2.0.0-Beta.23自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,在高级版界面中，点击右上角兑换券图标，在输入框内输入一个“。”后点击确定，出现错误的提示信息。,打开软件，点击右上角图标，点击偏好设置，点击高级版，升级到高级版，点击右上角兑换券图标，在输入框内输入一个“。”后点击确定，出现错误的提示信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928895_QQ%E5%9B%BE%E7%89%8720160727222043.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928898_QQ%E5%9B%BE%E7%89%8720160727222047.jpg""]",未知,P0,审核不通过,2016-07-31 23:21:53,,14
+0,15412365,PomotodoV2.0.0-Beta.23自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,高级版界面中，点击下方的联系我们，点击蓝牙图标，点击后直接恢复到未点击前的状态。,打开软件，点击右上角图标，点击偏好设置，点击高级版，升级到高级版，点击下方的联系我们，点击蓝牙图标，点击后直接恢复到未点击前的状态。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33929254_QQ%E5%9B%BE%E7%89%8720160727222608.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33929255_QQ%E5%9B%BE%E7%89%8720160727222617.jpg""]",未知,P0,审核通过,2016-08-02 10:00:12,,6
+0,15412365,PomotodoV2.0.0-Beta.23自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,注册界面中，在邮箱处任意填写一个邮箱，在密码处任意填写一个密码，用户名再编辑完毕后点击注册均可以注册成功。,打开软件，点击右上角图标，点击偏好设置，点击登陆/注册，点击注册，在邮箱处任意填写一个邮箱，在密码处任意填写一个密码，用户名再编辑完毕后点击注册均可以注册成功。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33930823_QQ%E5%9B%BE%E7%89%8720160727225110.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33930825_QQ%E5%9B%BE%E7%89%8720160727225115.jpg""]",未知,P0,审核不通过,2016-07-31 23:22:26,,3
+0,16634886,PomotodoV2.0.0-Beta.23自由测试,河南省|洛阳市|洛龙区|隋唐园北路|,Honor  CHE-TL00H,Android 5.0.2,WIFI,中国移动,CHE-TL00HC00B260,有一定概率添加新土豆，点击完成没反应,在主页，“添加新土豆”填写一个内容。然后点击输入法回车，和完成。但是界面没有反应。一直是高亮状态。保存不住这个土豆。华为荣耀4x安卓5.02,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928453_webwxgetmsgimg%20%281%29.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928455_webwxgetmsgimg%20%282%29.jpg""]",未知,P0,审核通过,2016-08-02 10:00:12,,16
+0,16635395,PomotodoV2.0.0-Beta.23自由测试,北京市|北京市|大兴区|中心路|,LeEco  Le X620,Android 6.0,WIFI,中国移动,HEXCNFN5801507011S release-key,添加新土豆输入空格后仍可以添加成功,"1.打开客户端，进入主页，
+2.选择添加新土豆，输入空格后仍可以添加成功，应给出相应提示（重复输入空格后仍可以添加成功）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33930837_image.jpeg""]",未知,P0,审核不通过,2016-07-31 23:16:05,,16
+0,16730356,PomotodoV2.0.0-Beta.23自由测试,云南省|昆明市|呈贡区|联运大道|,Lenovo  Lenovo A3580,Android 5.0.2,WIFI,中国电信,A3580_S104_150715,空格符可以作为密码，可以成功注册,1.打开app。2.在注册登录界面，点击注册，输入邮箱地址、用户名，在密码中，输入五个空格，一个数字，可以成功注册。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33930180_1.png""]",未知,P0,审核不通过,2016-07-31 23:15:26,,3
+0,16730356,PomotodoV2.0.0-Beta.23自由测试,云南省|昆明市|呈贡区|联运大道|,Lenovo  Lenovo A3580,Android 5.0.2,WIFI,中国电信,A3580_S104_150715,目标数字中月目标可以小于日目标,1.打开app。2.点击偏好设置，选择目标，目标数字中月目标可以小于日目标,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33930273_2.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,12
+0,16730356,PomotodoV2.0.0-Beta.23自由测试,云南省|昆明市|呈贡区|联运大道|,Lenovo  Lenovo A3580,Android 5.0.2,WIFI,中国电信,A3580_S104_150715,在反馈中，点击“如何pin住一个土豆”，点击查看演示视频，无响应。,1.打开app。2.点击偏好设置，选择帮助-关于我们-支持中心。3.在反馈中，点击“如何pin住一个土豆”，点击查看演示视频，无响应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33930482_3.png""]",未知,P0,审核不通过,2016-07-31 23:15:48,,7
+0,16847580,PomotodoV2.0.0-Beta.23自由测试,北京市|北京市|海淀区|苏州街|20号1号楼,Huawei  HUAWEI MT7-TL10,Android 6.0,MOBILE LTE,中国联通,MT7-TL10C00B561,分享统计无法分享到微信和朋友圈，点击跳不出分享页面,进入app-选择上部图标的第三个（三条竖线的那个）-右上角三个点图标-分享统计-选择微信或者朋友圈，发现无法分享到微信和朋友圈，点击跳不出分享页面,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33955996_Screenshot_2016-07-28-09-07-40.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33956002_Screenshot_2016-07-28-09-07-57.png""]",未知,P0,审核不通过,2016-07-31 23:27:26,,6
+0,17115469,PomotodoV2.0.0-Beta.23自由测试,重庆市|重庆市|荣昌县|香国大道|,HONOR  PLK-AL10,Android 5.0.2,WIFI,unknown,PLK-AL10C00B211,初级版本过于简单， 只有几个图标  连文字说明都没有，直接看不懂 ，除非体验者都是超级智商,"1，进入软件 
+2， 找到主页面
+3， 图标过于简单 缺少必要的说明","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33923582_%E8%8F%9C%E5%8D%95%E8%BF%87%E4%BA%8E%E7%AE%80%E5%8D%95%20%E7%9B%B4%E6%8E%A5%E7%9C%8B%E4%B8%8D%E6%87%82.png""]",未知,P0,审核不通过,2016-07-31 23:05:04,,16
+0,17115469,PomotodoV2.0.0-Beta.23自由测试,重庆市|重庆市|荣昌县|香国大道|,HONOR  PLK-AL10,Android 5.0.2,WIFI,unknown,PLK-AL10C00B211,高级版本中间部分4个菜单均无法正常打开,"1，进入软件
+2， 免费升级到高级版本
+3， 中间4个菜单无法打开  如图所示","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33923611_%E6%97%A0%E6%B3%95%E6%89%93%E5%BC%80%E8%8F%9C%E5%8D%95.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,10
+0,17192118,PomotodoV2.0.0-Beta.23自由测试,海南省|海南省直辖县级行政单位|临高县|文明中路|28,Honor  Che1-CL10,Android 4.4.4,WIFI,unknown,Che1-CL10V100R001CHNC92B285,进入app添加新土豆后，点击该添加的内容点勾，发现卡顿一会才点上勾,1.打开该app.2.进入app添加新土豆后，点击该添加的内容点勾，发现卡顿一会才点上勾,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33962460_Screenshot_2016-07-28-10-59-38.jpeg""]",未知,P0,审核通过,2016-08-02 10:00:12,,16
+0,17222895,PomotodoV2.0.0-Beta.23自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,本地时间被修改后，生成土豆的时间跟着变化。（影响工具使用）,"1.打开app
+2.新建“土豆“2个--------------开启2个土豆计时
+3.修改本地时间
+
+预期结果：土豆时间不随本地时间改变而改变 ， 实际结果：土豆时间随本地时间改变而改变（如果中了病毒，本地时间被修改。影响工具使用）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927775_Screenshot_2016-07-26-21-35-20.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927782_Screenshot_2016-07-27-21-35-34.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,4
+0,17222895,PomotodoV2.0.0-Beta.23自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,英文界面下的“我的工单”开关没有即时更新,"1.打开app
+2.点击右上角”…“图标 ----------点击偏好设置，进入”设置“。
+3.点击”高级版“，进入高级版
+3.点击日历订阅下的”访问支持中心“
+4.进入“日历订阅”，滑动至底部，点击简体中文，切换到英文界面。
+5.点击”my ticket“，进入我的工单，点击任意一个工单
+6.进入“pomotodo”页面，滑动页面至底部，点击reopen按钮
+
+预期结果：点击reopen按钮后工单已打开，能看到上传文件的模块
+实际结果：工单虽然打开，但是没有更新，需要返回从”我的工单“重新进入。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928030_Screenshot_2016-07-27-21-40-15.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928051_Screenshot_2016-07-27-21-44-37.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928055_Screenshot_2016-07-27-21-44-41.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,11
+0,17222895,PomotodoV2.0.0-Beta.23自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,我的工单回复文件无法查看,1.打开app 2.点击右上角”…“图标 ----------点击偏好设置，进入”设置“。 3.点击”高级版“，进入高级版 3.点击日历订阅下的”访问支持中心“ 4.进入“日历订阅”-------点击我的工单。5.进入”我的工单“，打开任意一个已开启的工单，并上传一些附件。6.点击已回复工单的附件   。预期结果：能看到打开或下载附件。实际结果：既不能打开附件也不能下载附件。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928410_Screenshot_2016-07-27-21-52-39.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,11
+0,17222895,PomotodoV2.0.0-Beta.23自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,土豆已获得，但是目标模块没有记录,"1.打开app 2.新建“土豆“2个--------------开启2个土豆计时 3.等待土豆获得 4.点击顶部菜单”左侧开始数第三个“图标，进入土豆日志。 4.获得土豆后，从首页右上角”…“图标进入偏好设置，然后点击""目标""，5.对比“目标“和”土豆日志“  。预期结果：当土豆获得时，目标会即时更新。实际结果：目标模块未能记录土豆情况。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928598_Screenshot_2016-07-27-21-41-29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928601_Screenshot_2016-07-27-21-41-19.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,12
+0,17270460,PomotodoV2.0.0-Beta.23自由测试,山东|济南,Xiaomi  HM 1SW,Android 6.0.1,WIFI,无SIM卡,mk_armani-userdebug 6.0.1 MOB3,“给我们评分”之未知错误,"1.打开软件，点击右上方。然后点击“偏好设置”，进入设置界面。
+2.下滑至最后，点击“帮助”，进入该界面。
+3.点击下方“关于我们从，进入该界面。
+4.点击”给我们评分“，软件下方出现未知错误。无法评价。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33952552_Screenshot_20160728-073559.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33952554_Screenshot_20160728-074830.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33952566_Screenshot_20160728-074750.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33952569_Screenshot_20160728-075821.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33952586_Screenshot_20160728-074406.jpg""]",未知,P0,待审核,2016-07-28 08:02:17,,13
+0,17292096,PomotodoV2.0.0-Beta.23自由测试,广东省|惠州市|惠城区|YG59|,Coolpad  Coolpad 8675,Android 4.4.2,WIFI,中国移动,4.4.MIUI-KK/ERIC.Y,在高级版界面，中间的四个功能都不能点,"1.点击右上方里的偏好设置
+2.点击高级版，点击试用后
+3.点击界面，中间的高级土豆的四个功能","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927729_1.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927745_4.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,10
+0,17292096,PomotodoV2.0.0-Beta.23自由测试,广东省|惠州市|惠城区|YG59|,Coolpad  Coolpad 8675,Android 4.4.2,WIFI,中国移动,4.4.MIUI-KK/ERIC.Y,提示音效界面，点击其中一个关闭，全部都会关闭,"1.点击右上方里的偏好设置
+2.点击提示音效，把所有功能都开启
+3.关闭其中一个，全都关闭了","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927885_5.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33927890_7.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,2
+0,17292096,PomotodoV2.0.0-Beta.23自由测试,广东省|惠州市|惠城区|YG59|,Coolpad  Coolpad 8675,Android 4.4.2,WIFI,中国移动,4.4.MIUI-KK/ERIC.Y,当工作音效开启时，点击切换工作音效，播放工作背景音效会自动关闭,"1.点击右上方里的偏好设置
+2.点击工作音效，先开启播放工作背景音效功能
+3.切换成任意一个音效，播放工作背景音效功能就关闭","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928042_2.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928044_7.png""]",未知,P0,审核不通过,2016-07-31 23:13:20,,2
+0,17292096,PomotodoV2.0.0-Beta.23自由测试,广东省|惠州市|惠城区|YG59|,Coolpad  Coolpad 8675,Android 4.4.2,WIFI,中国移动,4.4.MIUI-KK/ERIC.Y,其他界面，点击其中一个关闭，全部都会关闭,"1.点击右上方里的偏好设置 
+2.点击其他，把所有功能都开启 
+3.关闭其中一个，全都关闭了","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928116_8.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928128_7.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928141_9.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,2
+0,17292096,PomotodoV2.0.0-Beta.23自由测试,广东省|惠州市|惠城区|YG59|,Coolpad  Coolpad 8675,Android 4.4.2,WIFI,中国移动,4.4.MIUI-KK/ERIC.Y,帮助界面，点击其中一个关闭，全部都会关闭,"1.点击右上方里的偏好设置 
+2.点击最下方帮助，把所有功能都开启 
+3.关闭其中一个，全都关闭了","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928205_6.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,2
+0,17297299,PomotodoV2.0.0-Beta.23自由测试,上海市|上海市|普陀区|真南路|648弄,samsung  GT-N7100,Android 4.3,WIFI,中国移动,JSS15J.N7100ZCUEOK1,退出时选择同步并退出，页面卡在载入中,"操作一段时间后，选择偏好设置，再选择“退出当前帐号”，点击“退出当前帐号”，出现“同步并退出”按钮，点击“同步并退出”按钮，页面卡在“载入中”；
+只有当出现“同步并退出”按钮，才会出现页面卡顿的情况；
+测试手机：note 2 7100；","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928409_Screenshot_2016-07-27-22-02-39.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33928413_Screenshot_2016-07-27-21-38-01.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,13
+0,17311556,PomotodoV2.0.0-Beta.23自由测试,陕西省|西安市|临潼区|G5(京昆高速)|,Xiaomi  Mi-4c,Android 5.1.1,WIFI,中国电信,LMY47V,没有介绍功能，看不懂怎么用,"1.打开软件，进入主界面
+2.主界面里没有任何介绍，不知道如何使用
+建议添加新手帮助","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33960468_QQ%E5%9B%BE%E7%89%8720160728102627.png""]",未知,P0,审核不通过,2016-07-31 23:28:03,,16
+0,17337131,PomotodoV2.0.0-Beta.23自由测试,北京市|北京市|石景山区|鲁谷路|74号-南院,samsung  SM-G9250,Android 6.0.1,WIFI,中国移动,MMB29K.G9250ZCU2DPG3,注册模块限制不足，未限制数据长度和验证邮箱有效性,"如题，有可能导致一些不必要的恶意利用
+1.注册邮箱 例：1@139.com 密码：zsc
+2.未在1@139.com验证即可登录，密码长度过短无反馈。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33960687_Screenshot_20160728-102114.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33960702_Screenshot_20160728-102111.png""]",未知,P0,审核不通过,2016-07-31 23:28:33,,3
+0,17337131,PomotodoV2.0.0-Beta.23自由测试,北京市|北京市|石景山区|鲁谷路|74号-南院,samsung  SM-G9250,Android 6.0.1,WIFI,中国移动,MMB29K.G9250ZCU2DPG3,日历界面在载入后出现偏移,"1.打开软件
+2.进入如图所示界面，日历栏有偏移
+测试环境：三星s6 edge android6.0.1 wifi","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33960931_Screenshot_20160728-101632.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33960938_Screenshot_20160728-101642.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,13
+0,17338564,PomotodoV2.0.0-Beta.23自由测试,上海|上海,Xiaomi  2014011,Android 4.4.2,WIFI,无SIM卡,HM.KK.M12.V009.XM,在使用高级版的情况下，在“偏好设置”功能页对“音效”的“提示音效”进行设置，将“提示音效”开启为“开启振动”的同时，也开启“使用系统音效”。此时将“使用系统音效”的“提示音效”关闭，会发现关闭“使用系统音效”的功能的同时，“开启振动”的功能也被关闭了,"1、在高级版的模式下登录app，进入主页面
+2、点击右上角的“菜单”功能键，弹出可选菜单
+3、点击“偏好设置”功能键，进入“设置”功能页
+4、点击“设置”功能页“音效”模块的“提示音效”功能键，进入“提示音效”设置面板
+5、在“提示音效”设置面板的“振动”模块将“开启振动”功能开启，与此同时，将“响铃模块”的“使用系统音效”功能也开启
+6、在“开启振动”的功能和“使用系统音效”的功能同时开启的情况下，我们将“使用系统音效”的功能关闭
+7、预期结果：“使用系统音效”的功能被关闭，“开启振动”的功能仍处于开启状态
+8、实际结果：在“使用系统音效”的功能被关闭的同时，“开启振动”的功能也被关闭了。
+备注：在“工作音效”进行此项操作，亦是同样的结果
+         同时开启“延长振动时间”和开启“开启振动的情况下”，只关闭某一个功能的同时，两个功能亦会同时关闭","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33961139_Screenshot_2016-07-28-10-24-19_com.pomotodo.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33961251_Screenshot_2016-07-28-10-24-24_com.pomotodo.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33961258_Screenshot_2016-07-28-10-24-29_com.pomotodo.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33961260_Screenshot_2016-07-28-10-24-35_com.pomotodo.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33961264_Screenshot_2016-07-28-10-24-43_com.pomotodo.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33961267_Screenshot_2016-07-28-10-25-02_com.pomotodo.png""]",未知,P0,审核通过,2016-08-02 10:00:12,,2
+0,17362862,PomotodoV2.0.0-Beta.23自由测试,山东省|聊城市|临清市|S259|,OPPO  OPPO R7,Android 4.4.4,WIFI,中国移动,R7_11_151204,入门指南能重复反馈是否有帮助。,"1.打开软件，点击右上方菜单
+2.点击偏好设置，拉到最下方，点击帮助
+3.点击支持中心，进入反馈界面
+4.在入门指南中任意选择一项进去
+5.下方“有帮助”“没帮助”任点一个
+6.返回支持中心界面，再次进入入门指南中上次所选选项
+7.下方有无帮助点击与刚才一样的选项则该选项再次加一",[],未知,P0,审核不通过,2016-07-31 23:27:48,,7
+0,17380816,PomotodoV2.0.0-Beta.23自由测试,广西壮族自治区|南宁市|青秀区|民族大道|61-20号,Xiaomi  2014811,Android 4.4.4,WIFI,中国联通,KTU84P,界面显示不怎么清晰明了，建议增加单个项目是时间计算,"1.时间设置后，不知道是针对哪个类型的土豆计算时间
+2.新添加的土豆也会计算到上面的时间
+3.项目已勾选就会直接提交到完成那里，取消勾选也无法跟着取消",[],未知,P0,审核不通过,2016-08-01 14:15:39,,4
+0,17382228,PomotodoV2.0.0-Beta.23自由测试,山西省|大同市|南郊区|大庆路|,Honor  G621-TL00,Android 4.4.4,WIFI,无SIM卡,G621-TL00V100R001C01B269,在进入应用时出现闪退现象（手机品牌华为），未重复出现,"1.打开软件，正常运作后关闭
+2重启手机，打开应用",[],未知,P0,审核不通过,2016-07-31 23:26:57,,1

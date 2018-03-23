@@ -1,0 +1,148 @@
+case编号,用户id,case标题,地域,机型,操作系统,网络环境,运营商,ROM信息,bug详情,复现步骤,截图,是否未知,优先级,审核状态,提交时间,,重复情况
+0,760595,音悦台V4.0.1自由测试,河北省|邯郸市|邯山区|五仓路|,Xiaomi  HM NOTE 1LTETD,Android 4.4.2,WIFI,无SIM卡,JH3CN0.0-41952c44d36acc0d837d5,新手引导链接点击后，显示视频不能播放,从首页右下角我的进入，点击右上角设置，，再点击新手引导，显示视频不能播放,[],未知,P0,审核不通过,2016-07-21 18:45:36,,0
+0,760595,音悦台V4.0.1自由测试,河北省|邯郸市|邯山区|五仓路|,Xiaomi  HM NOTE 1LTETD,Android 4.4.2,WIFI,无SIM卡,JH3CN0.0-41952c44d36acc0d837d5,关于音悦台页面中官方网站网址链接点击没有反应,进入我的，再点击右上角设置，再点击关于音悦台，进入，点击网址链接没有反应,[],未知,P0,审核不通过,2016-07-21 18:45:42,,13
+0,851370,音悦台V4.0.1自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后成功注册并登陆后点击退出登陆，此时多次测试用刚刚注册的手机号码和密码无法登陆，提示错误，,打开app后成功注册并登陆后点击退出登陆，此时多次测试用刚刚注册的手机号码和密码无法登陆，提示错误，,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33282740_1.jpg""]",未知,P0,审核不通过,2016-07-21 19:09:06,,11
+0,851370,音悦台V4.0.1自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,点击app后点击最下方我的，跳转页面点击设置按钮，当昵称修改为最大字符数的时候，账号显示那一栏有问题,点击app后点击最下方我的，跳转页面点击设置按钮，当昵称修改为最大字符数的时候，账号显示那一栏有问题,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33282981_2.jpg""]",未知,P0,审核通过,2016-07-23 10:00:09,,8
+0,2590458,音悦台V4.0.1自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,WIFI,中国联通,Che2-UL00 V100R001CHNC00B384,找回密码时，输入手机号点获取密码时，提不设备禁止访问。,找回密码时，输入手机号点获取密码时，提不设备禁止访问。华为4x，安卓4.4.2，wifi网络,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33285818_41.jpg""]",未知,P0,审核通过,2016-07-23 10:00:09,,11
+0,2590458,音悦台V4.0.1自由测试,广东省|广州市|越秀区|解放南路|73号,Honor  Che2-UL00,Android 4.4.2,WIFI,中国联通,Che2-UL00 V100R001CHNC00B384,注册未能收到验证码。广东联通,注册未能收到验证码。广东联通。华为4x，安卓4.4.2，wifi网络,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33285843_2.jpg""]",未知,P0,审核不通过,2016-07-21 19:11:03,,4
+0,11631802,音悦台V4.0.1自由测试,广东省|中山市|中山市市辖区|意发路|23-b,Huawei  HUAWEI G7-UL20,Android 4.4.4,WIFI,中国联通,G7-UL20V100R001CHNC00B266,在设置中的绑定分享中点新浪微博，在没有登录微博的情况下不登录并返回程序，会提示授权失败。,在设置中的绑定分享中点新浪微博，在没有登录微博的情况下不登录并返回程序，会提示授权失败。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33281620_Screenshot_2016-07-19-15-15-45.jpeg""]",未知,P0,审核不通过,2016-07-21 18:45:24,,1
+0,14109244,音悦台V4.0.1自由测试,湖北省|武汉市|江汉区|北湖正街|2号,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,点击忘记密码，填写未注册手机号码，点击获取验证码，提示设备已禁止,打开软件，点击我的，登录，找回密码，填写未注册手机号码，点击获取验证码，提示设备已禁止,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33291370_Screenshot_2016-07-19-18-38-10.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33291381_Screenshot_2016-07-19-18-38-17.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33291391_Screenshot_2016-07-19-18-38-27.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33291394_Screenshot_2016-07-19-18-35-36.png""]",未知,P0,审核通过,2016-07-23 10:00:09,,11
+0,14233270,音悦台V4.0.1自由测试,广东省|广州市|花都区|金谷北路|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国电信,LMY47V,注册时手机验证码无法收到,打开软件，点击我的，点击注册，输入手机号，等待验证码,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33286001_Screenshot_2016-07-19-17-02-06_com.yinyuetai.ui.png""]",未知,P0,审核不通过,2016-07-21 19:11:28,,4
+0,14233270,音悦台V4.0.1自由测试,广东省|广州市|花都区|金谷北路|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国电信,LMY47V,无法分享到微博，，，，，,打开软件，微博登录，点击首页mv首播任意视频，点击视频下面的分享到微博，,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33286432_Screenshot_2016-07-19-17-08-07_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33286467_Screenshot_2016-07-19-17-14-33_com.yinyuetai.ui.png""]",未知,P0,审核通过,2016-07-23 10:00:09,,1
+0,14452258,音悦台V4.0.1自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,1首页点击上方搜索，搜索“@”，点击艺人，出现“牛奶咖啡”和“@”无关,1首页点击上方搜索，搜索“@”，点击艺人，出现“牛奶咖啡”和“@”无关,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33299456_Screenshot_2016-07-19-22-29-45.png""]",未知,P0,审核通过,2016-07-23 10:00:09,,5
+0,14452258,音悦台V4.0.1自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击我的
+2点击右上角齿轮
+3点击帮助指南，第一条如何下载mv展开，其中“点击%1ss”明显错误","1首页点击我的
+2点击右上角齿轮
+3点击帮助指南，第一条如何下载mv展开，其中“点击%1ss”明显错误","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33299649_Screenshot_2016-07-19-22-33-53.png""]",未知,P0,审核通过,2016-07-23 10:00:09,,5
+0,14452258,音悦台V4.0.1自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击我的
+2点击右上角齿轮
+3点击意见反馈，输入几个汉字，然后一直输入空格，文字会慢慢移出屏幕","1首页点击我的
+2点击右上角齿轮
+3点击意见反馈，输入几个汉字，然后一直输入空格，文字会慢慢移出屏幕","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33299712_Screenshot_2016-07-19-22-36-28.png""]",未知,P0,审核通过,2016-07-23 10:00:09,,5
+0,14452258,音悦台V4.0.1自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击订阅
+2点击手机home键
+3再次点击手机桌面的app图标运行，重新打开首页而非订阅界面","1首页点击订阅
+2点击手机home键
+3再次点击手机桌面的app图标运行，重新打开首页而非订阅界面","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33299927_Screenshot_2016-07-19-22-44-38.png""]",未知,P0,审核不通过,2016-07-21 20:02:50,,2
+0,14452258,音悦台V4.0.1自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击订阅
+2点击右上角人形图标
+3点击其他
+4查看歌手la one fong标称3首mv，但点击打开后，实际有4首","1首页点击订阅
+2点击右上角人形图标
+3点击其他
+4查看歌手la one fong标称3首mv，但点击打开后，实际有4首","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33300082_Screenshot_2016-07-19-22-46-48.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33300083_Screenshot_2016-07-19-22-48-57.png""]",未知,P0,审核通过,2016-07-23 10:00:09,,2
+0,14452258,音悦台V4.0.1自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击订阅
+2点击右上角人形图标
+3点击其他
+4点击旁边字母d，出现了365daband，明显不是d打头","1首页点击订阅
+2点击右上角人形图标
+3点击其他
+4点击旁边字母d，出现了365daband，明显不是d打头","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33300178_Screenshot_2016-07-19-22-50-24.png""]",未知,P0,审核通过,2016-07-23 10:00:09,,2
+0,14643506,音悦台V4.0.1自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,登录app后，在首页列表多次点击进入播放视频的过程中，有一定几率出现白屏，然后闪退到首页界面。,登录app后，在首页列表多次点击进入播放视频的过程中，有一定几率出现白屏，然后闪退到首页界面。+,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315333_Screenshot_2016-07-20-05-56-43_com.yinyuetai.ui.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315336_Screenshot_2016-07-20-05-42-06_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315338_Screenshot_2016-07-20-05-41-26_com.yinyuetai.ui.png""]",未知,P0,审核通过,2016-07-23 10:00:09,,9
+0,14643506,音悦台V4.0.1自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,在我的中心，点击播放历史，点击右上角编辑进入到播放历史列表，选择视频，点击添加到悦单，可以发现加入悦单画面匹配异常。,在我的中心，点击播放历史，点击右上角编辑进入到播放历史列表，选择视频，点击添加到悦单，可以发现加入悦单画面匹配异常。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315468_Screenshot_2016-07-20-02-52-40_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315478_Screenshot_2016-07-20-02-52-33_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315480_Screenshot_2016-07-20-02-52-25_com.yinyuetai.ui.png""]",未知,P0,审核通过,2016-07-23 10:00:09,,3
+0,14643506,音悦台V4.0.1自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,在我的中心，点击右上角设置，进入后选择新手引导，只出现了个logo动画，并不能查看新手引导，点击一下图片就返回了设置页面,在我的中心，点击右上角设置，进入后选择新手引导，只出现了个logo动画，并不能查看新手引导，点击一下图片就返回了设置页面,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315547_Screenshot_2016-07-20-02-52-40_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315548_Screenshot_2016-07-20-06-06-49_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315550_Screenshot_2016-07-20-06-06-28_com.yinyuetai.ui.png""]",未知,P0,审核不通过,2016-07-21 20:04:43,,0
+0,14643506,音悦台V4.0.1自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,在我的中心，点击右上角设置，进入后选择帮助指南，查看每一条指南发现，指南说明中的“点击某某按钮”均显示为“点击%$s按钮”,在我的中心，点击右上角设置，进入后选择帮助指南，查看每一条指南发现，指南说明中的“点击某某按钮”均显示为“点击%$s按钮”,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315573_Screenshot_2016-07-20-06-07-18_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315574_Screenshot_2016-07-20-06-07-34_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315576_Screenshot_2016-07-20-06-07-41_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315579_Screenshot_2016-07-20-06-07-44_com.yinyuetai.ui.png""]",未知,P0,审核通过,2016-07-23 10:00:09,,0
+0,14643506,音悦台V4.0.1自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,在我的中心，点击消息进入查看，一会显示系统升级中，重新加载，一会又恢复正常显示。,在我的中心，点击消息进入查看，一会显示系统升级中，重新加载，一会又恢复正常显示。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315671_Screenshot_2016-07-20-06-25-48_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315672_Screenshot_2016-07-20-06-25-55_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315690_Screenshot_2016-07-20-06-26-08_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315691_Screenshot_2016-07-20-06-26-04_com.yinyuetai.ui.png""]",未知,P0,审核不通过,2016-07-21 20:05:19,,8
+0,14643506,音悦台V4.0.1自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,在首页，点击播放mv后，在播放画面点击评论，视频下面画面一直显示一个wifi图标提示系统升级中，联系客服，重新启动app恢复正常,在首页，点击播放mv后，在播放画面点击评论，视频下面画面一直显示一个wifi图标提示系统升级中，联系客服，重新启动app恢复正常,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315760_Screenshot_2016-07-20-03-02-58_com.yinyuetai.ui.png""]",未知,P0,审核不通过,2016-07-21 20:05:30,,8
+0,14643506,音悦台V4.0.1自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,在首页，点击视频播放，在视频下方菜单栏点击评论，在输入栏只输入几个表情，点击发送后发现表情无法显示，而是显示乱码文字,在首页，点击视频播放，在视频下方菜单栏点击评论，在输入栏只输入几个表情，点击发送后发现表情无法显示，而是显示乱码文字,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315845_Screenshot_2016-07-20-06-47-16_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315846_Screenshot_2016-07-20-06-47-20_com.yinyuetai.ui.png""]",未知,P0,审核通过,2016-07-23 10:00:09,,8
+0,14643506,音悦台V4.0.1自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|null,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,在首页，点击视频播放，在视频下方菜单栏点击评论，在输入栏输入文字加表情，点击发送，总是提示系统升级中，有问题联系客服。,在首页，点击视频播放，在视频下方菜单栏点击评论，在输入栏输入文字加表情，点击发送，总是提示系统升级中，有问题联系客服。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315864_Screenshot_2016-07-20-06-45-36_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315867_Screenshot_2016-07-20-06-45-40_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315880_Screenshot_2016-07-20-06-43-42_com.yinyuetai.ui.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33315884_Screenshot_2016-07-20-06-43-45_com.yinyuetai.ui.png""]",未知,P0,审核不通过,2016-07-21 20:07:27,,8
+0,14867488,音悦台V4.0.1自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件，点我的，点注册，输入手机号码点下一步，接受不到验证码，无法进行下一步注册。,进入软件，点我的，点注册，输入手机号码点下一步，接受不到验证码，无法进行下一步注册。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33298692_Screenshot_2016-07-19-21-47-10.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33298697_Screenshot_2016-07-19-21-44-27.png""]",未知,P0,审核不通过,2016-07-21 20:00:23,,4
+0,14867488,音悦台V4.0.1自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点我的，点头像，点昵称，输入昵称点确定，提示修改头像失败。,进入软件登录帐号，点我的，点头像，点昵称，输入昵称点确定，提示修改头像失败。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33298958_Screenshot_2016-07-19-22-01-21.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33298961_Screenshot_2016-07-19-22-01-18.png""]",未知,P0,审核不通过,2016-07-21 20:00:57,,6
+0,14867488,音悦台V4.0.1自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点我的，点头像，点签名，点击无反应。,进入软件登录帐号，点我的，点头像，点签名，点击无反应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33299016_Screenshot_2016-07-19-22-02-37.png""]",未知,P0,审核不通过,2016-07-21 20:01:14,,6
+0,14867488,音悦台V4.0.1自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点我的，点点击更换头像，选择图片，提示上传成功。但是头像却没有变化。,进入软件登录帐号，点我的，点点击更换头像，选择图片，提示上传成功。但是头像却没有变化。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33299089_Screenshot_2016-07-19-22-06-12.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33299107_IMG_20160719_220728.jpg""]",未知,P0,审核不通过,2016-07-21 20:02:02,,6
+0,14867488,音悦台V4.0.1自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,进入软件登录帐号，点首页，点时光正好，点分享按钮分享应用只显示一半。,进入软件登录帐号，点首页，点时光正好，点分享按钮分享应用只显示一半。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33299151_IMG_20160719_221125.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33299157_IMG_20160719_221153.jpg""]",未知,P0,审核通过,2016-07-23 10:00:09,,6
+0,14940938,音悦台V4.0.1自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,1 登录界面→注册账户→输入手机号→下一步，获取验证码失败，无法收到短信验证码。（131号及两186号，均未收到短信）,1 登录界面→注册账户→输入手机号→下一步，获取验证码失败，无法收到短信验证码。（131号及两186号，均未收到短信）,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33334964_AF8F7467FEAD7E7C7AF9FBA6D2153B8F.JPG""]",未知,P0,审核不通过,2016-07-21 20:07:35,,4
+0,14940938,音悦台V4.0.1自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,2 首页→mv首播，点击任意一视频→播放窗口全屏按钮→右方锁键，关闭后无效，屏幕亮度/声音/播放进度等可以调整。,2 首页→mv首播，点击任意一视频→播放窗口全屏按钮→右方锁键，关闭后无效，屏幕亮度/声音/播放进度等可以调整。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33334978_7D6886F3538B72B4664D3EE0958294AF.JPG""]",未知,P0,审核通过,2016-07-23 10:00:09,,7
+0,14940938,音悦台V4.0.1自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,3 我的→右上角设置→意见反馈→请输入手机号或qq输入框被输入法界面遮挡，收起输入法才能看见、编辑。,3 我的→右上角设置→意见反馈→请输入手机号或qq输入框被输入法界面遮挡，收起输入法才能看见、编辑。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33334989_BB021C01FFD2B330923F0BE4E55D941A.JPG""]",未知,P0,审核通过,2016-07-23 10:00:09,,13
+0,14940938,音悦台V4.0.1自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,4 首页→点击任意一视频→评论→评论界面，自己头像不能显示，与“我的”界面头像不一致。,4 首页→点击任意一视频→评论→评论界面，自己头像不能显示，与“我的”界面头像不一致。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33334994_EC702EB2D85F9D123EEFB2FF7ECE7F51.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33334995_957AD7F52F3004A5A378B446E1DDFEA3.JPG""]",未知,P0,审核通过,2016-07-23 10:00:10,,10
+0,14940938,音悦台V4.0.1自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,5 首页→点击任意一视频→视频下方的“+”号→加入悦单，已显示有创建的悦单“fghh”“测试测试”，而“我的”界面“我的悦单”显示还没有创建悦单。,5 首页→点击任意一视频→视频下方的“+”号→加入悦单，已显示有创建的悦单“fghh”“测试测试”，而“我的”界面“我的悦单”显示还没有创建悦单。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33335010_B7F17A842885764F78E75EACBC7981FC.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33335188_E246BDE209C40882A1DA97D7D9C6BF5D.JPG""]",未知,P0,审核不通过,2016-07-21 20:12:40,,3
+0,14940938,音悦台V4.0.1自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,6 导航→音悦节目，浏览点击，上下滑动界面时，黑屏，出现崩溃，提示进程已停止。,6 导航→音悦节目，浏览点击，上下滑动界面时，黑屏，出现崩溃，提示进程已停止。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33335194_3722A123F45DFA23F5580E205B9D0B40.JPG""]",未知,P0,审核通过,2016-07-23 10:00:10,,12
+0,14940938,音悦台V4.0.1自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,7 我的→消息→站内公告→【独家】防弹少年团全新旅行真人秀《bts，旅行吧》→我要点评→输入框界面，出现乱码。,7 我的→消息→站内公告→【独家】防弹少年团全新旅行真人秀《bts，旅行吧》→我要点评→输入框界面，出现乱码。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33335204_4BD3C66AF93B2C55BFF132C0999B4D2D.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33335208_E468AF5CF676FC2A4EDF90D90DB18090.JPG""]",未知,P0,审核通过,2016-07-23 10:00:10,,9
+0,14940938,音悦台V4.0.1自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,8 我的→右上角设置→清理缓存→退出登录→我的→播放历史，界面显示有播放的视频。,8 我的→右上角设置→清理缓存→退出登录→我的→播放历史，界面显示有播放的视频。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33335223_1A71D7AD94456636F3E703D1F4B728E4.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33335225_CF2EF69698EBE67C9EA6DAAFD5EBA173.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33335228_C9DA0C0B0EFCFE2820646713F9D28DAC.JPG""]",未知,P0,审核不通过,2016-07-21 20:18:23,,3
+0,15065700,音悦台V4.0.1自由测试,湖南省|岳阳市|湘阴县|太傅路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,安装运行app，点我的选择注册，输入170手机号，无法收到验证码，无法注册（多次测试无法收到）,安装运行app，点我的选择注册，输入170手机号，无法收到验证码，无法注册（多次测试无法收到）,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33286038_Screenshot_2016-07-19-17-04-42.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33286041_Screenshot_2016-07-19-17-05-14.png""]",未知,P0,审核不通过,2016-07-21 19:11:24,,4
+0,15412365,音悦台V4.0.1自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,登陆界面中，账号处输入数字1，密码随意填写，数学试题验证码填写完毕后，点击登陆，界面没有任何反应，也没提示账号或密码错误等相关信息。,打开软件，点击我的，点击登陆，账号处输入数字1，密码随意填写，数学试题验证码填写完毕后，点击登陆，界面没有任何反应，也没提示账号或密码错误等相关信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33291087_QQ%E5%9B%BE%E7%89%8720160719183508.jpg""]",未知,P0,审核不通过,2016-07-21 19:15:15,,11
+0,15412365,音悦台V4.0.1自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,个人信息界面，点击头像，发现下方出现的选择小的界面被遮挡住。,打开软件，点击我的，点击用户头像进入到个人信息界面，点击头像，发现下方出现的选择小的界面被遮挡住。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33291701_QQ%E5%9B%BE%E7%89%8720160719184713.jpg""]",未知,P0,审核通过,2016-07-23 10:00:10,,10
+0,15412365,音悦台V4.0.1自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,个人信息界面中，在个性签名处输入一个回车键后，提示修改成功，但是界面中仍然显示上一个界面的签名信息。,打开软件，点击我的，点击用户头像进入到个人信息界面，点击签名，在签名红输入“hhh”点击确定，显示修改成功，再次点击签名，在输入框内输入一个回车键，点击确定，提示修改成功，但是界面上仍然显示的是上一个签名“hhh”，返回到我的界面，再次点击进入到个人信息界面，发现此时的签名才显示空白，但是再次点击签名后输入一个回车键后点击确定，界面又会重新显示“hhh”。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33291997_QQ%E5%9B%BE%E7%89%8720160719185510.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33291999_QQ%E5%9B%BE%E7%89%8720160719185515.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33292000_QQ%E5%9B%BE%E7%89%8720160719185518.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33292002_QQ%E5%9B%BE%E7%89%8720160719185521.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33292003_QQ%E5%9B%BE%E7%89%8720160719185523.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33292005_QQ%E5%9B%BE%E7%89%8720160719185525.jpg""]",未知,P0,审核通过,2016-07-23 10:00:10,,10
+0,15412365,音悦台V4.0.1自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,首页界面中点击上方滚动图片第八张“逛了风花 赏了雪月 爱一个人”进入，点击界面第一个视频播放，点击右下角全屏按键，进入全屏后发现是白屏，无法观看，退出全屏，直接返回到首页界面。,打开软件的，点击首页，点击首页上方滚动图片第八张“逛了风花 赏了雪月 爱一个人”进入，点击界面第一个视频播放，点击右下角全屏按键，进入全屏后发现是白屏，无法观看，退出全屏，直接返回到首页界面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33292535_QQ%E5%9B%BE%E7%89%8720160719190700.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33292541_QQ%E5%9B%BE%E7%89%8720160719190702.jpg""]",未知,P0,审核通过,2016-07-23 10:00:10,,7
+0,15412365,音悦台V4.0.1自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,全屏播放视频时点击屏幕上的锁屏图标，锁屏后仍然可以滑动屏幕增减音量、调节屏幕亮度，调整播放进度。,打开软件，点击首页，点击任意一个视频进入，点击播放按键，点击右下角全屏图标，点击屏幕上的锁屏图标，锁屏后仍然可以滑动屏幕增减音量、调节屏幕亮度，调整播放进度。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33293344_QQ%E5%9B%BE%E7%89%8720160719191504.jpg""]",未知,P0,审核通过,2016-07-23 10:00:10,,7
+0,17115469,音悦台V4.0.1自由测试,重庆市|重庆市|荣昌县|迎宾大道|,HONOR  PLK-AL10,Android 5.0.2,MOBILE LTE,unknown,PLK-AL10C00B211,视频内容太多 ，下翻之后无法定位  需要添加上返按钮  不然影响体验,视频内容太多 ，下翻之后无法定位  需要添加上返按钮  这样体验性比较好,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33289883_%E7%BC%BA%E5%B0%91%E8%BF%94%E5%9B%9E.png""]",未知,P0,审核不通过,2016-07-21 19:12:54,,9
+0,17115469,音悦台V4.0.1自由测试,重庆市|重庆市|荣昌县|迎宾大道|,HONOR  PLK-AL10,Android 5.0.2,MOBILE LTE,unknown,PLK-AL10C00B211,微博授权形同虚设 ，本身 授权针对的就是有相关帐号的用户方便使用，授权之后还是要填写手机等信息，反而变的繁琐了,微博授权形同虚设 ，本身 授权针对的就是有相关帐号的用户方便使用，授权之后还是要填写手机等信息，反而变的繁琐了,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33289967_%E6%8E%88%E6%9D%83%E6%B2%A1%E7%94%A8.png""]",未知,P0,审核不通过,2016-07-21 19:13:12,,1
+0,17115469,音悦台V4.0.1自由测试,重庆市|重庆市|荣昌县|迎宾大道|,HONOR  PLK-AL10,Android 5.0.2,MOBILE LTE,unknown,PLK-AL10C00B211,注册的时候提示手机号码错误，这是电信的手机号码,"1打开软件
+2 找到注册位置
+3，使用移动手机可以 ，但是用电信的手机号提示错误","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33290011_%E6%8F%90%E7%A4%BA%E9%94%99%E8%AF%AF.png""]",未知,P0,审核不通过,2016-07-21 19:13:27,,11
+0,17115469,音悦台V4.0.1自由测试,重庆市|重庆市|荣昌县|迎宾大道|,HONOR  PLK-AL10,Android 5.0.2,MOBILE LTE,unknown,PLK-AL10C00B211,在个人设置里面 签名菜单打不开,"1，找到个人信息  
+2， 找到签名 
+3，点击无效 ，死按钮  需要重新修改","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33290064_%E7%AD%BE%E5%90%8D%E6%89%93%E4%B8%8D%E5%BC%80.png""]",未知,P0,审核不通过,2016-07-21 19:14:01,,10
+0,17196276,音悦台V4.0.1自由测试,北京市|北京市|海淀区|软件园西三路|,Huawei  H30-T00,Android 4.2.2,WIFI,中国移动,H30-T00 V100R001CHNC00B141,进入账号管理页面，返回之后，之前的页面变暗，且不恢复。,"1.打开软件
+2.进入【导航】tab，在页面下方有一个【口袋饭】按钮。
+3.点击【口袋饭】按钮，进入口袋fan页面
+4.点击右上角的账号管理按钮（一个三点的图形），进入账号管理页面，不输入任何东西，直接点击手机返回键
+5.返回到口袋fan页面，发现页面变暗，而且滑动页面，不会变回原来亮度。点击刷新也不行。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33297392_477011533337337634.jpg""]",未知,P0,审核通过,2016-07-23 10:00:10,,13
+0,17196276,音悦台V4.0.1自由测试,北京市|北京市|海淀区|软件园西三路|,Huawei  H30-T00,Android 4.2.2,WIFI,中国移动,H30-T00 V100R001CHNC00B141,"或者算是一个页面bug。或者这算是一个建议。
+意见反馈页面的联系方式缺乏验证，我在联系方式输入12345，可以成功提交反馈。","1.打开软件
+2.进入【我的】tab
+3.在我的页面，点击上方的”信封“按钮，进入”意见反馈“页面。输入意见，手机号输入123456，然后提交，竟然提交成功！！！
+手机号多少位都不能验证吗？这个建议应该被采纳吧！","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33297473_34768609490691791.jpg""]",未知,P0,审核不通过,2016-07-21 19:59:53,,13
+0,17222895,音悦台V4.0.1自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国联通,cm_n918st-userdebug 4.4.4 KTU8,用手机号码进行注册功能问题,"1.打开app
+2.点击注册账户
+3.输入手机号码-----点击下一步
+
+预期结果：发短信到手机上
+实际结果：弹出提示该操作不被支持（由于截图截图慢，请调大亮度查看）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33284652_Screenshot_2016-07-19-15-14-14.png""]",未知,P0,审核通过,2016-07-23 10:00:10,,11
+0,17222895,音悦台V4.0.1自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国联通,cm_n918st-userdebug 4.4.4 KTU8,点击视频评论进行登陆后再点其他节目程序崩溃,"1.打开app
+2.点击底部菜单导航
+3.任意点一个分类
+4.点击任意一个节目-----点击评论图标
+5.进行账号登陆
+6.返回点击导航
+7.点击音悦节目
+8.点击音悦节目下面任意一个视频
+
+预期结果:正常观看视频
+实际结果:app崩溃
+请看视频。
+全程bug测试视频：http://pan.baidu.com/s/1hrghyvm","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33284859_Screenshot_2016-07-19-15-17-09.png""]",未知,P0,审核通过,2016-07-23 10:00:10,,12
+0,17222895,音悦台V4.0.1自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国联通,cm_n918st-userdebug 4.4.4 KTU8,app无法加载部分页面,"1.打开app
+2.登录账号
+3.点击音悦v榜
+
+预期结果：能正常加载
+实际结果：无法加载无法点击
+
+请看视频。 全程bug测试视频：http://pan.baidu.com/s/1hrghyvm。大概再
+点击视频评论进行登陆后再点其他节目程这个bug的后面一点点","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33285430_Screenshot_2016-07-19-15-22-38.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33285435_Screenshot_2016-07-19-15-22-46.png""]",未知,P0,审核通过,2016-07-23 10:00:10,,12
+0,17222895,音悦台V4.0.1自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国联通,cm_n918st-userdebug 4.4.4 KTU8,app无法加载部分页面,1.打开app 2.登录账号 3.点击音悦v榜 4.点击专辑榜，并且预期结果：能正常加载，并且能点击  实际结果：无法加载无法点击 请看视频。 全程bug测试视频：http://pan.baidu.com/s/1hrghyvm。大概在10.24分那里,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33285553_Screenshot_2016-07-19-15-22-38.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33285556_Screenshot_2016-07-19-15-22-46.png""]",未知,P0,审核不通过,2016-07-21 18:51:33,,12
+0,17222895,音悦台V4.0.1自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国联通,cm_n918st-userdebug 4.4.4 KTU8,取消绑定新浪微博后程序崩溃,"1.打开app
+2.登录账号
+3.点击底部菜单我的
+4.点击右上角的设置图标
+5.点击绑定分享
+6.点击新浪微博的右边on并授权，然后点击qq的右边on并授权
+7.点击新浪微博的右边off并取消授权
+
+预期结果：能取消新浪微博授权
+实际结果：点击off后程序崩溃
+全程bug测试视频：http://pan.baidu.com/s/1hrghyvm。大概在第18分钟那里。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33285589_Screenshot_2016-07-19-15-30-41.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33285590_Screenshot_2016-07-19-15-23-48.png""]",未知,P0,审核通过,2016-07-23 10:00:10,,1
+0,17222895,音悦台V4.0.1自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国联通,cm_n918st-userdebug 4.4.4 KTU8,在播放历史全选后音乐点击添加到无反应,"1.打开app
+2.登录账号
+3.点击v榜试听音乐
+4.循环第3步骤几遍
+5.点击底部菜单导航
+6.点击右上角图标----（进入播放历史后）----点击全选----点击添加到
+
+预期结果：能进行添加到音乐单
+实际结果：点击后无法弹出加入到悦单
+全程bug测试视频：http://pan.baidu.com/s/1hrghyvm。大概在第14分钟那里。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33285686_Screenshot_2016-07-19-15-26-34.png""]",未知,P0,审核通过,2016-07-23 10:00:10,,12
+0,17222895,音悦台V4.0.1自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国联通,cm_n918st-userdebug 4.4.4 KTU8,app个人中心中签到提示报错,"1.打开app
+2.登录账号
+3.点击底部菜单我的
+4.点击签到
+预期结果：能进行签到
+实际结果：提示该操作不被支持","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33285743_Screenshot_2016-07-19-15-27-55.png""]",未知,P0,审核通过,2016-07-23 10:00:10,,12
+0,17274505,音悦台V4.0.1自由测试,江苏省|徐州市|新沂市|马陵山西路|,Honor  Che2-TL00M,Android 4.4.2,WIFI,中国移动,Che2-TL00M V100R001CHNC01B393,界面乱码，个人信息签名签不了，手机注册短信收不到,"1.打开软件，进入右下角我的
+2.进入设置，进入帮助指南如何下载mv界面有乱码，如何收藏mv界面有乱码，如何把ｍｖ加入悦单界面有乱码，如何搜索界面有乱码，如何查看我的收藏的ｍｖ界面有乱码，如何查看我的悦单界面有乱码，如何退订联通３ｇ流量包界面有乱码。
+３.打开软件，进入我的，点击个人信息，签名，不能签名。
+４.手机注册，收不到验证码。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33283384_Screenshot_2016-07-19-14-43-38.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33283386_Screenshot_2016-07-19-14-44-02.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33283387_Screenshot_2016-07-19-14-44-33.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33283392_Screenshot_2016-07-19-14-45-06.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33283393_Screenshot_2016-07-19-14-43-50.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33283398_Screenshot_2016-07-19-14-43-50.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33283404_Screenshot_2016-07-19-14-44-15.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33283419_Screenshot_2016-07-19-14-44-45.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33283429_Screenshot_2016-07-19-14-41-31.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/33283435_Screenshot_2016-07-19-14-30-41.png""]",未知,P0,审核通过,2016-07-23 10:00:10,,10
+0,17349358,音悦台V4.0.1自由测试,广东省|惠州市|惠城区|新围路|,ZUK  ZUK Z1,Android 6.0.1,WIFI,中国电信,Z1_CN_OPEN_USER_Q4430.1_M_ZUI_,全屏播放时全屏菜单界面单击消失后过一段时间后又重新弹出，大大影响歌词的观看,"1.打开软件并随便播放一个视屏mv
+2.全屏并且单击屏幕使全屏菜单消失，过两三秒菜单又恢复，阻挡歌词信息阅读",[],未知,P0,审核不通过,2016-07-21 18:45:48,,7

@@ -1,0 +1,91 @@
+case编号,用户id,case标题,地域,机型,操作系统,网络环境,运营商,ROM信息,bug详情,复现步骤,截图,是否未知,优先级,审核状态,提交时间,,重复情况
+0,851370,360免费WiFiV3.8.5自由测试,四川省|南充市|南部县|S101|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,点击app最下方“我的”，选择wifi到店通，在跳转页面所显示店铺位置信息不准确，开启gps也无法准确定位到自己所在的位置。,点击app最下方“我的”，选择wifi到店通，在跳转页面所显示店铺位置信息不准确，开启gps也无法准确定位到自己所在的位置。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27944309_1.jpg""]",未知,P0,审核通过,2016-06-13 16:00:43,,1
+0,851370,360免费WiFiV3.8.5自由测试,四川省|南充市|南部县|S101|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,点击app最下方“我的”，选择wifi到店通，在跳转页面点击刷新图标，刷新店铺位置信息，无论怎么刷新都是这三个地理位置信息。,点击app最下方“我的”，选择wifi到店通，在跳转页面点击刷新图标，刷新店铺位置信息，无论怎么刷新都是这三个地理位置信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27944315_2.jpg""]",未知,P0,审核不通过,2016-06-07 12:46:30,,1
+0,851370,360免费WiFiV3.8.5自由测试,四川省|南充市|南部县|S101|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,点击app最下方“我的”，选择wifi到店通，在跳转页面点击手动添加店铺信息，若此时信息填错，无法对其进行修改和删除。,点击app最下方“我的”，选择wifi到店通，在跳转页面点击手动添加店铺信息，若此时信息填错，无法对其进行修改和删除。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27944488_3.jpg""]",未知,P0,审核不通过,2016-06-07 12:37:36,,1
+0,851370,360免费WiFiV3.8.5自由测试,四川省|南充市|南部县|S101|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,在该app主页点击连网，选择任意一个不知道密码的wifi，再点击挖密码，该app却在挖密码的时候让自己输入密码！挖密码功能不能正常使用……,在该app主页点击连网，选择任意一个不知道密码的wifi，再点击挖密码，该app却在挖密码的时候让自己输入密码！挖密码功能不能正常使用……,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27945414_4.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27945418_5.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27945427_6.jpg""]",未知,P0,审核不通过,2016-06-07 12:48:37,,6
+0,1740866,360免费WiFiV3.8.5自由测试,吉林省|四平市|铁西区|富才路|42,Meizu  m1 note,Android 5.1,WIFI,中国联通,Flyme 5.1.6.0A,金币商城中点击如何赚取金币后，进行金币攻略，点击刷新后偶现404错误,"1、首页点击金币商城；
+2、在金币商城点击如何赚取金币；
+3、在金币攻略中点击左上角的三点选择刷新后，偶现404错误；
+魅蓝note在wifi环境下测试","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27938595_1.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27938601_2.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27938604_3.jpg""]",未知,P0,审核通过,2016-06-13 16:00:43,,11
+0,3001819,360免费WiFiV3.8.5自由测试,广西壮族自治区|南宁市|西乡塘区|火炬路|17-40号,Lenovo  Lenovo K30-T,Android 4.4.4,WIFI,中国移动,K30-T_S048_150805,“360商城”登录账号后和主界面的账号不同步。,"1、在没有登录的情况下，点击“上网”——上方的“金币商城”——“360商城”，随便点击一件商品进行购买会跳出登录对话框，按照操作进行登录。
+2、返回至主界面，点击“我”显示的依旧未登录状态。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27976501_634972758394467795.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27976513_137275006144611484.png""]",未知,P0,审核通过,2016-06-13 16:00:43,,11
+0,3001819,360免费WiFiV3.8.5自由测试,广西壮族自治区|南宁市|西乡塘区|火炬路|17-40号,Lenovo  Lenovo K30-T,Android 4.4.4,WIFI,中国移动,K30-T_S048_150805,秒杀商品点击进入后，点击下方的”返回首页“出现乱码或者异常。,"“上网”——""金币商城”——“360商城”，点击秒杀栏的任意商品，跳转界面后点击下方的“返回首页”。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27978046_234784032420047152.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27978072_78801440340229936.jpg""]",未知,P0,审核通过,2016-06-13 16:00:43,,11
+0,7287803,360免费WiFiV3.8.5自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,bug等级：p1。使用未注册过的手机号找回密码可以成功获取验证码,"1.安装并打开app
+2.选择我的，登录注册，选择忘记密码，输入未注册过的手机号，选择获取验证码，获取成功。","[""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif""]",未知,P0,审核通过,2016-06-13 16:00:43,,6
+0,7287803,360免费WiFiV3.8.5自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,部分文章的信息来源再点击原文阅读时无法打开。,"1.安装并打开app
+2.在上网，推荐中，有部分文章来源于微信等平台，无法原文阅读。","[""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif""]",未知,P0,审核通过,2016-06-13 16:00:43,,5
+0,7287803,360免费WiFiV3.8.5自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,文章分享至微博，取消授权后，页面跳转至上网推荐标签下，不会跳转至原文章。,"1.安装并打开app
+2.选择上网，推荐，选择一篇文章。
+3.点击分享，选择微博，进入微博授权页面后，选择返回，页面跳转至推荐标签。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27943989_Screenshot_2016-06-06-20-35-51.jpeg""]",未知,P0,审核通过,2016-06-13 16:00:43,,5
+0,7287803,360免费WiFiV3.8.5自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,bug等级：p1。无法从相册设置头像,"1.安装并打开app
+2.注册并登陆
+3.选择我，点击我的头像，设置头像。
+4.选择从相册设置，选择图片后一直进入加载页面，无法跳转至照片剪切页面。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27944028_Screenshot_2016-06-06-20-47-33.jpeg""]",未知,P0,审核通过,2016-06-13 16:00:43,,10
+0,7287803,360免费WiFiV3.8.5自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,bug等级：p2.用户注册时密码中的要求描述与实际不符,"1.安装并打开app
+2. 2.选择我，登录注册，选择快速注册。
+4.输入手机号码，输入六位数字密码，无法注册成功。密码的要求描述为“请输入6-20位的密码”，未对格式进行要求。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27944087_Screenshot_2016-06-06-21-02-17.jpeg""]",未知,P0,审核通过,2016-06-13 16:00:43,,6
+0,7287803,360免费WiFiV3.8.5自由测试,云南省|昆明市|呈贡区|联运大道|,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,bug等级：p2。部分输入框未对格式、字符数进行提示，造成用户输入无效。,"1.安装并打开app
+2.注册并登陆。
+3.在密码修改、昵称设置等输入框未对格式、字符数进行提示，造成用户输入无效，造成用户体验差。",[],未知,P0,审核通过,2016-06-13 16:00:43,,12
+0,8993718,360免费WiFiV3.8.5自由测试,四川省|成都市|双流县|红星路南延线|,nubia  NX507J,Android 5.1.1,WIFI,中国联通,NX507J_CNCommon_V3.69,我的金币页面，金币的获得途径新手大礼包应置灰,"1.打开软件
+2.点击登陆
+3.选择快速注册
+4.填好注册信息后，输入验证码
+5.页面跳转到金币页面后点击签到
+6.观察页面显示（签到的获得途径置灰，所以新手大礼包已获得也应该置灰显示，因为也无法点击）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27943210_Screenshot_2016-06-06-20-53-36.png""]",未知,P0,审核通过,2016-06-13 16:00:43,,4
+0,10108370,360免费WiFiV3.8.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首次登陆未注册，点击找回密码
+2输入手机号，点击发送验证码，可以正常收到验证码","1首次登陆未注册，点击找回密码
+2输入手机号，点击发送验证码，可以正常收到验证码","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27969220_Screenshot_2016-06-07-00-33-23.png""]",未知,P0,审核通过,2016-06-13 16:00:43,,6
+0,10108370,360免费WiFiV3.8.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1点击下方上网
+2点击上方金币商城，在上方滚动图片的左下角有免费两字，在免费两字下方还有两字无法辨识","1点击下方上网
+2点击上方金币商城，在上方滚动图片的左下角有免费两字，在免费两字下方还有两字无法辨识
+法辨识","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27970569_Screenshot_2016-06-07-00-37-13.png""]",未知,P0,审核通过,2016-06-13 16:00:43,,3
+0,10108370,360免费WiFiV3.8.5自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1点击下方上网
+2点击上方娱乐
+3点击""毕业照占位神解析....""
+4点击标题下方的查看全文，无法打开","1点击下方上网
+2点击上方娱乐
+3点击""毕业照占位神解析....""
+4点击标题下方的查看全文，无法打开","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27971756_Screenshot_2016-06-07-00-41-50.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27971764_Screenshot_2016-06-07-00-41-41.png""]",未知,P0,审核不通过,2016-06-07 12:44:16,,3
+0,11631802,360免费WiFiV3.8.5自由测试,广东省|中山市|中山市市辖区|隆发路|13-b,Huawei  HUAWEI G7-UL20,Android 4.4.4,WIFI,中国联通,G7-UL20V100R001CHNC00B266,在帐户资料页点上传头像，选择相册选取，在点击图片后即自动返回程序并提示错误。,在帐户资料页点上传头像，选择相册选取，在点击图片后即自动返回程序并提示错误。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27929719_Screenshot_2016-06-06-18-20-04.jpeg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27929809_Screenshot_2016-06-06-18-22-02.jpeg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27929818_Screenshot_2016-06-06-18-22-07.jpeg""]",未知,P0,审核通过,2016-06-13 16:00:43,,7
+0,14109244,360免费WiFiV3.8.5自由测试,湖北省|武汉市|江汉区|万松园路|122,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,微信支付出现问题，不能成功支付,"1注册登录软件，依次点击上网，金币商城，360商城，选择商品并加入购物车
+2支付界面，选择微信支付点击立即支付，支付出现问题，提示网页错误","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27935270_1%20%281%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27935274_1%20%282%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27935279_1%20%283%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27935285_1%20%284%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27935287_1%20%285%29.png""]",未知,P0,审核通过,2016-06-13 16:00:43,,8
+0,14109244,360免费WiFiV3.8.5自由测试,湖北省|武汉市|江汉区|万松园路|122,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,用户头像在360商城无法显示,"1注册登录软件，点击我，进入360用户头像界面，头像显示正常
+2依次点击上网，金币商城，360商城，社区，右上角我，进入社区用户头像界面，头像显示正常
+3依次点击上网，金币商城，360商城，我，进入商城用户头像界面，头像显示不正常","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936399_2%20%281%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936410_2%20%282%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936416_2%20%283%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936422_2%20%284%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936430_2%20%285%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936433_2%20%286%29.png""]",未知,P0,审核通过,2016-06-13 16:00:43,,10
+0,14109244,360免费WiFiV3.8.5自由测试,湖北省|武汉市|江汉区|万松园路|122,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,软件显示设备链接数有问题,"1 注册登陆软件，点击连网，显示有3个设备在线
+2 点击wifi管理，进入后，却只能显示两个设备在线","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936916_3%20%281%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936935_3%20%282%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936947_3%20%283%29.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936953_3%20%284%29.png""]",未知,P0,审核通过,2016-06-13 16:00:43,,2
+0,14519399,360免费WiFiV3.8.5自由测试,四川省|成都市|武侯区|天华路|,Xiaomi  HM 1S,Android 4.4.4,WIFI,中国电信,KTU84P,第一次通过app关闭wifi时提示的却是“正在尝试开启wifi”,"1.安装完app，第一次进入app
+2.在“连网”页面中会看到已经连接上的wifi热点，此时右上角的开关按钮的圆点是处于开启状态
+3.点击右上角的开关按钮 （此时点击为关闭）
+4. 此时出现提示“360免费wifi正在尝试开启wifi”
+5. 点击允许后发现wifi已经被关闭，右上角的开关按钮的圆点是处于关闭状态。也即是说提示语错误","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27927967_QQ%E5%9B%BE%E7%89%8720160606175656.jpg""]",未知,P0,审核不通过,2016-06-07 12:11:51,,12
+0,14519399,360免费WiFiV3.8.5自由测试,四川省|成都市|武侯区|天华路|,Xiaomi  HM 1S,Android 4.4.4,WIFI,中国电信,KTU84P,点一次手机返回按键就退出了应用程序,"1. 打开app，进入主页面比如连网页面或上网页面
+2. 此时点击手机上的返回按键（非显示屏上的）
+3. 点击一次返回即退出了应用程序，影响用户体验。（建议为点击两次退出程序，或者点击一次返回后给予提示）",[],未知,P0,审核不通过,2016-06-07 12:13:34,,7
+0,14867488,360免费WiFiV3.8.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B173,进入软件，登陆帐号，拖动首页应用点二手，界面上文字显示不全。,进入软件，登陆帐号，拖动首页应用点二手，界面上文字显示不全。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936170_Screenshot_2016-06-06-19-45-25.png"",""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif""]",未知,P0,审核通过,2016-06-13 16:00:43,,2
+0,14867488,360免费WiFiV3.8.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B173,进入软件，登陆帐号，点我，点头像，点昵称旁边修改按钮，输入新昵称，点提交，无法更改昵称。,进入软件，登陆帐号，点我，点头像，点昵称旁边修改按钮，输入新昵称，点提交，无法更改昵称。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936823_Screenshot_2016-06-06-19-54-30.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936830_Screenshot_2016-06-06-19-55-57.png""]",未知,P0,审核不通过,2016-06-07 12:31:07,,12
+0,14867488,360免费WiFiV3.8.5自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B173,进入软件，登陆帐号，点上网，点推荐第一个文档，下拉至底部，点应用助手内的应用，点击无反应。,进入软件，登陆帐号，点上网，点推荐第一个文档，下拉至底部，点应用助手内的应用，点击无反应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27937468_Screenshot_2016-06-06-20-02-44.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27937492_Screenshot_2016-06-06-20-02-52.png""]",未知,P0,审核不通过,2016-06-07 12:32:20,,5
+0,14940938,360免费WiFiV3.8.5自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,1 上网→金币商城，分类导航图标上方的灰色分界条左方出现“免费”两行文字，下方“免费”两字还遮挡截断。,1 上网→金币商城，分类导航图标上方的灰色分界条左方出现“免费”两行文字，下方“免费”两字还遮挡截断。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27947953_713B1093DAE484AAF1F57EF3C41E35A0.JPG""]",未知,P0,审核通过,2016-06-13 16:00:43,,3
+0,14940938,360免费WiFiV3.8.5自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,2 我的→钱包→常见问题→提现问题，点击任意一问题，进入详情页面，左上角返回或者手机物理键返回，都跳转至“热门问题”界面，而不是“提现问题”界面。,2 我的→钱包→常见问题→提现问题，点击任意一问题，进入详情页面，左上角返回或者手机物理键返回，都跳转至“热门问题”界面，而不是“提现问题”界面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27947966_35732965492B57C8E7C6E49C6ABEC8B0.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27947970_23BD41AC260ECC0F768B0173232B643F.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27947971_0E2AFA65D673F0A92B553020A62513DA.JPG""]",未知,P0,审核通过,2016-06-13 16:00:43,,8
+0,15065700,360免费WiFiV3.8.5自由测试,湖南省|岳阳市|湘阴县|S308(新世纪大道)|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,高德地图无法加截定位信息。,安装运行ａｐｐ。点连网。点连接小伙伴后面三个点的菜单进入.,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27935307_Screenshot_2016-06-06-19-32-06.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27935318_Screenshot_2016-06-06-18-22-26.png""]",未知,P0,审核通过,2016-06-13 16:00:43,,0
+0,15065700,360免费WiFiV3.8.5自由测试,湖南省|岳阳市|湘阴县|S308(新世纪大道)|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B188,连接详细信息，下拉，选择举报钓鱼ｗｉｆｉ举报，点击后无任何提示,安装运行ａｐｐ。点连网。点连接小伙伴后面三个点的菜单进入下拉最下面，点举报，选择举报钓鱼ｗｉｆｉ，,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936583_Screenshot_2016-06-06-19-51-14.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936588_Screenshot_2016-06-06-19-51-16.png""]",未知,P0,审核不通过,2016-06-07 12:25:34,,0
+0,15140900,360免费WiFiV3.8.5自由测试,四川省|南充市|西充县|G212|,Xiaomi  2014813,Android 4.4.4,WIFI,中国移动,KTU84P,360用户服务条款-下面又显示的是360用户服务协议，不一致,360用户服务条款-下面又显示的是360用户服务协议，不一致,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936128_Screenshot_2016-06-06-17-48-57.png""]",未知,P0,审核不通过,2016-06-07 12:18:21,,9
+0,15140900,360免费WiFiV3.8.5自由测试,四川省|南充市|西充县|G212|,Xiaomi  2014813,Android 4.4.4,WIFI,中国移动,KTU84P,自动显示了一个昵称-不是自己设置的,自动显示了一个昵称-不是自己设置的                     。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936164_Screenshot_2016-06-06-18-02-58.png""]",未知,P0,审核不通过,2016-06-07 12:19:15,,10
+0,15140900,360免费WiFiV3.8.5自由测试,四川省|南充市|西充县|G212|,Xiaomi  2014813,Android 4.4.4,WIFI,中国移动,KTU84P,在查看服务条款的时候时间是17:48-但是我的消息里面显示的恭喜获得礼包的时间是17:47，在注册之前了,在查看服务条款的时候时间是17:48-但是我的消息里面显示的恭喜获得礼包的时间是17:47，在注册之前了,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936185_Screenshot_2016-06-06-17-48-57.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936189_Screenshot_2016-06-06-17-50-23.png""]",未知,P0,审核不通过,2016-06-07 12:19:34,,9
+0,15140900,360免费WiFiV3.8.5自由测试,四川省|南充市|西充县|G212|,Xiaomi  2014813,Android 4.4.4,WIFI,中国移动,KTU84P,页面中360免费wifi免责声明-点击开看到显示不全，看不到声明二字,页面中360免费wifi免责声明-点击开看到显示不全，看不到声明二字,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936222_Screenshot_2016-06-06-18-30-14.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936229_Screenshot_2016-06-06-18-30-20.png""]",未知,P0,审核不通过,2016-06-07 12:20:07,,9
+0,15140900,360免费WiFiV3.8.5自由测试,四川省|南充市|西充县|G212|,Xiaomi  2014813,Android 4.4.4,WIFI,中国移动,KTU84P,点击签到-上方显示已签到，下方又显示签到失败,点击签到-上方显示已签到，下方又显示签到失败,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27936307_Screenshot_2016-06-06-19-34-40.png""]",未知,P0,审核通过,2016-06-13 16:00:43,,4
+0,15195321,360免费WiFiV3.8.5自由测试,湖北省|武汉市|蔡甸区|耀华路|43号,Xiaomi  MI 3W,Android 6.0.1,WIFI,中国联通,MMB29M,点开上网的时候出现白屏，之后手机卡顿，后来强制关机，然后再进入app后未出现这种情况。,点开上网的时候出现白屏，之后手机卡顿，后来强制关机，然后再进入app后未出现这种情况。小米手机3.,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27932312_Screenshot_2016-06-06-18-46-08_com.qihoo.freewifi.png""]",未知,P0,审核通过,2016-06-13 16:00:43,,8
+0,16563362,360免费WiFiV3.8.5自由测试,安徽省|阜阳市|颍州区|双清路|,Meizu  m2,Android 5.1,WIFI,中国移动,Flyme OS 4.5.3.2M,将软件各功能轮回切换，过了一会软件白屏，随后退出！,将软件各功能轮回切换，过了一会软件白屏，随后退出！手机型号魅蓝2 。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27952309_S60606-233915.jpg""]",未知,P0,审核通过,2016-06-13 16:00:43,,7
+0,16623024,360免费WiFiV3.8.5自由测试,广东省|深圳市|龙岗区|比亚迪路|,Meizu  MX5,Android 5.1,WIFI,中国联通,Flyme OS 5.1.2.0U,app账户首次用银行卡充值，进行到输入校验码界面时，如果输入一次错误的检验码，然后再输入正确的校验码，app会出现系统异常提示！如图1.,"1. 下载运行app，完成注册和登录。
+2. 进入我～我的钱包界面，如图2。
+3. 点击充值，进入下一界面，如图3。
+4. 输入银行卡号，如图4。 
+5. 输入银行卡信息，如图5。
+6. 输入手机支付密码，如图6。
+7.进去填写校验码界面，输入一次错误的检验码，然后再输入正确的校验码，点击下一步，观察app提示！如图1。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27952202_mmexport1465225824108.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27952250_mmexport1465225814447.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27952261_mmexport1465225819292.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27952279_mmexport1465225816998.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27952281_mmexport1465225821765.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27952286_mmexport1465225833636.jpg""]",未知,P0,审核通过,2016-06-13 16:00:43,,12
+0,16623024,360免费WiFiV3.8.5自由测试,广东省|深圳市|龙岗区|比亚迪路|,Meizu  MX5,Android 5.1,WIFI,中国联通,Flyme OS 5.1.2.0U,新手100金币的大礼包界面，有标点符号编辑错误，如截图位置！,"1. 下载并首次注册和登录app。
+2.  进入我～我的信息界面
+3. 点击查看新手大礼包，如图。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27952333_S60606-210150.jpg""]",未知,P0,审核通过,2016-06-13 16:00:43,,4
+0,17192118,360免费WiFiV3.8.5自由测试,山西省|太原市|小店区|科学路|,HUAWEI  HUAWEI GRA-CL00,Android 5.0.1,WIFI,中国电信,GRA-CL00C92B230,在金币商城上滑动的图片点击没有响应。,1.打开该app.2.在上网的主页面上点击金币商城。3.在金币商城上滑动的图片点击没有响应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27932947_Screenshot_2016-06-06-18-52-53.png""]",未知,P0,审核不通过,2016-06-07 12:16:25,,11
+0,17192118,360免费WiFiV3.8.5自由测试,山西省|太原市|小店区|科学路|,HUAWEI  HUAWEI GRA-CL00,Android 5.0.1,WIFI,中国电信,GRA-CL00C92B230,在我的里面点击上面的设置按钮点击意见反馈。,1.打开该app。2.点击有上下叫的‘我的’。3.在我的里面点击上面的设置按钮点击意见反馈。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/27933933_Screenshot_2016-06-06-19-10-38.png""]",未知,P0,审核不通过,2016-06-07 12:17:37,,10

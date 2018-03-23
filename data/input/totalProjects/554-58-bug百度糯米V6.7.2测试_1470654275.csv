@@ -1,0 +1,148 @@
+case编号,用户id,case标题,地域,机型,操作系统,网络环境,运营商,ROM信息,bug详情,复现步骤,截图,是否未知,优先级,审核状态,提交时间,,重复情况
+0,509713,百度糯米V6.7.2自由测试,广东省|中山市|中山市市辖区|科技东路|,oneplus  A0001,Android 6.0.1,WIFI,无SIM卡,bacon-userdebug 6.0.1 MOB30R c,"我的--帮助与反馈--提示手机号已绑定.
+,点击链接无作用","我的--帮助与反馈--提示手机号已绑定.
+点击下面链接去找回账户 , 链接实际上不可用","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34074368_1.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34074371_2.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34074375_3.png""]",未知,P0,审核不通过,2016-08-03 11:28:30,,8
+0,737755,百度糯米V6.7.2自由测试,新疆|阿勒泰,OPPO  N5207,Android 4.4.4,mobile HSPA+,中国联通,N5207_11_150411,无法定位当前城市！我在新疆，乌鲁木齐,打开软件，定位当前城市！不能获得当前位置，定位失败！,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34070113_Screenshot_2016-07-29-16-33-32-433.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34070127_Screenshot_2016-07-29-16-37-46-38.png""]",未知,P0,审核不通过,2016-08-03 11:28:06,,7
+0,851370,百度糯米V6.7.2自由测试,四川省|南充市|南部县|G212(迎宾大道)|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后，点击左上方定位，跳转页面最上方搜索栏搜索朱德故里“仪陇县”，结果提示“抱歉，暂时没有找到相关城市”。,打开app后，点击左上方定位，跳转页面最上方搜索栏搜索朱德故里“仪陇县”，结果提示“抱歉，暂时没有找到相关城市”。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34056229_5.jpg""]",未知,P0,审核不通过,2016-08-03 10:33:42,,7
+0,851370,百度糯米V6.7.2自由测试,四川省|南充市|南部县|G212(迎宾大道)|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后，点击下方“首页”，在其上方向左滑动点击“汽车”，跳转页面“精选主题”空白无内容,打开app后，点击下方“首页”，在其上方向左滑动点击“汽车”，跳转页面“精选主题”空白无内容,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34057705_6.jpg""]",未知,P0,审核不通过,2016-08-03 10:35:14,,4
+0,851370,百度糯米V6.7.2自由测试,四川省|南充市|南部县|G212(迎宾大道)|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后，点击下方“首页”，在其上方点击“机票车票”，跳转页面“汽车”，点击出发，跳转页面排版布局混乱，如图：让人错误认为“历史”、“城市”、“热门”、城市,打开app后，点击下方“首页”，在其上方点击“机票车票”，跳转页面“汽车”，点击出发，跳转页面排版布局混乱，如图：让人错误认为“历史”、“城市”、“热门”、城市,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34057737_7.jpg""]",未知,P0,审核不通过,2016-08-03 10:36:28,,4
+0,851370,百度糯米V6.7.2自由测试,四川省|南充市|南部县|G212(迎宾大道)|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后，点击下方“首页”，在其上方点击“机票车票”，跳转页面“汽车”，“出发”和“到达”输入重庆和上海后点击查询，跳转页面点击右上方地图，随后车站地图界面显示为“北京天安门”,打开app后，点击下方“首页”，在其上方点击“机票车票”，跳转页面“汽车”，“出发”和“到达”输入重庆和上海后点击查询，跳转页面点击右上方地图，随后车站地图界面显示为“北京天安门”,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34058101_8.jpg""]",未知,P0,审核不通过,2016-08-03 10:37:37,,4
+0,1133707,百度糯米V6.7.2自由测试,河南省|郑州市|惠济区|大河路|,Lenovo  Lenovo K30-T,Android 4.4.4,WIFI,中国移动,VIBEUI_V2.0_1511_7.13.1_DEV_K3,手机号码不标准也可以获取验证码,登录界面，手机号码长度大于11位，或者不符合手机号码规则，都可以申请验证码。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34063828_1.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34063833_2.jpeg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34063835_3.jpeg""]",未知,P0,审核不通过,2016-08-03 11:25:56,,13
+0,3052264,百度糯米V6.7.2自由测试,安徽省|亳州市|涡阳县|X021|,nubia  NX513J,Android 5.0.2,WIFI,中国移动,NX513J_CNCommon_V4.01,进入个人资料页面时闪退,"1、点击“我的”选项进入“我的”页面；
+2、点击页面中的头像尝试进入“个人资料页面”；
+3、进入该页面后，软件立即自动返回到“我的”页面；
+4、重新启动软件，恢复正常。",[],未知,P0,审核不通过,2016-08-03 10:31:59,,9
+0,14109244,百度糯米V6.7.2自由测试,湖北省|武汉市|江汉区|万松园路|101,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,我的收藏页，在编辑的状态下，当收藏的商家为0，点击重试，取消键功能失效,"1登录百度糯米，点击我的，我的收藏，进入我的收藏页面（ps. 收藏商家一定是0时，此bug才有效）
+2 点击编辑，
+3点击重试
+4页面左上角取消键功能失效","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082151_Screenshot_2016-07-29-19-54-46.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082152_Screenshot_2016-07-29-19-54-58.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082153_Screenshot_2016-07-29-19-55-08.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082155_Screenshot_2016-07-29-19-55-17.png""]",未知,P0,审核通过,2016-08-05 10:00:01,,11
+0,14109244,百度糯米V6.7.2自由测试,湖北省|武汉市|江汉区|万松园路|101,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,商家如入驻界面，省市区项，点击三次后，地址选择栏上的完成按钮失效,"1登录软件，点击我的，我要开店，进入商家入驻界面
+2点击”省、市、区“项，出现地址选择栏，点击完成
+3再次点击该项，出现地址选择栏，点击完成
+4第三次点击该项，出现地址选择栏，完成功能键失效","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082284_Screenshot_2016-07-29-20-00-22.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082288_Screenshot_2016-07-29-20-00-44.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082289_Screenshot_2016-07-29-20-01-07.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082291_Screenshot_2016-07-29-20-01-19.png""]",未知,P0,审核通过,2016-08-05 10:00:01,,3
+0,14109244,百度糯米V6.7.2自由测试,湖北省|武汉市|江汉区|万松园路|101,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,商家如入驻界面，合作品类项，选择内容栏出现列不同步情况,"1登录软件，点击我的，我要开店，进入商家入驻界面
+2点击合作品类，出现品类选择栏，快速上拉第一列大类选项，然后迅速点击完成，合作品类会出现”充值缴费－其他美食“点击提交可成功提交
+3地址选择栏也可出现类似情形出现”重庆市－北京市－东城区“","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082722_Screenshot_2016-07-29-20-10-47.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082723_Screenshot_2016-07-29-20-10-56.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082724_Screenshot_2016-07-29-20-11-07.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082726_Screenshot_2016-07-29-20-11-17.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34082727_Screenshot_2016-07-29-20-12-32.png""]",未知,P0,审核通过,2016-08-05 10:00:01,,3
+0,14109244,百度糯米V6.7.2自由测试,湖北省|武汉市|江汉区|万松园路|101,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,unknown,4.4.077.P0.160225.8675-A,商家入驻，实物商品栏，注册资金可以填写负数，并且可以提交成功,"1登录软件，点击我的，我要开店，进入商家入驻界面
+2点击实物商品，该页面最下方注册资金可以填写负数金额","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34083034_Screenshot_2016-07-29-20-10-47.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34083044_Screenshot_2016-07-29-20-21-54.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34083047_Screenshot_2016-07-29-20-22-34.png""]",未知,P0,审核通过,2016-08-05 10:00:01,,3
+0,14452258,百度糯米V6.7.2自由测试,山西省|太原市|杏花岭区|府西街|269号,Xiaomi  HM NOTE 1W,Android 4.2.2,mobile HSPA+,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"前提使用手机分辨率为1280x720p的手机，测试手机为小米note1
+1点击糯米首页
+2设置左上角地区为太原
+3点击电影
+4点击影片
+5点击电影“封神传奇”的购票
+6点击全城,下拉列表字符覆盖，错乱无法辨识（分辨率为1280x720p的手机）","前提使用手机分辨率为1280x720p的手机，测试手机为小米note1
+1点击糯米首页
+2设置左上角地区为太原
+3点击电影
+4点击影片
+5点击电影“封神传奇”的购票
+6点击全城,下拉列表字符覆盖，错乱无法辨识（分辨率为1280x720p的手机）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34075100_Screenshot_2016-07-29-17-42-33.png""]",未知,P0,审核通过,2016-08-05 10:00:01,,13
+0,14452258,百度糯米V6.7.2自由测试,山西省|太原市|杏花岭区|府西街|269号,Xiaomi  HM NOTE 1W,Android 4.2.2,mobile HSPA+,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1点击糯米首页
+2设置左上角地区为太原
+3点击储值卡
+4点击和合谷中的580元储值卡
+5在套餐内容介绍中，“储值卡的作用：.....就餐结账时在糯米手机端储值卡功能力输入金额，即可付款.....”的“力”应为“里”","1点击糯米首页
+2设置左上角地区为太原
+3点击储值卡
+4点击和合谷中的580元储值卡
+5在套餐内容介绍中，“储值卡的作用：.....就餐结账时在糯米手机端储值卡功能力输入金额，即可付款.....”的“力”应为“里”","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34075410_Screenshot_2016-07-29-17-53-23.png""]",未知,P0,审核不通过,2016-08-03 11:29:38,,13
+0,14452258,百度糯米V6.7.2自由测试,山西省|太原市|杏花岭区|府西街|269号,Xiaomi  HM NOTE 1W,Android 4.2.2,mobile HSPA+,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击充值中心
+2如果是170号段注册的糯米账号会默认为注册手机号充值，或者自行输入170号段的手机号，选择充话费20，确认支付会提示错误，而错误信息e100000008 billid等信息不知所云","1首页点击充值中心
+2如果是170号段注册的糯米账号会默认为注册手机号充值，或者自行输入170号段的手机号，选择充话费20，确认支付会提示错误，而错误信息e100000008 billid等信息不知所云","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34075725_Screenshot_2016-07-29-17-57-05.png""]",未知,P0,审核通过,2016-08-05 10:00:01,,8
+0,14452258,百度糯米V6.7.2自由测试,山西省|太原市|杏花岭区|府西街|269号,Xiaomi  HM NOTE 1W,Android 4.2.2,mobile HSPA+,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1糯米首页点击左上角地区设置为太原
+2在当前城市太原界面，点击选择县区，列表中出现了中北大学商圈，并不是太原市行政县区","1糯米首页点击左上角地区设置为太原
+2在当前城市太原界面，点击选择县区，列表中出现了中北大学商圈，并不是太原市行政县区","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34077083_Screenshot_2016-07-29-18-20-19.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34077090_Screenshot_2016-07-29-18-19-14.png""]",未知,P0,审核不通过,2016-08-03 12:02:45,,13
+0,14643506,百度糯米V6.7.2自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,下载登陆app后，在我的中心，看到有可使用糯米券1张提示，点击进入后发现此张糯米券是已使用过的券。,下载登陆app后，在我的中心，看到有可使用糯米券1张提示，点击进入后发现此张糯米券是已使用过的券。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34086604_Screenshot_2016-07-29-20-41-41_com.nuomi.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34086605_Screenshot_2016-07-29-20-41-23_com.nuomi.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34086607_Screenshot_2016-07-29-20-41-36_com.nuomi.png""]",未知,P0,审核通过,2016-08-05 10:00:01,,10
+0,14643506,百度糯米V6.7.2自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,打开app，定位城市盐城，在首页选择周边游，进入后选择郊区游或者温泉洗浴等，打开选择具体的景点，点击进入景点详情页，点击地址前面的定位按钮，进入商家地图，百度地图白屏显示。http://pan.baidu.com/s/1plcmk11百度云视频连接,打开app，定位城市盐城，在首页选择周边游，进入后选择郊区游或者温泉洗浴等，打开选择具体的景点，点击进入景点详情页，点击地址前面的定位按钮，进入商家地图，百度地图白屏显示。http://pan.baidu.com/s/1plcmk11百度云视频连接,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34088582_Screenshot_2016-07-29-22-53-01_com.nuomi.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34088593_Screenshot_2016-07-29-23-03-36_com.nuomi.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34088598_Screenshot_2016-07-29-23-03-34_com.nuomi.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34088627_Screenshot_2016-07-29-23-09-17_com.nuomi.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34088632_Screenshot_2016-07-29-22-53-39_com.nuomi.png""]",未知,P0,审核不通过,2016-08-03 12:24:52,,7
+0,14643506,百度糯米V6.7.2自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,打开app，定位城市盐城，在首页选择周边游，进入后选择景点，在景点列表选择筛选，依次按照5a 4a 3a 2a 1a筛选，发现若无5a级景点，选择5a筛选后无反应，不会出无相关景点搜索结果。http://pan.baidu.com/s/1qyj6twg百度云视频链接,打开app，定位城市盐城，在首页选择周边游，进入后选择景点，在景点列表选择筛选，依次按照5a 4a 3a 2a 1a筛选，发现若无5a级景点，选择5a筛选后无反应，不会出无相关景点搜索结果。http://pan.baidu.com/s/1qyj6twg百度云视频链接,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34088762_Screenshot_2016-07-29-22-53-01_com.nuomi.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34088766_Screenshot_2016-07-29-23-03-36_com.nuomi.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34088767_Screenshot_2016-07-29-22-56-53_com.nuomi.png""]",未知,P0,审核通过,2016-08-05 10:00:01,,7
+0,14643506,百度糯米V6.7.2自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,在首页搜索到店付，进入到店付列表，任意选择一个到店付商铺，进入后详情页后点击右上角分享，选择微信，微信朋友圈等分享成功都会连续显示两次，第一次是“分享成功”，第二次是“分享成功~”,在首页搜索到店付，进入到店付列表，任意选择一个到店付商铺，进入后详情页后点击右上角分享，选择微信，微信朋友圈等分享成功都会连续显示两次，第一次是“分享成功”，第二次是“分享成功~”,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34088857_Screenshot_2016-07-29-22-01-17_com.nuomi.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34088859_Screenshot_2016-07-29-22-01-19_com.nuomi.png""]",未知,P0,审核通过,2016-08-05 10:00:01,,10
+0,14643506,百度糯米V6.7.2自由测试,江苏省|盐城市|亭湖区|新丰西小区八巷|,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国移动,LMY47V,登陆app，在我的中心，选择查看最上面个人主页，进入后，点击头像，选择从相册选择，进入相册列表，左上角是相机，点击才能触动拍照功能，不点击相册处于关闭状态，但是我在上下滑动选择查看图片列表过程中，相机总是自动触动，在左上角可以看到相机已经打开。http://pan.baidu.com/s/1slgogw9百度云视频链接,登陆app，在我的中心，选择查看最上面个人主页，进入后，点击头像，选择从相册选择，进入相册列表，左上角是相机，点击才能触动拍照功能，不点击相册处于关闭状态，但是我在上下滑动选择查看图片列表过程中，相机总是自动触动，在左上角可以看到相机已经打开。http://pan.baidu.com/s/1slgogw9百度云视频链接,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34089548_Screenshot_2016-07-29-23-47-16_com.nuomi.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34089549_Screenshot_2016-07-29-23-47-20_com.nuomi.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34089550_Screenshot_2016-07-29-23-47-27_com.nuomi.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34089553_Screenshot_2016-07-29-23-50-14_com.nuomi.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34089557_Screenshot_2016-07-29-23-51-04_com.nuomi.png""]",未知,P0,审核通过,2016-08-05 10:00:01,,6
+0,14867488,百度糯米V6.7.2自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,点签到，进入的却是积分界面。,进入软件，登录帐号，点我的，点右侧红色打勾按钮，点签到，弹出积分界面，而不是已签到。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34063548_QQ%E5%9B%BE%E7%89%8720160729151648.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34063559_QQ%E5%9B%BE%E7%89%8720160729151657.jpg""]",未知,P0,审核不通过,2016-08-03 11:27:32,,2
+0,14867488,百度糯米V6.7.2自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,我的界面，点头像，打开个人资料自动返回我的界面。,进入软件，登录帐号，点我的，点头像，打开个人资料自动返回我的界面。bug复现视频地址：http://pan.baidu.com/s/1qypeh7a,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34065241_QQ%E5%9B%BE%E7%89%8720160729153834.jpg""]",未知,P0,审核不通过,2016-08-03 11:27:54,,9
+0,14867488,百度糯米V6.7.2自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,上传头像无法正常显示,进入软件登录帐号，点我的，点个人主页，点头像，选择图片上传后，无法正常显示。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34066011_QQ%E5%9B%BE%E7%89%8720160729154731.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34066018_QQ%E5%9B%BE%E7%89%8720160729154734.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34066029_QQ%E5%9B%BE%E7%89%8720160729154739.jpg""]",未知,P0,审核不通过,2016-08-03 11:27:44,,9
+0,14867488,百度糯米V6.7.2自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B201,机票车票，点汽车，界面一直提示正在加载,进入软件登录帐号，点机票车票，点汽车，界面一直提示正在加载。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34068693_QQ%E5%9B%BE%E7%89%8720160729162347.jpg""]",未知,P0,审核不通过,2016-08-03 11:28:00,,4
+0,14940938,百度糯米V6.7.2自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,1 我的→我的订单-可使用→一直显示可使用的订单数量，点击进入后，是16年2月份的酒店订单，是已完成离店的订单。（不可使用的订单）,1 我的→我的订单-可使用→一直显示可使用的订单数量，点击进入后，是16年2月份的酒店订单，是已完成离店的订单。（不可使用的订单）,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084535_7E3FE6DC22F6A3CB43FBB3C35C1E30CF.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084537_FDB1075E2E450D68F9A5CDD0B525CB2F.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084545_4EE639A1FA3509898C196C3C028F94BE.JPG""]",未知,P0,审核通过,2016-08-05 10:00:01,,10
+0,14940938,百度糯米V6.7.2自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,2 首页→精选抢购→点击任意一团单，如：比亚森自助烤肉→右上角三点→分享→朋友圈。点击朋友圈，提示“版本不支持分享到朋友圈的功能，先去更新下”，后提示分享失败。本机微信检测是最新版本，手机后台会自动结束微信进程，糯米无法唤醒微信。,2 首页→精选抢购→点击任意一团单，如：比亚森自助烤肉→右上角三点→分享→朋友圈。点击朋友圈，提示“版本不支持分享到朋友圈的功能，先去更新下”，后提示分享失败。本机微信检测是最新版本，手机后台会自动结束微信进程，糯米无法唤醒微信。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084571_598DB8959263809EF1F8FDFAE45F7FA7.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084572_D9892E396E8D9A2E5F7216BB471DC711.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084575_CEE7164B699A2C5DD5E4A9C9447BB15F.JPG""]",未知,P0,审核通过,2016-08-05 10:00:01,,10
+0,14940938,百度糯米V6.7.2自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,3 我的→个人主页→点击之前消费过的团单，如：侯氏火锅双人餐，进入团单详情界面失败，跳转后页面提示”找不到你想要的团购“,3 我的→个人主页→点击之前消费过的团单，如：侯氏火锅双人餐，进入团单详情界面失败，跳转后页面提示”找不到你想要的团购“,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084578_790745525EA9F71F399DC4276026EB16.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084579_7992F6165132CEEE08938AE6205A16C6.JPG""]",未知,P0,审核不通过,2016-08-03 12:20:20,,9
+0,14940938,百度糯米V6.7.2自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,4 我的→帮助与反馈→支付-更多→下单自动退款→左上角返回，点击后返回到了“帮助与反馈”界面。,4 我的→帮助与反馈→支付-更多→下单自动退款→左上角返回，点击后返回到了“帮助与反馈”界面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084584_543561011F39E6D5CA83621113CF3996.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084589_5E00FACDD484540105DDC002EAC84E54.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084592_BC3CE4EED02D101408163B3ECA887BE1.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084597_2C62670A605D7EB241453E7BC9F78515.JPG""]",未知,P0,审核不通过,2016-08-03 12:21:35,,12
+0,14940938,百度糯米V6.7.2自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,５ 首页→导航-更多服务→生活服务，展开→药品相关，点击后跳转的界面出现婚庆服务，如：悠悠婚庆服务（空中花园店）。,５ 首页→导航-更多服务→生活服务，展开→药品相关，点击后跳转的界面出现婚庆服务，如：悠悠婚庆服务（空中花园店）。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084603_836BD20015ABA24E48C70CA7E572C72A.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084604_2E54743695690D7A83F5B4AC96CA0966.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084608_193AB3CA0DE7BF38D8F4FF1BA038AF07.JPG""]",未知,P0,审核通过,2016-08-05 10:00:01,,0
+0,14940938,百度糯米V6.7.2自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,6 首页→导航-更多服务→生活服务，展开→旅拍婚纱，点击后跳转的界面中出现美甲美睫工作室，如：静谧美甲美睫工作室。,6 首页→导航-更多服务→生活服务，展开→旅拍婚纱，点击后跳转的界面中出现美甲美睫工作室，如：静谧美甲美睫工作室。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084615_CBEB86FB1B14F50941DC5659B4C00F60.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084617_F32FA458DD30FD202C3E47DD243D0206.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084620_FFD246B4C2DC8AFB353F4A0DAC793858.JPG""]",未知,P0,审核不通过,2016-08-03 12:23:13,,0
+0,14940938,百度糯米V6.7.2自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,7 首页→顶部导航”周边游“→右下悬浮图标→分会场，点击分会场后，底部弹出分会场分类模块，１是分类文字被遮挡，显示不全；２是手指碰触文字后，模块透明，文字消失。,7 首页→顶部导航”周边游“→右下悬浮图标→分会场，点击分会场后，底部弹出分会场分类模块，１是分类文字被遮挡，显示不全；２是手指碰触文字后，模块透明，文字消失。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084624_C8BB6B7E86FD5676624EB12F55F12FA9.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084630_637F1132CED0A5F1E53A49BE1B00C24F.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34084633_DDE2D24D4AEAA68F4D4EB6505B62215A.JPG""]",未知,P0,审核通过,2016-08-05 10:00:01,,1
+0,14943542,百度糯米V6.7.2自由测试,新疆维吾尔自治区|哈密地区|哈密市||,samsung  SM-G5500,Android 5.1.1,WIFI,中国移动,LMY47X.G5500ZCU1APC1,在签到时，第一登录签到成功积分显示为0，已经连续签到0天，需要再次点击敲到才会显示5积分，已经连续签到1天,进入糯米，点击我的，选着金恩商场，点击签到,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34088288_Screenshot_2016-07-29-22-29-28.png""]",未知,P0,审核不通过,2016-08-03 12:23:46,,2
+0,14999424,百度糯米V6.7.2自由测试,广东省|汕头市|潮阳区|茂中路|,Lenovo  Lenovo Z90-3,Android 5.1.1,WIFI,中国移动,VIBEUI_V2.8_1550_5.122.1_ST_Z9,只有一家商店，却显示努力加载中,点击附近，选择500m，显示一个商家，下方却显示努力加载中,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34064902_Screenshot_2016-07-29-15-19-53-546.jpeg""]",未知,P0,审核不通过,2016-08-03 11:26:36,,5
+0,15171277,百度糯米V6.7.2自由测试,北京市|北京市|通州区|经海路|,360  1503-A01,Android 6.0,MOBILE LTE,中国联通,V033,百度糯米，待评价，无法评价显示。,"1、打开软件点击个人信息
+2、我的订单和待评价
+3、待评价无法评价，无限重复
+4、wifi和4g+网络下也无法评价
+5、二次登陆退出，不同糯米个人界面，再次评价，这次显示评价后的图片信息，但之后，依然我的订单和待评价里依然出现，并未评价，出现截图的情况。","["""",""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif"",""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif"",""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif"",""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif"",""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif"",""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif"",""http:\/\/test.baidu.com\/crowdtest\/images\/bug_detail\/loading.gif""]",未知,P0,审核不通过,2016-08-03 12:14:32,,2
+0,15412365,百度糯米V6.7.2自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,我的界面中点击用户头像进入到个人资料界面，刚进入就自动跳回到上一界面。,1打开软件，点击我的，发现默认登录百度微任务账号；2点击用户头像进入个人资料界面，刚进入就自动跳回到上一个界面。 （录制的bug视频如下：http://pan.baidu.com/s/1jhp7wxo,[],未知,P0,审核不通过,2016-08-03 12:04:45,,9
+0,15412365,百度糯米V6.7.2自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,清除手机上的所有百度软件中的账号后，在百度账号登陆界面中，输入帐号后，在密码处随意输入汉字，点击登陆，出现“您所处的网络环境可能出现问题，请尝试重新登陆”的提示信息，但是网络连接正常。,"1.把手机上的所有百度软件的账号全部清空退出后，打开软件，点击我的；2点击登陆；3点击帐号密码登陆；4在百度账号登陆界面中，输入帐号后，在密码处随意输入汉字，点击登陆，出现“您所处的网络环境可能出现问题，请尝试重新登陆”的提示信息，但是网络连接正常。
+（bug视频如下：http://pan.baidu.com/s/1nuec3tj",[],未知,P0,审核不通过,2016-08-03 12:05:10,,8
+0,15412365,百度糯米V6.7.2自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,设置界面中点击个人资料，点击后无法进入到其界面。,"1打开软件，点击我的；2点击设置；3点击个人资料；4点击后无法进入到其界面。
+（bug视频如下：https://pan.baidu.com/s/1mhfu3jq",[],未知,P0,审核不通过,2016-08-03 12:05:42,,9
+0,15412365,百度糯米V6.7.2自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击人工客服，点击后没有反应，无法进入人工客服界面，也没有任何相关提示信息。,"1打开软件，点击我的；2点击帮助与反馈；3点击在线客服；4点击右上角的人工客服，点击后没有反应，无法进入人工客服界面，也没有任何相关提示信息。
+（bug视频百度云网址如下：https://pan.baidu.com/s/1b550o2",[],未知,P0,审核不通过,2016-08-03 12:05:47,,12
+0,15412365,百度糯米V6.7.2自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,客服界面发现用户头像不显示或者显示的头像和我的界面中的头像不一致。,"1打开软件，点击我的；2我的界面上方已存在用户头像图片，再点击帮助与反馈；3点击在线客服；4点击百度糯米客服咨询；5进入到客服界面发现用户头像不显示或者显示的头像和我的界面中的头像不一致。
+（ｂｕｇ视频百度云网址如下：https://pan.baidu.com/s/1skz3afz",[],未知,P0,审核不通过,2016-08-03 12:05:54,,12
+0,15412365,百度糯米V6.7.2自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,点击任意一个预告片进入全屏播放界面，点击右上角的下载图标，点击后没有反应，无法下载预告片。,"１打开软件，点击首页；２点击电影；３点击影片；４点击任意一个影片进入；５点击左上角的影片图片进入预告片界面；６点击任意一个预告片进入全屏播放界面；７点击右上角的下载图标；８点击后没有反应，无法下载预告片。
+（bug视频百度云链接如下：https://pan.baidu.com/s/1hrqxudy",[],未知,P0,审核不通过,2016-08-03 12:06:48,,12
+0,15412365,百度糯米V6.7.2自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,3点击会员规则后的问号图标按键，点击后没有反应，无法进入查看规则详情。,"1打开软件，点击我的；2点击会员权益；3点击会员规则后的问号图标按键，点击后没有反应，无法进入查看规则详情。
+（bug视频百度云链接如下：https://pan.baidu.com/s/1qxjwdi0",[],未知,P0,审核不通过,2016-08-03 12:12:05,,12
+0,15412365,百度糯米V6.7.2自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,前提是使用未绑定手机号的百度账号登陆百度糯米，在绑定手机界面下方会自动跳出来一些广告，在手机号处输入一个手机号后，点击获取短信验证码，界面会自动的跳转到一些不相关的广告界面，且无法接受到短信验证码。,"1前提是使用未绑定手机号的百度账号登陆百度糯米，打开软件，点击我的；2点击信用卡开卡；3点击热门推荐下方任意信用卡后的立即申请；4在绑定手机的界面下方会自动跳出来一些广告，在手机号处输入一个手机号后，点击获取短信验证码，界面会自动的跳转到一些不相关的广告界面，且无法接受到短信验证码。
+（ｂｕｇ视频百度云链接如下：https://pan.baidu.com/s/1degoin3",[],未知,P0,审核不通过,2016-08-03 12:13:40,,8
+0,17155400,百度糯米V6.7.2自由测试,云南省|德宏傣族景颇族自治州|梁河县|龙兴路|,vivo  vivo X3V,Android 4.4.2,WIFI,中国电信,KVT49L dev-keys,在浏览商家时，出现卡顿,"1·打开糯米
+2·选择一个商家，进行浏览查看，然后就被卡住了，整个页面都不能动（不是必现，三次中只有一次）
+3·提一个小建议吧，就是那些商家提供的图片都没有放大功能，不能详细的查看图片，我觉得，如果能详细查看图片会更好","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34065088_%E6%88%AA%E5%B1%8F_2016-07-29-15-14-32.png""]",未知,P0,审核不通过,2016-08-03 11:26:26,,6
+0,17222895,百度糯米V6.7.2自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,附近模块进行搜索存在的数据时却搜索不到。,"1.打开app
+2.登录账号
+3.点击底部菜单附近，进入“附近”页面，进行搜索“长融水世界”
+
+预期结果：搜索出附近的商家
+实际结果：搜索不到附近的商家
+bug视频地址：http://pan.baidu.com/s/1o8gm7o2","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34058182_QQ%E5%9B%BE%E7%89%8720160729141955.png""]",未知,P0,审核不通过,2016-08-03 10:59:08,,5
+0,17222895,百度糯米V6.7.2自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,附近模块点击销量排序时，附近的商家没有按已售出进行排序，,"1.打开app 2.登录账号 3.点击底部菜单附近，进入“附近”页面，点击综合排序选择按销量优先。   预期结果：以销量最高的店进行排序    实际结果:没有按已售最高来排序。
+
+bug视频地址1：http://pan.baidu.com/s/1nvpkpjn
+bug视频地址2：http://pan.baidu.com/s/1dfa7yxn","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34059052_QQ%E5%9B%BE%E7%89%8720160729142906.png""]",未知,P0,审核不通过,2016-08-03 11:00:40,,5
+0,17222895,百度糯米V6.7.2自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,精选模块不能查看最近的精选商品,"1.打开app
+2.点击底部菜单精选
+3.查看精选页面
+预期结果：查看当日精选商品
+实际结果：只能查看23，24号的商品
+视频地址：http://pan.baidu.com/s/1hremfyk","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34059431_L5_FIKJW2SZ41K3H4TS7%5BDV.png""]",未知,P0,审核不通过,2016-08-03 11:01:51,,6
+0,17222895,百度糯米V6.7.2自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,筛选酒店时选中多个价格，价格优先时没有按最高价格排序,1.打开app 2.点击底部菜单首页 3.点击酒店--------------将排序切换为高价优先，按逐步按增加价格范围筛选酒店。 预期结果：酒店列表将以最高的价格范围进行排序 实际结果：酒店列表以第一个价格范围进行排序 。视频地址：http://pan.baidu.com/s/1qyb6xog,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34060194_%5BXW%29G2F%25UAE%299HMHSR43T%25J.png""]",未知,P0,审核通过,2016-08-05 10:00:01,,5
+0,17222895,百度糯米V6.7.2自由测试,广西壮族自治区|钦州市|钦南区|蓬莱南大道|,Coolpad  Coolpad 8297-T01,Android 4.4.4,WIFI,中国移动,4.4.049.P0.8297-T01,智能机器人窗口点击右上角人工客服无反应,"1.打开app
+2.登录账号
+3.底部菜单我的-------------点击帮助与反馈，进入""帮助与反馈""页面
+4.点击在线客服，进入”智能机器人“界面--------点击最右上角人工客服。
+预期结果：窗口转接到人工客服
+实际结果：点击人工客服后无反应。
+视频地址：http://pan.baidu.com/s/1mimwswk","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34060668_YIGL7F9GHSA93%601BQNVB1XI.png""]",未知,P0,审核不通过,2016-08-03 11:25:43,,12
+0,17251399,百度糯米V6.7.2自由测试,山东省|滨州市|博兴县|S319(广青路)|,vivo  vivo Y23L,Android 4.4.4,WIFI,中国移动,KTU84P dev-keys,”我的“选项，下滑到最底下，有一片空白，我用别的app一般都是下滑到最底下有空白，但是会立即弹上来，而”百度糯米“却不会。,"1.打开软件
+2.点击”我的“选项
+3.下滑到最底下不会弹上来","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34068641_%E6%88%AA%E5%B1%8F_2016-07-29-16-15-43.png""]",未知,P0,审核不通过,2016-08-03 11:26:48,,11
+0,17306849,百度糯米V6.7.2自由测试,湖南省|株洲市|炎陵县|神农大道|,samsung  SM-G7109,Android 4.3,WIFI,中国电信,JLS36C.G7109KEUBNE2,县城一级只提供了宾馆和少部分餐饮，ktv休闲、电影完全没有。,"县城一级只提供了宾馆和少部分餐饮，ktv休闲、电影完全没有。
+特别是小餐饮店比大众点评少好多。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34055916_Screenshot_2016-07-29-13-20-53.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34055928_Screenshot_2016-07-29-13-30-33.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34055934_Screenshot_2016-07-29-13-42-46.png""]",未知,P0,审核不通过,2016-08-03 10:32:26,,13
+0,17338564,百度糯米V6.7.2自由测试,上海市|上海市|浦东新区|X001(杨高南路)|,Xiaomi  2014011,Android 4.4.2,WIFI,中国移动,HM.KK.M12.V009.XM,在“登录”功能页，使用第三方qq授权登录，在等待“授权信息加载中”过后，没有弹出qq授权页面。,"1、进入app，点击“我的”功能键，进入“我的”功能键，再点击“立即登录”功能键，进入“短信验证登录”功能页
+2、点击“短信验证登录”功能页的第三方登录的“qq登录”功能键 
+3、在“qq登录”功能页，看到有“授权信息加载中”的进度提示 
+4、预期结果：在“授权信息加载中”的 的进度提示结束后，应弹出相对应的qq 授权登录的信息 
+5、实际结果：没有弹出相对应的qq授权登录的信息
+
+备注：此前测试其他找茬任务的时候也出现过同样的bug","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34063913_QQ%E5%9B%BE%E7%89%8720160729152212.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34063925_QQ%E5%9B%BE%E7%89%8720160729152226.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34063932_QQ%E5%9B%BE%E7%89%8720160729152048.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34063964_QQ%E5%9B%BE%E7%89%8720160729152230.png""]",未知,P0,审核不通过,2016-08-03 11:26:18,,11
+0,17354206,百度糯米V6.7.2自由测试,山东省|东营市|东营区|北一路|,vivo  vivo V3Max A,Android 5.1.1,WIFI,中国电信,LMY47V release-keys,在app里打开新客专享的时候，就会出现“调整姿势，再试一次！”这些文字，其他的我看都可以。,首先打开百度糯米app，进入主页面之后，就会有个新客专享的标题键，我点开了那个标题键，里面就显示“调整姿势，再来一次！”的这些字，其他都还好我看。,[],未知,P0,审核不通过,2016-08-03 10:31:52,,11
+0,17360670,百度糯米V6.7.2自由测试,重庆|重庆,Meizu  MX4 Pro,Android 5.1.1,MOBILE LTE,中国移动,Flyme 5.1.5.0A,以前使用糯米都能定位，最近两天使用无法定位了。,"1.打开软件，进行账号登陆
+2.搜索附近的美食和电影院
+3.进行多次定位，无法准确定位
+4.只能定位到主城，无法定位居住附近。（以前都能）","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34103690_S60730-031846.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34103715_S60730-032909.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34103717_S60730-032832.jpg""]",未知,P0,审核不通过,2016-08-03 12:25:36,,7
+0,17390213,百度糯米V6.7.2自由测试,贵州省|黔东南苗族侗族自治州|麻江县|步行街|,samsung  SM-A9000,Android 6.0.1,WIFI,中国移动,MMB29M.A9000ZCU1BPE2,点击频道对应的分类模块不对，点击美食，在美食页面点击自助餐对应的是全部分类的模块，而且显示的全是酒店,"1、打开百度糯米，进入美食频道
+2、点击自助餐
+3、显示的不是对应的自助餐分类，而是全部分类，而且显示的全部是酒店信息","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34052456_Screenshot_20160729-123305.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34052457_Screenshot_20160729-123310.png""]",未知,P0,审核不通过,2016-08-03 10:30:46,,1
+0,17390213,百度糯米V6.7.2自由测试,贵州省|黔东南苗族侗族自治州|麻江县|步行街|,samsung  SM-A9000,Android 6.0.1,WIFI,中国移动,MMB29M.A9000ZCU1BPE2,点击频道对应的分类模块不对，点击烧烤，在美食页面点击自助餐对应的是全部分类的模块，而且显示的全是酒店,1、打开百度糯米，进入美食频道 2、点击烧烤 3、显示的不是对应的烧烤分类，而是全部分类，而且显示的全部是酒店信息,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34052674_Screenshot_20160729-123305.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34052682_Screenshot_20160729-123310.png""]",未知,P0,审核不通过,2016-08-03 10:30:56,,1
+0,17390213,百度糯米V6.7.2自由测试,贵州省|黔东南苗族侗族自治州|麻江县|步行街|,samsung  SM-A9000,Android 6.0.1,WIFI,中国移动,MMB29M.A9000ZCU1BPE2,点击频道对应的分类模块不对，点击烧烤，在美食页面点击火锅对应的是全部分类的模块，而且显示的全是酒店,1、打开百度糯米，进入美食频道 2、点击火锅 3、显示的不是对应的火锅分类，而是全部分类，而且显示的全部是酒店信息,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34052724_Screenshot_20160729-123305.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34052725_Screenshot_20160729-123310.png""]",未知,P0,审核不通过,2016-08-03 10:31:01,,1
+0,17394051,百度糯米V6.7.2自由测试,江苏省|苏州市|吴江区|中山北路|,vivo  vivo X5Max S,Android 4.4.4,WIFI,中国移动,ALPS.KK2.MP13.V1.1,在一分钱专享页面购买所推荐商品，会赠送嗨茶网20元优惠券。在个人中心不可查看。,"1、打开软件，点击“我的”
+2、百度钱包——   一分钱专享
+3、今日推荐商品——立即享有，通过支付完成购买
+4、在专享页面查看“我的优惠券”
+5、页面显示没有优惠券","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34117630_1.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34117633_2.png""]",未知,P0,审核不通过,2016-08-03 12:28:43,,6

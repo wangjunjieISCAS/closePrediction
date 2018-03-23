@@ -1,0 +1,121 @@
+case编号,用户id,case标题,地域,机型,操作系统,网络环境,运营商,ROM信息,bug详情,复现步骤,截图,是否未知,优先级,审核状态,提交时间,,重复情况
+0,851370,BaseLibraryV1.0自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击最下方“我的”，点击头像进入个人信息页面，昵称一栏中当输入较大字符数时，右上方保存按钮消失，无法保存修改后的昵称,打开app后点击最下方“我的”，点击头像进入个人信息页面，昵称一栏中当输入较大字符数时，右上方保存按钮消失，无法保存修改后的昵称,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34271564_1.jpg""]",未知,P0,审核通过,2016-08-04 10:00:03,,5
+0,851370,BaseLibraryV1.0自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击最下方“我的”，点击头像进入个人信息页面，生日一栏中能输入当前日期以后的日子，如图：2016-12-02,打开app后点击最下方“我的”，点击头像进入个人信息页面，生日一栏中能输入当前日期以后的日子，如图：2016-12-02,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34271649_2.jpg""]",未知,P0,审核通过,2016-08-04 10:00:03,,10
+0,851370,BaseLibraryV1.0自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击下方“租车”，跳转页面点击左上方定位，点击无反应,打开app后点击下方“租车”，跳转页面点击左上方定位，点击无反应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34272078_3.jpg""]",未知,P0,审核通过,2016-08-04 10:00:03,,8
+0,851370,BaseLibraryV1.0自由测试,四川省|南充市|南部县|晓霞路|31号,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,打开app后点击下方“租车”，跳转页面点击“一键租车”，随后一路点击下去，点到确认订单页面，下拉到最下端点击《租车预定条款》，跳转页面白屏无内容,打开app后点击下方“租车”，跳转页面点击“一键租车”，随后一路点击下去，点到确认订单页面，下拉到最下端点击《租车预定条款》，跳转页面白屏无内容,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34272218_4.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34272220_5.jpg""]",未知,P0,审核通过,2016-08-04 10:00:03,,13
+0,1133707,BaseLibraryV1.0自由测试,河南省|郑州市|惠济区|大河路|,Lenovo  Lenovo K30-T,Android 4.4.4,WIFI,中国移动,VIBEUI_V2.0_1511_7.13.1_DEV_K3,禁止获取位置信息，但是还能定位,进入程序时选禁止获取位置信息，介是登录后，仍然可以定位到所在位置,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34272022_1.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34272026_2.png""]",未知,P0,审核不通过,2016-08-02 06:43:41,,8
+0,1133707,BaseLibraryV1.0自由测试,河南省|郑州市|惠济区|大河路|,Lenovo  Lenovo K30-T,Android 4.4.4,WIFI,中国移动,VIBEUI_V2.0_1511_7.13.1_DEV_K3,使用注册的手机获取找回密码的验证码，可以用其它手机进行下一步,打开找回密码界面，用已注册过的手机获取验证码，然后修改手机号码，把得到的验证码输入，可以点下一步进入修改密码界面。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34272321_1.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34272326_2.png""]",未知,P0,审核不通过,2016-08-02 13:28:20,,12
+0,2182072,BaseLibraryV1.0自由测试,辽宁省|锦州市|古塔区|工学里|124-93,Huawei  HUAWEI G750-T01,Android 4.2.2,WIFI,中国移动,G750-T01 V100R001CHNC00B152,打开软件，点击左上角图标，无反应，无法切换城市。,打开软件，点击左上角图标，无反应，无法切换城市。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34279261_Screenshot_2016-08-01-16-43-35.jpeg""]",未知,P0,审核通过,2016-08-04 10:00:03,,6
+0,3052264,BaseLibraryV1.0自由测试,安徽省|亳州市|涡阳县|X021|,nubia  NX513J,Android 5.0.2,WIFI,中国移动,NX513J_CNCommon_V4.01,注册时对密码长度限制，修改密码时不限制密码长度,"1、打开软件，注册账号，密码要求至少6位；
+2、登录软件后，进入“我的”页面，之后再进入“修改密码”页面；
+3、输入旧密码，之后输入新密码，再输入新密码时只输入1位，如：数字'1'，输入两次新密码，点击“确认”按钮；
+4、提示密码修改成功，注销账号，使用新密码登录，可以正常登录。
+5、反复试验多次，每一次密码长度都可以修改为1-5位。",[],未知,P0,审核通过,2016-08-04 10:00:03,,2
+0,3052264,BaseLibraryV1.0自由测试,安徽省|亳州市|涡阳县|X021|,nubia  NX513J,Android 5.0.2,WIFI,中国移动,NX513J_CNCommon_V4.01,修改密码成功后无提示,"登录软件进入“我的”页面，之后再进入“修改密码”页面：
+1、输入旧密码，如：123456；
+2、在两个新密码输入框中，输入旧密码，如：123456；
+3、点击“确认”按钮，提示新密码与旧密码不能相同；
+4、之后在两个新密码输入框中，输入新密码，如：456789；
+5、点击“确认”按钮，此时没有修改成功提示，界面仍停留在“修改密码”页面；
+6、注销账号，重新登录，使用旧密码，提示密码错误；使用新密码登录，能够正常登录。",[],未知,P0,审核不通过,2016-08-02 13:18:31,,2
+0,3052264,BaseLibraryV1.0自由测试,安徽省|亳州市|涡阳县|X021|,nubia  NX513J,Android 5.0.2,WIFI,中国移动,NX513J_CNCommon_V4.01,个人信息页面，昵称修改问题,"登录软件，进入“个人信息”页面：
+1、点击昵称选项，输入昵称信息；
+2、输入完毕后，未点击右上角“保存”按钮，而是点击下方性别选项，设置性别；
+3、性别设置完毕后，右上角“保存”按钮消失，昵称选项出显示有步骤1中输入的昵称信息；
+4返回上一级界面，再次回到个人信息页面，此时昵称选项显示为未设置；
+
+建议修改为，在昵称输入完毕后，未点击保存按钮，直接点击其他选项或者空白处时，默认保存昵称信息。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34271424_Screenshot_2016-08-01-14-34-02.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34271428_Screenshot_2016-08-01-14-35-59.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,5
+0,3052264,BaseLibraryV1.0自由测试,安徽省|亳州市|涡阳县|X021|,nubia  NX513J,Android 5.0.2,WIFI,中国移动,NX513J_CNCommon_V4.01,界面上的英文是否有问题,首次使用软件时会出现部分风景页面，其中一幅页面中有英文词语commecting with the word，通过搜索发现其中commecting一词使用有误，请查证确认。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34272352_Screenshot_2016-08-01-14-07-42.png""]",未知,P0,审核不通过,2016-08-02 06:50:54,,4
+0,6783508,BaseLibraryV1.0自由测试,重庆市|重庆市|渝北区|松石路|150号,vivo  vivo X5Max L,Android 4.4.4,WIFI,中国移动,KTU84P dev-keys,【我的订单】——取消订单 取消原因选择了以后 点击确认取消 显示取消失败,"测试设备：vivo x5max 版本：android4.4.4 网络：wifi
+ 步骤重现：1.打开并登录app进入界面 
+2.点击【我的】进入【我的订单】 
+3.取消订单 取消原因选择了以后 点击确认取消 显示取消失败
+预期结果：正确的取消所选订单 实际结果：取消失败","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34274866_1.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,0
+0,6783508,BaseLibraryV1.0自由测试,重庆市|重庆市|渝北区|松石路|150号,vivo  vivo X5Max L,Android 4.4.4,WIFI,中国移动,KTU84P dev-keys,【租车】左上角 点击所定位置按钮 无反应,"测试设备：vivo x5max 版本：android4.4.4 网络：wifi 
+步骤重现：1.打开并登录app进入界面 
+2.点击【租车】左上角所定位置按钮 无反应
+ 预期结果：进入自己所在位置地图 实际结果：点击无反应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34275083_2.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,8
+0,7287803,BaseLibraryV1.0自由测试,云南省|昆明市|呈贡区|双龙路|65,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,使用横向照片添加头像时，app崩溃,手机自动旋转屏幕打开。1.打开app并登陆。2.点击我的，点击头像的扩展按钮进入个人信息界面。3.点击头像，使用相机，横向手机拍照，拍完照片，点击确定剪裁后，app崩溃。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34279239_1.jpeg""]",未知,P0,审核不通过,2016-08-02 13:00:17,,11
+0,7287803,BaseLibraryV1.0自由测试,云南省|昆明市|呈贡区|双龙路|65,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,修改密码功能可以将密码修改为1位,1.打开app并登陆。2.点击我的，在个人信息界面，点击修改密码。3.输入原密码123456，新密码1，确认密码1，修改成功。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34279275_2.jpeg""]",未知,P0,审核通过,2016-08-04 10:00:03,,2
+0,7287803,BaseLibraryV1.0自由测试,云南省|昆明市|呈贡区|双龙路|65,Huawei  HUAWEI C8817E,Android 4.4.4,WIFI,中国电信,C8817EV100R001C92B241,生日可以设置为当前时间之后,1.打开app并登陆。2.点击我的，在个人信息界面，生日可以设置为当前时间之后,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34279303_3.jpeg""]",未知,P0,审核通过,2016-08-04 10:00:03,,10
+0,8033124,BaseLibraryV1.0自由测试,广东省|广州市|从化市|碧泉路|15号,Huawei  PE-TL10,Android 6.0,WIFI,中国联通,EMUI4.0_PE-TL10_6.7.16,修改个人信息界面，“保存”按钮问题建议,"1、打开软件；
+2、切换到“我的”界面；
+3、点击修改个人信息，进入修改信息界面；
+4、“保存”按钮只有切换到“昵称”栏才显示，切换到“性别”、“生日”都不显示，用会不注意保存就返回到前一个界面；
+5、建议“保存”按钮一直显示。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282664_QQ%E5%9B%BE%E7%89%8720160801182238.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282668_QQ%E5%9B%BE%E7%89%8720160801182244.jpg""]",未知,P0,审核通过,2016-08-04 10:00:03,,5
+0,8033124,BaseLibraryV1.0自由测试,广东省|广州市|从化市|碧泉路|15号,Huawei  PE-TL10,Android 6.0,WIFI,中国联通,EMUI4.0_PE-TL10_6.7.16,下单后，无法取消订单，显示“取消失败”,"1、打开软件；
+2、选择“ 一键租车”，正常填写信息后完成租车；
+3、进入“我的订单”界面，点击“取消订单”；
+4、显示”取消失败“；","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282715_QQ%E5%9B%BE%E7%89%8720160801182551.jpg""]",未知,P0,审核通过,2016-08-04 10:00:03,,0
+0,9742256,BaseLibraryV1.0自由测试,湖南|长沙,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,注册时，当验证码输入错误时，提交后无任何提示信息,"1、注册，输入手机号，获取验证码605735，输入密码。 
+2、验证码栏输入 111111，点击确定， 页面无响应，没有任何提示信息弹出。
+期望值： 应弹出信息提示 “验证码错误”","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34271411_QQ%E6%88%AA%E5%9B%BE20160801143619.png""]",未知,P0,审核不通过,2016-08-02 12:55:55,,12
+0,9742256,BaseLibraryV1.0自由测试,湖南|长沙,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,上传头像时，弹出错误信息，上传失败,"1、登录，进入我的 - 点击头像进入个人信息页
+2、点击头像进行头像上传，选择一张照片确定上传后，弹出错误信息提示。上传失败
+3、该错误现象前两次操作时出现，后来又回复正常","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34271528_QQ%E6%88%AA%E5%9B%BE20160801143824.png""]",未知,P0,审核不通过,2016-08-02 13:37:24,,11
+0,9742256,BaseLibraryV1.0自由测试,湖南|长沙,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,生日可以设置为当前日期之后的时间,1、个人信息页，设置生日信息，可以设置为设置为当前日期之后的时间，并成功保存,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34271559_QQ%E6%88%AA%E5%9B%BE20160801144158.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,10
+0,9742256,BaseLibraryV1.0自由测试,湖南|长沙,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,找回密码时，当输入未注册的手机号获取验证码时，无任何提示,"1、找回密码页，输入一未注册的手机号，点发送验证码，无任何提示信息
+期望值： 应提示”该手机号未注册“","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34271965_QQ%E6%88%AA%E5%9B%BE20160801144839.png""]",未知,P0,审核不通过,2016-08-02 13:10:04,,12
+0,9742256,BaseLibraryV1.0自由测试,湖南|长沙,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,注册时明确要求密码最少6位，但登录后使用修改密码功能，可以设置1位数密码,"1、登录 - 我的 -头像 - 个人信息
+2、点修改密码，输入原密码以及1位数新密码，确认 。 修改成功","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34272126_QQ%E6%88%AA%E5%9B%BE20160801145139.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34272159_QQ%E6%88%AA%E5%9B%BE20160801145228.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,2
+0,9742256,BaseLibraryV1.0自由测试,湖南|长沙,Xiaomi  Redmi Note 3,Android 5.1.1,WIFI,中国联通,LMY47V,一键租车，租车价格不可用，无法完成租车操作,"1、租车页 - 一键租车
+2、立即选车 - 选择车型后提示价格不可用 ，无法完成租车操作","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34272313_QQ%E5%9B%BE%E7%89%8720160801145609.png""]",未知,P0,审核不通过,2016-08-02 13:17:18,,13
+0,11100923,BaseLibraryV1.0自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,mobile LTE,中国移动,JDQ39B,注册登录-我的-个人信息-昵称可以输入空格能够正常保存,注册登录-我的-个人信息-昵称可以输入空格能够正常保存,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34269788_Screenshot_2016-08-01-14-09-38.png""]",未知,P0,审核不通过,2016-08-02 12:46:55,,5
+0,11100923,BaseLibraryV1.0自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,mobile LTE,中国移动,JDQ39B,注册登录-我的-个人信息-生日信息可以选择未来时间并保存,注册登录-我的-个人信息-生日信息可以选择未来时间并保存,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34269842_Screenshot_2016-08-01-14-09-38.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,10
+0,11100923,BaseLibraryV1.0自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,mobile LTE,中国移动,JDQ39B,注册-登录-租车-页面线路推荐点击无反应，功能无法使用,注册-登录-租车-页面线路推荐点击无反应，功能无法使用,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34269913_Screenshot_2016-08-01-14-12-45.png""]",未知,P0,审核不通过,2016-08-02 12:49:03,,3
+0,11100923,BaseLibraryV1.0自由测试,四川省|广安市|广安区|S304(广前公路)|,lge  LG-E985T,Android 4.2.2,mobile LTE,中国移动,JDQ39B,注册-登录-路书-进入某一路书详情页，图片介绍文字排版显示问题，需要优化,注册-登录-路书-进入某一路书详情页，图片介绍文字排版显示问题，需要优化,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34270072_Screenshot_2016-08-01-14-13-27.png""]",未知,P0,审核不通过,2016-08-02 06:40:45,,9
+0,14452258,BaseLibraryV1.0自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击我的
+2点击头像旁的>
+3设置生日为未来的时间成功","1首页点击我的
+2点击头像旁的>
+3设置生日为未来的时间成功","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34292163_Screenshot_2016-08-01-23-14-34.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,10
+0,14452258,BaseLibraryV1.0自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击我的
+2点击头像旁的>
+3点击修改密码，app注册时要求至少6位，此时修改可以改为一位密码，成功","1首页点击我的
+2点击头像旁的>
+3点击修改密码，app注册时要求至少6位，此时修改可以改为一位密码，成功","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34292267_Screenshot_2016-08-01-23-18-49.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,2
+0,14452258,BaseLibraryV1.0自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击一键租车
+2设置门店拉萨贡嘎机场，立即去选车
+3可以看到一汽丰田普拉多价格0，点击筛选，设置价格区间可以为1000-0，确定无结果，价格区间可以非正常设置，并不是由高到低，而且即使这样设置搜索，也没有搜到到0元的一汽丰田普拉多","1首页点击一键租车
+2设置门店拉萨贡嘎机场，立即去选车
+3可以看到一汽丰田普拉多价格0，点击筛选，设置价格区间可以为1000-0，确定无结果，价格区间可以非正常设置，并不是由高到低，而且即使这样设置搜索，也没有搜到到0元的一汽丰田普拉多","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34292429_Screenshot_2016-08-01-23-28-01.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34292430_Screenshot_2016-08-01-23-29-24.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,13
+0,14452258,BaseLibraryV1.0自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击路书
+2点击探寻阿里首发自驾活动，可以看到上方的发布时间是2016.7.30 17：0，“17：0”明显表示错误","1首页点击路书
+2点击探寻阿里首发自驾活动，可以看到上方的发布时间是2016.7.30 17：0，“17：0”明显表示错误","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34292454_Screenshot_2016-08-01-23-34-17.png""]",未知,P0,审核不通过,2016-08-02 06:54:27,,7
+0,14452258,BaseLibraryV1.0自由测试,山西省|太原市|迎泽区|新泽巷|3号,Xiaomi  HM NOTE 1W,Android 4.2.2,WIFI,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击路书
+2点击任意信息，后退可以看到浏览数字没有变化","1首页点击路书
+2点击任意信息，后退可以看到浏览数字没有变化","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34292460_Screenshot_2016-08-01-23-34-14.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,7
+0,14867488,BaseLibraryV1.0自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,进入软件登录帐号，点我的，点帐号，点生日，生日没有限定，可以选择以后的日期。,进入软件登录帐号，点我的，点帐号，点生日，生日没有限定，可以选择以后的日期。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34276525_Screenshot_2016-08-01-15-57-17.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,1
+0,14867488,BaseLibraryV1.0自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,进入软件登录帐号，点我的，点帐号，点昵称，填写昵称后，再进入帐号，写好的昵称不见了。,进入软件登录帐号，点我的，点帐号，点昵称，填写昵称后，再进入帐号，写好的昵称不见了。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34276605_Screenshot_2016-08-01-16-03-35.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34276610_Screenshot_2016-08-01-15-57-17.png""]",未知,P0,审核不通过,2016-08-02 13:16:23,,1
+0,14867488,BaseLibraryV1.0自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,进入软件登录帐号，点路书，点搜索，输入搜索内容，点右侧放大镜按钮，无法完成搜索。,进入软件登录帐号，点路书，点搜索，输入搜索内容，点右侧放大镜按钮，无法完成搜索。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34277580_Screenshot_2016-08-01-16-13-48.png""]",未知,P0,审核不通过,2016-08-02 13:21:56,,4
+0,14867488,BaseLibraryV1.0自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,进入软件登录帐号，点租车，点一键租车，填写时间等相关信息，点立即选择，列表里只有一辆车可以选。,进入软件登录帐号，点租车，点一键租车，填写时间等相关信息，点立即选择，列表里只有一辆车可以选。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34278143_Screenshot_2016-08-01-16-23-36.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34278145_Screenshot_2016-08-01-16-23-42.png""]",未知,P0,审核不通过,2016-08-02 13:24:06,,1
+0,14867488,BaseLibraryV1.0自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,进入软件登录帐号，点租车，点一键租车，填写时间等相关信息，点立即选择，点车，点到店价格，点立即预定，填写姓名，点下一步确认订单，租车预定条款点击白屏无法查看相关内容。,进入软件登录帐号，点租车，点一键租车，填写时间等相关信息，点立即选择，点车，点到店价格，点立即预定，填写姓名，点下一步确认订单，租车预定条款点击白屏无法查看相关内容。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34278267_Screenshot_2016-08-01-16-27-46.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34278273_Screenshot_2016-08-01-16-27-49.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,1
+0,14867488,BaseLibraryV1.0自由测试,福建省|漳州市|华安县|S208|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,进入软件登录帐号，点我的，点我的订单，点取消订单，点确认，填写原因，说明，点确认取消，提示取消失败。,进入软件登录帐号，点我的，点我的订单，点取消订单，点确认，填写原因，说明，点确认取消，提示取消失败。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34278361_Screenshot_2016-08-01-16-29-17.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34278363_Screenshot_2016-08-01-16-29-00.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,0
+0,14940938,BaseLibraryV1.0自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,1 登录界面→忘记密码→输入手机号→发送验证码，点击无效。,1 登录界面→忘记密码→输入手机号→发送验证码，点击无效。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282159_1945255E7B9BFC79D35A4BEBE653C103.JPG""]",未知,P0,审核不通过,2016-08-02 13:02:57,,12
+0,14940938,BaseLibraryV1.0自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,2 我的→头像→顶部头像栏→生日，生日设置成未来时，可以成功保存。如：2016.12.31.,2 我的→头像→顶部头像栏→生日，生日设置成未来时，可以成功保存。如：2016.12.31.,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282173_EC8715EAC5A17E1BA9A951021E7AAC6F.JPG""]",未知,P0,审核通过,2016-08-04 10:00:03,,10
+0,14940938,BaseLibraryV1.0自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,3 我的→设置→意见反馈→点击输入框后，调出输入法的键盘遮挡输入框，输入的文字无法显示。,3 我的→设置→意见反馈→点击输入框后，调出输入法的键盘遮挡输入框，输入的文字无法显示。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282175_D7C2DD037A24CFE05F9FE5B13330B69E.JPG""]",未知,P0,审核不通过,2016-08-02 13:25:28,,9
+0,14940938,BaseLibraryV1.0自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,4 租车→门店查询，点击门店查询，跳转地图界面卡顿，滑动地图出现软件崩溃，退出。,4 租车→门店查询，点击门店查询，跳转地图界面卡顿，滑动地图出现软件崩溃，退出。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282178_32D99D6DD92C595C84A6592E5492279F.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282182_DDED91AB306D0FC2CB322A5A05A4163F.JPG""]",未知,P0,审核不通过,2016-08-02 13:31:58,,6
+0,14940938,BaseLibraryV1.0自由测试,河北省|石家庄市|长安区|和平东路|524号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,5 租车→一键租车→立即去选车→筛选→品牌选择，点击无效，不能选择品牌。,5 租车→一键租车→立即去选车→筛选→品牌选择，点击无效，不能选择品牌。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282197_57956B9019A475CF3DEACC43403D62DD.JPG""]",未知,P0,审核不通过,2016-08-02 13:32:29,,13
+0,15412365,BaseLibraryV1.0自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,个人信息界面，点击生日，选择未来时间，可以修改成功。,打开软件，点击我的，点击昵称进入个人信息界面，点击生日，选择未来时间，可以修改成功。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34280617_Screenshot_2016-08-01-17-15-27.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,10
+0,15412365,BaseLibraryV1.0自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,"点击修改密码，旧密码输入“..”,新密码和确认密码均输入“.”后点击确认，界面没有反应，也没有提示密码格式错误或者旧密码填写错误的相关提示信息。","打开软件，点击我的，点击昵称进入个人信息界面，点击修改密码，旧密码输入“..”,新密码和确认密码均输入“.”后点击确认，界面没有反应，也没有提示密码格式错误或者旧密码填写错误的相关提示信息。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34280726_Screenshot_2016-08-01-17-16-55.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,2
+0,15412365,BaseLibraryV1.0自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,租车确认订单界面中点击下方的《租车预订条款》，进入时白屏，无法查看条款详情内容。,打开软件，点击租车，点击一键租车，选择好取车和还车的门店后点击立即去选车，选择好车后点击到店价格，点击立即预定，编辑好预约人信息后点击“下一步，确认订单”，点击下方的《租车预订条款》，进入时白屏，无法查看条款详情内容。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34281706_Screenshot_2016-08-01-17-42-03.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34281707_Screenshot_2016-08-01-17-42-10.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,13
+0,15412365,BaseLibraryV1.0自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,租车成功后无法取消订单，显示“取消失败”的提示信息。,打开软件，点击租车，点击一键租车，选择好取车和还车的门店后点击立即去选车，选择好车后点击到店价格，点击立即预定，编辑好预约人信息后点击“下一步，确认订单”，点击确认，进入预定成功界面，点击查看订单详情，点击取消订单，点击确定，编辑好信息后点击“确认取消”，出现取消失败的提示信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34281839_Screenshot_2016-08-01-17-28-24.png""]",未知,P0,审核不通过,2016-08-02 06:49:20,,0
+0,15412365,BaseLibraryV1.0自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,租车界面里的线路推荐下的线路资讯浏览次数和点击进入查看此线路详情界面中的浏览次数不一致。,打开软件，点击租车，点击线路推荐下方的第一个资讯进入，进入后发现浏览次数再增加，再返回租车界面发现浏览次数仍然没有变化，拉动屏幕刷新界面后也没有变化。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34281937_Screenshot_2016-08-01-17-33-17.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34281938_Screenshot_2016-08-01-17-33-12.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,3
+0,15412365,BaseLibraryV1.0自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,租车界面中，点击左上角的地点图标按键，点击后没有反应，但是点击右侧的电话图标则可以进入。,打开软件，点击租车，点击左上角的地点图标按键，点击后没有反应，但是点击右侧的电话图标则可以进入。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282025_Screenshot_2016-08-01-17-55-30.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,6
+0,15412365,BaseLibraryV1.0自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,路书界面中，点击上方的搜索框，输入汉字“和”点击搜索，界面中出现白屏，没有其他相关提示信息。,打开软件，点击路书，点击上方的搜索框，输入汉字“和”点击搜索，界面中出现白屏，没有其他相关提示信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282129_Screenshot_2016-08-01-17-57-37.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,4
+0,15412365,BaseLibraryV1.0自由测试,江苏省|南京市|栖霞区|鸿雁路|,HONOR  PLK-TL01H,Android 5.0.2,WIFI,中国移动,PLK-TL01HC01B211,反馈界面，在输入框内输入空格键后点击发送，界面没有发送此信息且也没有出现相关提示信息。,打开软件，点击我的，点击设置，点击意见反馈，在输入框内输入空格键后点击发送，界面没有发送此信息且也没有出现相关提示信息。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282205_Screenshot_2016-08-01-17-59-48.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34282206_Screenshot_2016-08-01-18-00-45.png""]",未知,P0,审核不通过,2016-08-02 13:35:30,,11
+0,16635395,BaseLibraryV1.0自由测试,北京市|北京市|西城区|西便门内大街|53号院,samsung  GT-N7108D,Android 4.2.2,WIFI,无SIM卡,JDQ39.N7108DZMUAMJ2,选择任意路书微信分享，客户端闪一下后没有任何提示,"预置条件：测试机未安装微信客户端；
+1.打开客户端，注册登录成功；
+2.点击路书，进入路书界面；
+3.选择任意路书微信分享，客户端闪一下后没有任何提示，应给出相应的未安装微信客户端的提示","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34274454_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0801_15_24_01.png""]",未知,P0,审核不通过,2016-08-02 13:12:38,,7
+0,16635395,BaseLibraryV1.0自由测试,北京市|北京市|西城区|西便门内大街|53号院,samsung  GT-N7108D,Android 4.2.2,WIFI,无SIM卡,JDQ39.N7108DZMUAMJ2,个人信息修改界面点击修改密码后，右上角的保存按钮消失，无法保存,"1.打开客户端，登录成功后；
+2.选择我的，点击个人信息头像；
+3.进入到个人信息修改界面，编辑昵称后右上角显示保存按钮，再点击修改密码，进入修改密码界面，返回后，个人信息界面不显示保存按钮，无法保存修改的信息","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34274757_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0801_15_27_01.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34274763_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0801_15_29_01.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,5
+0,17115469,BaseLibraryV1.0自由测试,重庆市|重庆市|荣昌县|香国大道|,HONOR  PLK-AL10,Android 5.0.2,WIFI,unknown,PLK-AL10C00B211,用我的移动手机号码注册，可以收到验证码，但是填写好资料后 点击确定一直没有响应 ，用电信的号码注册可以,"1，进入软件 
+2， 在注册界面 按照步骤填写好资料 ，点击确认提交 没有响应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34279326_%E7%82%B9%E5%87%BB%E7%A1%AE%E8%AE%A4%E6%97%A0%E5%93%8D%E5%BA%94.png""]",未知,P0,审核不通过,2016-08-02 13:29:44,,12
+0,17199230,BaseLibraryV1.0自由测试,重庆市|重庆市|渝北区|星光大道|82号,vivo  vivo X6L,Android 5.1,WIFI,中国移动,LMY47I release-keys,路书页面刷新后封面显示的浏览次数和页面里的浏览次数不一致,设备：vivox6 网络：wifi 步骤重现： 1.登录进入系统首页2.点击路书，选择一个路书查看浏览次数，再点击进去查看浏览次数 3.下拉页面刷新,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34276582_IMG_20160801_160342.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34276586_%E6%88%AA%E5%B1%8F5.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,3
+0,17292096,BaseLibraryV1.0自由测试,广东省|惠州市|惠城区|YG59|,Coolpad  Coolpad 8675,Android 4.4.2,WIFI,中国移动,4.4.MIUI-KK/ERIC.Y,在设置界面，清理缓存只能点击右边部分才响应，点击清理缓存文字没有反应,"1.点击下方我的
+2.点击设置，点击清除缓存文字没有响应，点击缓存大小采用反应","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34271747_1.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34271752_2.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34271765_3.png""]",未知,P0,审核不通过,2016-08-02 06:50:03,,9
+0,17389617,BaseLibraryV1.0自由测试,江苏省|泰州市|兴化市|春达路|,GiONEE  GN5001S,Android 5.1,WIFI,中国联通,amigo3.1.7,地理位置无法更改，默认自动定位,"1.打开软件进去主页面
+2.自动定位当前所在城市
+3.地理位置无法更改","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/34270554_Screenshot_2016-08-01-14-30-05.png""]",未知,P0,审核通过,2016-08-04 10:00:03,,8

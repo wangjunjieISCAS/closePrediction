@@ -1,0 +1,117 @@
+case编号,用户id,case标题,地域,机型,操作系统,网络环境,运营商,ROM信息,bug详情,复现步骤,截图,是否未知,优先级,审核状态,提交时间,,重复情况
+0,531756,圆形V4.2.0自由测试,山西省|太原市|古交市|青山路|19,Coolpad  Coolpad 8675-A,Android 4.4.4,WIFI,中国移动,4.4.058.P0.150407.8675-A,我>设置>轨迹同步中，只要点击保存按钮以后（不管是否修改配置），app就会卡死。,我>设置>轨迹同步中，只要点击保存按钮以后（不管是否修改配置），app就会卡死。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30268517_Screenshot_2016-06-22-16-19-16_com.yx.straightline.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30268545_Screenshot_2016-06-22-16-19-19_com.yx.straightline.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30268583_Screenshot_2016-06-22-16-18-58_com.yx.straightline.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,7
+0,851370,圆形V4.2.0自由测试,四川省|南充市|南部县|S101|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,点击进入app后点击下方我，再点击梦想城跳转页面只能左右滑动，然后页面任何内容点击均无反应。,点击进入app后点击下方我，再点击梦想城跳转页面只能左右滑动，然后页面任何内容点击均无反应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30259631_1.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30259635_2.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30259637_3.jpg""]",未知,P0,审核通过,2016-06-25 10:00:03,,2
+0,851370,圆形V4.2.0自由测试,四川省|南充市|南部县|S101|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,点击进入app后点击下方聊天，再点击圆形团队，点击查看历史消息，跳转页面点击最下方的圆形官网，点击后不跳转，不能打开圆形官网。,点击进入app后点击下方聊天，再点击圆形团队，点击查看历史消息，跳转页面点击最下方的圆形官网，点击后不跳转，不能打开圆形官网。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30260733_4.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30260736_5.jpg""]",未知,P0,审核不通过,2016-06-23 18:55:33,,2
+0,851370,圆形V4.2.0自由测试,四川省|南充市|南部县|S101|,Xiaomi  Redmi Note 3,Android 5.0.2,WIFI,中国移动,LRX22G,点击进入app后点击下方商城，任意选择一样商品加入购物车，然后点击现在就去购物车，再点击去结算，跳转页面弹出定位失败的提示！而此时gps是开启，也允许app获取地理位置信息了的。,点击进入app后点击下方商城，任意选择一样商品加入购物车，然后点击现在就去购物车，再点击去结算，跳转页面弹出定位失败的提示！而此时gps是开启，也允许app获取地理位置信息了的。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30262108_6.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30262119_7.jpg""]",未知,P0,审核不通过,2016-06-23 18:58:41,,10
+0,1165965,圆形V4.2.0自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,个别滚动图片点击无反应，无法查看详情,1.打开软件并登录2.健康3.页面上部滚动图片 商城活动,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30287123_BaiduHi_2016-6-22_18-5-54.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,8
+0,1165965,圆形V4.2.0自由测试,甘肃省|白银市|景泰县|昌林路|,SAGA  A906,Android 5.1,WIFI,无SIM卡,SAGA_A906_V04_20151127-173807,轨迹同步开启关闭进行切换时，软件卡死无响应,1.打开软件并登录2.我3.设置4.轨迹同步5勾选 关闭6.保存,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30288764_BaiduHi_2016-6-22_18-16-27.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,7
+0,2590458,圆形V4.2.0自由测试,广东省|广州市|越秀区|解放南路|72号,Honor  Che2-UL00,Android 4.4.2,mobile HSPA+,中国联通,Che2-UL00 V100R001CHNC00B390,点击好友头像放大，一直在加载中。,打开软件，在有好友的情况下－底部聊天标签－好友－选择一个好友－点击好友头像－一直在加载中。华为4x ，wifi\联通4g，安卓4.4,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30265682_1.jpg""]",未知,P0,审核通过,2016-06-25 10:00:03,,6
+0,2590458,圆形V4.2.0自由测试,广东省|广州市|越秀区|解放南路|72号,Honor  Che2-UL00,Android 4.4.2,mobile HSPA+,中国联通,Che2-UL00 V100R001CHNC00B390,与圆形团队聊天界面，点击圆形官网无反应。,"打开软件－聊天－好友－图形团队－查看历史消息－底部圆形官网－无效果。
+华为4x ，wifi\联通4g，安卓4.4","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30266082_2.jpg""]",未知,P0,审核通过,2016-06-25 10:00:03,,6
+0,2590458,圆形V4.2.0自由测试,广东省|广州市|越秀区|解放南路|72号,Honor  Che2-UL00,Android 4.4.2,mobile HSPA+,中国联通,Che2-UL00 V100R001CHNC00B390,好友发过来的语音消息听不了。,让好友发条语音消息过来，点击无反应，且一至是未读状态。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30266509_QQ%E5%9B%BE%E7%89%8720160622161006.jpg""]",未知,P0,审核通过,2016-06-25 10:00:03,,6
+0,7287803,圆形V4.2.0自由测试,云南省|昆明市|呈贡区|双龙路|82号,Huawei  HUAWEI C8817E,Android 4.4.4,mobile LTE,中国电信,C8817EV100R001C92B241,搜索关键词中的搜索结果与关键词不匹配,"1.安装并打开app
+2.注册并登陆
+3.选择商城，在搜索框中输入关键词“电”，在搜索结果中出现的为自行车、","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30271663_1.jpeg""]",未知,P0,审核通过,2016-06-25 10:00:03,,4
+0,7287803,圆形V4.2.0自由测试,云南省|昆明市|呈贡区|双龙路|82号,Huawei  HUAWEI C8817E,Android 4.4.4,mobile LTE,中国电信,C8817EV100R001C92B241,收货地址管理中，点击定位按钮无响应,1.安装并打开app 2.注册并登陆 3.选择商城，在个人中心中增加收货地址，点击定位按钮无响应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30272383_2.jpeg""]",未知,P0,审核通过,2016-06-25 10:00:03,,0
+0,7287803,圆形V4.2.0自由测试,云南省|昆明市|呈贡区|双龙路|82号,Huawei  HUAWEI C8817E,Android 4.4.4,mobile LTE,中国电信,C8817EV100R001C92B241,在商城界面中，选择商品付款时，点击返回按钮，直接返回到商城首页。,在商城界面中，选择商品付款时，点击返回按钮，直接返回到商城首页，无法返回至上一页。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30272674_3.jpeg""]",未知,P0,审核通过,2016-06-25 10:00:03,,5
+0,7358634,圆形V4.2.0自由测试,河南省|郑州市|管城回族区|G220(郑汴路)|,ACTOMA  ACTOMA ACE,Android 5.0.2,WIFI,中国移动,ACE_3.2.16.B04_20160607,收货地址设置中，选择地区时，最下方的澳门特别行政区不能显示,"1、打开app，注册登录，点击商城
+2、点击右上角头像，进入个人中心，设置收货地址
+3、在选择地区时，最下方的澳门特别行政区不能显示","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30252264_QQ%E5%9B%BE%E7%89%8720160622144624.jpg""]",未知,P0,审核通过,2016-06-25 10:00:03,,0
+0,7358634,圆形V4.2.0自由测试,河南省|郑州市|管城回族区|G220(郑汴路)|,ACTOMA  ACTOMA ACE,Android 5.0.2,WIFI,中国移动,ACE_3.2.16.B04_20160607,“健康”界面中，最上方的四张滚动图中，最后两张点击都没有任何反应,打开app，点击“健康”在最上方的四张滚动图中，选择最后两张进行点击，点击后没有任何反应,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30252865_QQ%E5%9B%BE%E7%89%8720160622144619.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30252873_QQ%E5%9B%BE%E7%89%8720160622144614.jpg""]",未知,P0,审核通过,2016-06-25 10:00:03,,3
+0,14452258,圆形V4.2.0自由测试,山西省|太原市|杏花岭区|府西街|269号,Xiaomi  HM NOTE 1W,Android 4.2.2,mobile HSPA+,中国联通,JH3CN0.0-e8c490ca606638294c0cd,1注册时输入昵称，如果昵称比较长会遮挡图标,1注册时输入昵称，如果昵称比较长会遮挡图标,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30290137_Screenshot_2016-06-22-17-35-33.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,4
+0,14452258,圆形V4.2.0自由测试,山西省|太原市|杏花岭区|府西街|269号,Xiaomi  HM NOTE 1W,Android 4.2.2,mobile HSPA+,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击下方我
+2点击关于
+3点击反馈建议，输入笑脸符号（输入法为讯飞输入法6.1.3127），点击提交信息，提示操作失败","1首页点击下方我
+2点击关于
+3点击反馈建议，输入笑脸符号（输入法为讯飞输入法6.1.3127），点击提交信息，提示操作失败","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30290209_Screenshot_2016-06-22-17-39-28.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,10
+0,14452258,圆形V4.2.0自由测试,山西省|太原市|杏花岭区|府西街|269号,Xiaomi  HM NOTE 1W,Android 4.2.2,mobile HSPA+,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击下方商城
+2点击右上角头像
+3点击我的收货地址
+4点击新增一个收货地址
+5点击请选择地区，列表拖到最下方，可以看到香港特别行政区下还有一个地区没有显示出来，而且列表中并没有澳门特别行政区","1首页点击下方商城
+2点击右上角头像
+3点击我的收货地址
+4点击新增一个收货地址
+5点击请选择地区，列表拖到最下方，可以看到香港特别行政区下还有一个地区没有显示出来，而且列表中并没有澳门特别行政区","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30290267_Screenshot_2016-06-22-17-50-24.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,0
+0,14452258,圆形V4.2.0自由测试,山西省|太原市|杏花岭区|府西街|269号,Xiaomi  HM NOTE 1W,Android 4.2.2,mobile HSPA+,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击下方商城
+2点击上方滚动图片，阿胶块
+3输入购买数量100000,点击加入购入车，弹出窗口“填写的购买数量必须大于0小于99999”，点击确定和x都无法关闭此提示框","1首页点击下方商城
+2点击上方滚动图片，阿胶块
+3输入购买数量100000,点击加入购入车，弹出窗口“填写的购买数量必须大于0小于99999”，点击确定和x都无法关闭此提示框","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30290349_Screenshot_2016-06-22-17-54-35.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,8
+0,14452258,圆形V4.2.0自由测试,山西省|太原市|杏花岭区|府西街|269号,Xiaomi  HM NOTE 1W,Android 4.2.2,mobile HSPA+,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击下方聊天
+2点击好友
+3点击圆形团队
+4点击查看历史信息
+5点击圆形官网，无内容","1首页点击下方聊天
+2点击好友
+3点击圆形团队
+4点击查看历史信息
+5点击圆形官网，无内容","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30290404_Screenshot_2016-06-22-18-10-43.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,2
+0,14452258,圆形V4.2.0自由测试,山西省|太原市|杏花岭区|府西街|269号,Xiaomi  HM NOTE 1W,Android 4.2.2,mobile HSPA+,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页点击下方商城
+2点击上方滚动图片，顺丰包邮，打开毫无内容","1首页点击下方商城
+2点击上方滚动图片，顺丰包邮，打开毫无内容","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30290439_Screenshot_2016-06-22-18-19-09.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,8
+0,14452258,圆形V4.2.0自由测试,山西省|太原市|杏花岭区|府西街|269号,Xiaomi  HM NOTE 1W,Android 4.2.2,mobile HSPA+,中国联通,JH3CN0.0-e8c490ca606638294c0cd,"1首页健康点击上方滚动图片，测量抽大奖
+2新界面上方题目为精装三件套，点击下方个人中心，上方标题依然是精装三件套，购物车也有相同问题","1首页健康点击上方滚动图片，测量抽大奖
+2新界面上方题目为精装三件套，点击下方个人中心，上方标题依然是精装三件套，购物车也有相同问题","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30290510_Screenshot_2016-06-22-18-26-42.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,8
+0,14940938,圆形V4.2.0自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,1 我→梦想城→界面适配问题，向左滑动页面后，每个页面右边都被屏幕截断一部分，不能展示全。,1 我→梦想城→界面适配问题，向左滑动页面后，每个页面右边都被屏幕截断一部分，不能展示全。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257428_38346A800F8E0C6BA121CE372019D7A3.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257437_A97EAA6BF88BE5D1B1BFB2EAAA91D44F.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257443_E8772CA66560D9E4ADC83881B5037A53.JPG""]",未知,P0,审核通过,2016-06-25 10:00:03,,1
+0,14940938,圆形V4.2.0自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,2 我→每日一猜→进入每日一猜→点击图片进入2期→界面适配问题，界面下方信息被遮挡，上拉屏幕才能看到“立即竞猜”，松开手后，又快速的向下复位了。,2 我→每日一猜→进入每日一猜→点击图片进入2期→界面适配问题，界面下方信息被遮挡，上拉屏幕才能看到“立即竞猜”，松开手后，又快速的向下复位了。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257487_9F50B642210FD5CAC6B00CC74B693083.JPG""]",未知,P0,审核不通过,2016-06-23 18:51:30,,1
+0,14940938,圆形V4.2.0自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,3 我→设置→轨迹同步→修改时间后→保存，一直加载无反应，手机返回键后出现程序未响应。,3 我→设置→轨迹同步→修改时间后→保存，一直加载无反应，手机返回键后出现程序未响应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257539_D26FF6372B77BB00367D2FAFE0B35FC6.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257546_183CF33C12AF0216D6B2CE7259C883B4.JPG""]",未知,P0,审核通过,2016-06-25 10:00:03,,7
+0,14940938,圆形V4.2.0自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,"4 健康→首页banner大图""每日一猜""→界面适配，可以左右拉动。","4 健康→首页banner大图""每日一猜""→界面适配，可以左右拉动。","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257598_CDD7C4BF981FEEED1E6D0B4B8E8389DA.JPG""]",未知,P0,审核通过,2016-06-25 10:00:03,,1
+0,14940938,圆形V4.2.0自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,5 健康→健康中心→顶部banner大图“外伤出血……”→界面显示不全，右边被屏幕截断。,5 健康→健康中心→顶部banner大图“外伤出血……”→界面显示不全，右边被屏幕截断。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257629_A68A97D0C635DBDEEA48C27136AF1BED.JPG""]",未知,P0,审核通过,2016-06-25 10:00:03,,1
+0,14940938,圆形V4.2.0自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,6 健康→我的数据→”血压计“右边的引导按钮“>”点击无效。,6 健康→我的数据→”血压计“右边的引导按钮“>”点击无效。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257668_6AFA808D045DE95B0075562C13A82B07.JPG""]",未知,P0,审核通过,2016-06-25 10:00:03,,11
+0,14940938,圆形V4.2.0自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,7 健康→设备管理，添加体脂称后返回→点击体脂称→完善信息后→下一步，又跳转到了首页。,7 健康→设备管理，添加体脂称后返回→点击体脂称→完善信息后→下一步，又跳转到了首页。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257698_AEECF87C45274865E14C07C61C9FAC51.JPG"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257711_D10F2293AB010A5991AE86136E230218.JPG""]",未知,P0,审核通过,2016-06-25 10:00:03,,4
+0,14940938,圆形V4.2.0自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,8 聊天→好友→圆形团队→查看历史消息→圆形官网，点击无反应。,8 聊天→好友→圆形团队→查看历史消息→圆形官网，点击无反应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257756_82E352872D92EAD9B77A6005A25171A1.JPG""]",未知,P0,审核不通过,2016-06-23 18:54:11,,6
+0,14940938,圆形V4.2.0自由测试,河北省|石家庄市|长安区|和平东路|522号,samsung  GT-I9152,Android 4.2.2,WIFI,中国联通,JDQ39.I9152ZCUANB1,9 商城→右上角头像→我的收货地址→新增→地区定位图标点击无效。,9 商城→右上角头像→我的收货地址→新增→地区定位图标点击无效。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30257769_4E323CD7B0D384A234E5705F27B4E50D.JPG""]",未知,P0,审核通过,2016-06-25 10:00:03,,0
+0,15195321,圆形V4.2.0自由测试,湖北省|武汉市|蔡甸区|沌阳大道|357,Xiaomi  MI 3W,Android 6.0.1,WIFI,中国联通,MMB29M,打开app，注册的时候app闪退了。,打开app，注册的时候app闪退了。之后问题未复现。,[],未知,P0,审核不通过,2016-06-23 10:44:20,,9
+0,15275851,圆形V4.2.0自由测试,北京市|北京市|海淀区|学院路|7号,vivo  vivo X6D,Android 5.1,WIFI,中国联通,LMY47I release-keys,我-更换头像-头像上传成功后提示“更新失败”但头像更新成功,"1，打开软件，进入圆形
+2，点击我
+3，点击更换头像
+4，点击头像并上传","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30282298_1.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,9
+0,15275851,圆形V4.2.0自由测试,北京市|北京市|海淀区|学院路|7号,vivo  vivo X6D,Android 5.1,WIFI,中国联通,LMY47I release-keys,更换头像后在我的界面的头像还是系统自带的头像不变,"1，打开软件，进入圆形
+2，点击进入我界面
+3，点击更换头像
+4，上传头像完成后返回到我界面","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30282407_2.png""]",未知,P0,审核不通过,2016-06-23 19:03:37,,5
+0,15275851,圆形V4.2.0自由测试,北京市|北京市|海淀区|学院路|7号,vivo  vivo X6D,Android 5.1,WIFI,中国联通,LMY47I release-keys,注册第二步界面中的帐号安全的“帐”是错别字,"1，打开软件，进入圆形
+2，点击注册
+3，输入手机号及手机验证码后点击下一步","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30282523_3.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,10
+0,15453584,圆形V4.2.0自由测试,河北|石家庄,Honor  CHM-UL00,Android 4.4.2,mobile LTE,中国联通,CHM-UL00 V100R001C00B181,顶部滑动广告～梦想城活动，商城活动，两个广告点击无效。,顶部滑动广告～梦想城活动，商城活动，两个广告点击无效。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30264720_Screenshot_2016-06-22-15-47-11.jpeg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30264748_Screenshot_2016-06-22-15-47-30.jpeg""]",未知,P0,审核通过,2016-06-25 10:00:03,,8
+0,15453584,圆形V4.2.0自由测试,河北|石家庄,Honor  CHM-UL00,Android 4.4.2,mobile LTE,中国联通,CHM-UL00 V100R001C00B181,聊天～每日一猜～点击进入竞猜～右下角“了解产品”按钮点击无效。,聊天～每日一猜～点击进入竞猜～右下角“了解产品”按钮点击无效。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30264829_Screenshot_2016-06-22-15-54-46.jpeg""]",未知,P0,审核通过,2016-06-25 10:00:03,,11
+0,15453584,圆形V4.2.0自由测试,河北|石家庄,Honor  CHM-UL00,Android 4.4.2,mobile LTE,中国联通,CHM-UL00 V100R001C00B181,商城～底部“顺丰包邮”～点击进入的页面无内容，为空白页。点击右上角刷新按钮也没反应。,商城～底部“顺丰包邮”～点击进入的页面无内容，为空白页。点击右上角刷新按钮也没反应。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30264932_Screenshot_2016-06-22-15-56-45.jpeg""]",未知,P0,审核通过,2016-06-25 10:00:03,,2
+0,16563362,圆形V4.2.0自由测试,安徽省|阜阳市|颍州区|双清路|,Meizu  m2,Android 5.1,WIFI,中国移动,Flyme OS 4.5.3.2M,聊天界面的字太大了，不能调小！,聊天界面的字太大了，不能调小！手机型号魅蓝2。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30255748_S60622-150941.jpg""]",未知,P0,审核不通过,2016-06-23 18:45:41,,9
+0,16563362,圆形V4.2.0自由测试,安徽省|阜阳市|颍州区|双清路|,Meizu  m2,Android 5.1,WIFI,中国移动,Flyme OS 4.5.3.2M,点击“立即支付”没有出现任何支付界面！,点击“立即支付”没有出现任何支付界面！手机型号魅蓝2。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30256447_S60622-151509.jpg""]",未知,P0,审核不通过,2016-06-23 18:48:15,,5
+0,16634886,圆形V4.2.0自由测试,河南省|洛阳市|洛龙区|隋唐园北路|,Honor  CHE-TL00H,Android 5.0.2,WIFI,中国联通,CHE-TL00HC00B250,【聊天】有新信息，点击图标上的1，没反应、,【聊天】有新信息后，在主页下面点击图标上的会有1，点击【聊天】按钮没反应、华为荣耀4x安卓5.02,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30263962_webwxgetmsgimg%20%282%29.jpg""]",未知,P0,审核不通过,2016-06-23 18:57:22,,3
+0,16634886,圆形V4.2.0自由测试,河南省|洛阳市|洛龙区|隋唐园北路|,Honor  CHE-TL00H,Android 5.0.2,WIFI,中国联通,CHE-TL00HC00B250,进入群，或者和别人单独聊天。对方的语音听不到,进入群，或者和别人单独聊天。对方的语音听不到。如下图，未读的语音点击没有反应。自己录制的语音可以听到。华为荣耀4x安卓5.02,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30264226_webwxgetmsgimg%20%281%29.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30264234_webwxgetmsgimg.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30264237_webwxgetmsgimg%20%286%29.jpg""]",未知,P0,审核不通过,2016-06-23 18:56:53,,3
+0,16635395,圆形V4.2.0自由测试,北京市|北京市|西城区|西便门内大街|53号院,samsung  GT-N7108D,Android 4.2.2,WIFI,无SIM卡,JDQ39.N7108DZMUAMJ2,关于中检查更新，新版本无法下载更新,"1.启动客户端，注册登录成功；
+2.进入到我->关于->检查更新->立即更新->弹出网页""http status 404""页面，无法更新","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30249185_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0622_14_29_01.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30249197_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0622_14_28_01.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,9
+0,16635395,圆形V4.2.0自由测试,北京市|北京市|西城区|西便门内大街|53号院,samsung  GT-N7108D,Android 4.2.2,WIFI,无SIM卡,JDQ39.N7108DZMUAMJ2,设置中关闭轨迹同步，客户端提示无响应,"1.启动客户端，输入用户账号和密码，正常登录；
+2.进入我->设置->轨迹同步->勾选关闭按钮保存，客户端停留在正在同步中...,稍后提示""应用程序圆形无响应，是否关闭""","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30250402_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0622_14_35_01.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30250410_360%E6%89%8B%E6%9C%BA%E5%8A%A9%E6%89%8B%E6%88%AA%E5%9B%BE0622_14_38_01.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,7
+0,16736145,圆形V4.2.0自由测试,北京市|北京市|朝阳区|西大望路|1,Xiaomi  MI NOTE LTE,Android 6.0.1,WIFI,中国移动,MMB29M,手机号码为空时没有做校验,"小米-mi note lte-android6.0.1 
+1、	点击app，进入登录页面
+2、	点击注册，不输入任何信息，点击下一步，提示：请输入验证码
+3、	输入验证码，手机号为空，提示：验证码输入有误","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30260869_1.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30260880_1-2.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,10
+0,16736145,圆形V4.2.0自由测试,北京市|北京市|朝阳区|西大望路|1,Xiaomi  MI NOTE LTE,Android 6.0.1,WIFI,中国移动,MMB29M,轨迹同步关闭或开启保存后，点击返回app崩溃无响应,"手机型号：
+小米-mi note lte-android6.0.1 
+1、	登录成功，点击 我-》头像，进入资料页面
+2、	点击 设置-》轨迹同步-》关闭
+3、	点击 保存，保存成功后，点击 返回 按钮，app崩溃","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30262203_2.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,7
+0,16736145,圆形V4.2.0自由测试,北京市|北京市|朝阳区|西大望路|1,Xiaomi  MI NOTE LTE,Android 6.0.1,WIFI,中国移动,MMB29M,反馈消息仅输入空格可以提交成功,"手机型号：
+小米-mi note lte-android6.0.1 
+1、	点击 我-》关于-》反馈建议
+2、	输入空格，点击 提交信息，提交成功","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30263433_3.jpg""]",未知,P0,审核不通过,2016-06-23 19:01:49,,10
+0,16736145,圆形V4.2.0自由测试,北京市|北京市|朝阳区|西大望路|1,Xiaomi  MI NOTE LTE,Android 6.0.1,WIFI,中国移动,MMB29M,注册页面和服务协议页面账号文字不一致：账号&帐号,"手机型号：
+小米-mi note lte-android6.0.1 
+1、	点击 注册，进入注册页面，帐号
+2、	进入服务协议，页面显示 账号","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30263884_4-1.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30263898_4-2.jpg""]",未知,P0,审核通过,2016-06-25 10:00:03,,11
+0,16736145,圆形V4.2.0自由测试,北京市|北京市|朝阳区|西大望路|1,Xiaomi  MI NOTE LTE,Android 6.0.1,WIFI,中国移动,MMB29M,数据中心数据可以输入未来数据,"手机型号：
+小米-mi note lte-android6.0.1 
+1、	点击 健康-》我的数据
+2、	点击 血压仪-》日数据
+3、	修改数据，如：2016-10-22日，保存成功，可以输入未来日期数据","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30265088_5.png""]",未知,P0,审核通过,2016-06-25 10:00:03,,11
+0,16736145,圆形V4.2.0自由测试,北京市|北京市|朝阳区|西大望路|1,Xiaomi  MI NOTE LTE,Android 6.0.1,WIFI,中国移动,MMB29M,提醒选择全部后，计划列表显示每个数据，显示不全，应该显示每天,"手机型号：
+小米-mi note lte-android6.0.1 
+1、	点击 健康-》定时计划
+2、	点击 添加计划-》输入计划名称，点击全部
+3、	点击 保存，进入计划列表页面，页面显示每个数据，显示不全，应该显示每天","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30266225_6-1.png"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30266228_6-2.png""]",未知,P0,审核不通过,2016-06-23 19:03:00,,11
+0,16736145,圆形V4.2.0自由测试,北京市|北京市|朝阳区|西大望路|1,Xiaomi  MI NOTE LTE,Android 6.0.1,WIFI,中国移动,MMB29M,菜单 我所有数据点击之后，仍然显示红点,"1、登录成功，点击 我，显示红点
+2、进入 我 页面，点击所有菜单，返回到我的页面，查看页面显示，仍然显示红点","[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30266893_7.jpg""]",未知,P0,审核通过,2016-06-25 10:00:03,,11
+0,17201968,圆形V4.2.0自由测试,海南省|海口市|龙华区|城南路|,motorola  Moto G 2014,Android 6.0.1,WIFI,中国联通,mk_titan-userdebug 6.0.1 MOB30,在我的板块，设置，估计同步功能里，点击进去随便更改一下，点保存，会卡死。这时点击手机的返回键，或者页面上的返回，都无效。只能强制关闭程序，重新进。,在我的板块，设置，估计同步功能里，点击进去随便更改一下，点保存，会卡死。这时点击手机的返回键，或者页面上的返回，都无效。只能强制关闭程序，重新进。,"[""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30264866_1.jpg"",""http:\/\/bj.bcebos.com\/json-api\/v1\/crowdtest-online\/upload\/30264876_1-1.jpg""]",未知,P0,审核通过,2016-06-25 10:00:03,,7
